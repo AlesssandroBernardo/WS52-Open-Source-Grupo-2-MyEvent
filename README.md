@@ -122,7 +122,7 @@ llevar a cabo este proyecto de forma satisfactoria.</p>
     <li>¿Qué medidas de seguridad y privacidad consideras esenciales al utilizar una plataforma de venta de entradas para tus eventos?</li>
 </ol>
 
-<h5>Preguntas para Compradores Potenciales:</h5>
+<h5>Preguntas para Compradores de Entradas:</h5>
 <ol>
     <li>¿Con qué frecuencia asistes a eventos como conciertos, festivales o espectáculos en vivo?</li>
     <li>¿Qué te motiva a comprar entradas para un evento en particular?</li>

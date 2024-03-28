@@ -108,6 +108,34 @@ llevar a cabo este proyecto de forma satisfactoria.</p>
     
 <h2>2.2 Entrevistas</h2>
 <h3>2.2.1 Diseño de entrevistas</h3>
+<h5>Preguntas para Organizadores de Eventos:</h5>
+<ol>
+    <li>¿Qué desafíos enfrentas al promocionar y vender entradas para tus eventos actualmente?</li>
+    <li>¿Cómo sueles gestionar la venta de entradas para tus eventos?</li>
+    <li>¿Qué funcionalidades te gustaría ver en una plataforma de venta de entradas para facilitar la organización de tus eventos?</li>
+    <li>¿Qué criterios consideras al elegir una plataforma para vender tus entradas?</li>
+    <li>¿Qué tipo de soporte o asistencia esperarías de una plataforma de venta de entradas?</li>
+    <li>¿Qué estrategias utilizas para atraer a un público más amplio a tus eventos?</li>
+    <li>¿Qué tan importante es para ti tener acceso a datos y análisis sobre la venta de entradas y la asistencia a tus eventos?</li>
+    <li>¿Alguna vez te ha pasado que has vendido todas las entradas para algún evento y a la hora del show no estaba lleno? y si pasó eso. ¿Cómo te sentiste?</li>
+    <li>¿Cómo te sientes acerca de compartir información sobre tus eventos en una plataforma online?</li>
+    <li>¿Qué medidas de seguridad y privacidad consideras esenciales al utilizar una plataforma de venta de entradas para tus eventos?</li>
+</ol>
+
+<h5>Preguntas para Compradores Potenciales:</h5>
+<ol>
+    <li>¿Con qué frecuencia asistes a eventos como conciertos, festivales o espectáculos en vivo?</li>
+    <li>¿Qué te motiva a comprar entradas para un evento en particular?</li>
+    <li>¿Qué aspectos consideras más importantes al elegir dónde comprar tus entradas?</li>
+    <li>¿Has tenido alguna experiencia negativa al comprar entradas para eventos en el pasado?</li>
+    <li>¿Qué funcionalidades te gustaría ver en una plataforma de venta de entradas para mejorar tu experiencia como comprador?</li>
+    <li>¿Qué tan importante es para ti tener acceso a información detallada sobre los eventos y las entradas disponibles?</li>
+    <li>¿Qué opinas sobre la posibilidad de obtener recompensas o descuentos por asistir a eventos de manera regular?</li>
+    <li>¿Prefieres comprar tus entradas directamente del organizador del evento o a través de una plataforma de venta de entradas?</li>
+    <li>¿Qué tan importante es para ti tener opciones de pago seguras y convenientes al comprar entradas para eventos?</li>
+    <li>¿Qué medidas de seguridad y privacidad consideras esenciales al comprar entradas en línea?</li>
+</ol>
+
 <h3>2.2.2 Registro de entrevistas</h3>
 <h3>2.2.3 Análisis de entrevistas</h3>
     

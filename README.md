@@ -105,6 +105,8 @@
 <h3>2.3.3 User Journey Mapping</h3>
 <h3>2.3.4 Empathy Mapping</h3>
 <h3>2.3.5 As-is Scenario Mapping</h3>
+<h2>2.3 Ubiquitous Language</h2>
+
     
 <h1>CAPÍTULO III: REQUIREMENTS SPECIFICATION</h1>
 <h2>3.1 To-Be Scenario Mapping</h2>

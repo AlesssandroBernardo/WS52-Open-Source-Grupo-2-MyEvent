@@ -2,6 +2,14 @@
 <h2>1.1 Startup Profile</h2>
 <h3>1.1.1 Descripción de la Startup</h3>
 <h3>1.1.2 Perfiles de integrantes del equipo</h3>
+
+<p><strong>Alessandro Joaquin Bernardo Eusebio</strong></p>
+<img src="./imagenes/Bernardo.jpg" width="200" height="200">
+<p>Soy estudiante de la carrera de Ingeniería de software en la UPC, tengo conocimientos básicos sobre programación
+ en el lenguaje de C++ y Python, conocimiento básico sobre configuración de redes y aplicación de la complejidad 
+algorítmica. Tengo además conocimientos básicos sobre ciberseguridad y fundamentos de probabilidad y sus aplicaciones
+. Siempre dispuesto a trabajar en equipo. Me considero una persona paciente y respetuosa que tiene como objetivo 
+llevar a cabo este proyecto de forma satisfactoria.</p>
     
 <h2>1.2 Solution Profile</h2>
 <h3>1.2.1 Antecedentes y problemática</h3>

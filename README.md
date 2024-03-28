@@ -4,7 +4,7 @@
 <h3>1.1.2 Perfiles de integrantes del equipo</h3>
 
 <p><strong>Alessandro Joaquin Bernardo Eusebio</strong></p>
-<img src="./imagenes/fotoBernardo.jpg" width="200" height="200" style="display: block; margin: 0 auto;">
+<img src="./imagenes/fotoBernardo.jpg" width="200" height="200">
 <p>Soy estudiante de la carrera de Ingeniería de software en la UPC, tengo conocimientos básicos sobre programación
  en el lenguaje de C++ y Python, conocimiento básico sobre configuración de redes y aplicación de la complejidad 
 algorítmica. Tengo además conocimientos básicos sobre ciberseguridad y fundamentos de probabilidad y sus aplicaciones
@@ -12,7 +12,7 @@ algorítmica. Tengo además conocimientos básicos sobre ciberseguridad y fundam
 llevar a cabo este proyecto de forma satisfactoria.</p>
 
 <p><strong>Michael Stefano Carmelino Dueñas</strong></p>
-<img src="./imagenes/MichaelCarmelino.jfif" width="200" height="200" style="display: block; margin: 0 auto;" > 
+<img src="./imagenes/MichaelCarmelino.jfif" width="200" height="200"> 
 <p>Estudio la carrera de Ingeniería de Software en la UPC, tengo conocimientos básicos en C++, Python y Java. Soy una persona que le gusta el liderazgo y organización en equipo, coordinación y poder generar un buen entorno. Ayudo a quienes lo necesiten con lo máximo que pueda. De igual forma tengo conocimientos en los que son fundamentos en Ciencia de Datos.</p>
 <h2>1.2 Solution Profile</h2>
 <h3>1.2.1 Antecedentes y problemática</h3>

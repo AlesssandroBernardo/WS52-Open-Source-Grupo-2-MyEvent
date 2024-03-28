@@ -24,6 +24,74 @@
 <h1>CAPÍTULO II: REQUIREMENTS ELICITATION & ANALYSIS</h1>
 <h2>2.1 Competidores</h2>
 <h3>2.1.1 Análisis competitivo</h3>
+<table>
+  <tr>
+    <th></th>
+    <th>Competidor A</th>
+    <th>Competidor B</th>
+    <th>Competidor C</th>
+  </tr>
+  <tr>
+    <td><strong>Overview</strong></td>
+    <td>Descripción breve del competidor A</td>
+    <td>Descripción breve del competidor B</td>
+    <td>Descripción breve del competidor C</td>
+  </tr>
+  <tr>
+    <td><strong>Ventajas Competitivas</strong></td>
+    <td>Ventajas de A</td>
+    <td>Ventajas de B</td>
+    <td>Ventajas de C</td>
+  </tr>
+  <tr>
+    <td><strong>Mercado Objetivo</strong></td>
+    <td>Mercado objetivo de A</td>
+    <td>Mercado objetivo de B</td>
+    <td>Mercado objetivo de C</td>
+  </tr>
+  <tr>
+    <td><strong>Estrategias de Marketing</strong></td>
+    <td>Estrategias de marketing de A</td>
+    <td>Estrategias de marketing de B</td>
+    <td>Estrategias de marketing de C</td>
+  </tr>
+  <tr>
+    <td><strong>Productos & Servicios</strong></td>
+    <td>Productos y servicios de A</td>
+    <td>Productos y servicios de B</td>
+    <td>Productos y servicios de C</td>
+  </tr>
+  <tr>
+    <td><strong>Precios & Costos</strong></td>
+    <td>Precios y costos de A</td>
+    <td>Precios y costos de B</td>
+    <td>Precios y costos de C</td>
+  </tr>
+  <tr>
+    <td><strong>Canales de Distribución</strong></td>
+    <td>Canales de distribución de A</td>
+    <td>Canales de distribución de B</td>
+    <td>Canales de distribución de C</td>
+  </tr>
+  <tr>
+    <td><strong>Fortalezas</strong></td>
+    <td>Fortalezas de A</td>
+    <td>Fortalezas de B</td>
+    <td>Fortalezas de C</td>
+  </tr>
+  <tr>
+    <td><strong>Debilidades</strong></td>
+    <td>Debilidades de A</td>
+    <td>Debilidades de B</td>
+    <td>Debilidades de C</td>
+  </tr>
+  <tr>
+    <td><strong>Oportunidades</strong></td>
+    <td>Oportunidades de A</td>
+    <td>Oportunidades de B</td>
+    <td>Oportunidades de C</td>
+  </tr>
+</table>
 <h3>2.1.2 Estrategias y tácticas frente a competidores</h3>
     
 <h2>2.2 Entrevistas</h2>

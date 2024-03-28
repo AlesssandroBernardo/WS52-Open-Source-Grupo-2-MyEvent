@@ -1,6 +1,7 @@
 <h1>CAPÍTULO I: INTRODUCCIÓN</h1>
 <h2>1.1 Startup Profile</h2>
 <h3>1.1.1 Descripción de la Startup</h3>
+<p>Nuestra startup ofrece una plataforma de venta de entradas centrada en usuarios y organizadores de eventos. Proporcionamos una amplia gama de eventos y funcionalidades como registro de usuarios, creación de eventos y venta de entradas. Nuestro enfoque en la satisfacción del cliente se refleja en nuestras políticas de recompensas y membresías premium. Con un modelo de negocio transparente, estamos transformando la experiencia de descubrir y participar en eventos.</p>
 <h3>1.1.2 Perfiles de integrantes del equipo</h3>
 
 <p><strong>Alessandro Joaquin Bernardo Eusebio</strong></p>

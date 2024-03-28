@@ -10,7 +10,9 @@
 algorítmica. Tengo además conocimientos básicos sobre ciberseguridad y fundamentos de probabilidad y sus aplicaciones
 . Siempre dispuesto a trabajar en equipo. Me considero una persona paciente y respetuosa que tiene como objetivo 
 llevar a cabo este proyecto de forma satisfactoria.</p>
-    
+
+<p><strong>Michael Stefano Carmelino Dueñas</strong></p>
+<img src="./imagenes/MichaelCarmelino.jfif" width="200" height="200"> 
 <h2>1.2 Solution Profile</h2>
 <h3>1.2.1 Antecedentes y problemática</h3>
 <h4>1.2.1.1 What?</h4>

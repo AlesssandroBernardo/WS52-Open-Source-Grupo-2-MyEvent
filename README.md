@@ -32,19 +32,19 @@ llevar a cabo este proyecto de forma satisfactoria.</p>
     
 <h3>1.2.2 Lean UX Process</h3>
 <h4>1.2.2.1 Lean UX Problem Statements</h4>
-<p>Dificultad para encontrar eventos relevantes: 
+<p>Dificultad para encontrar eventos relevantes: <br>
  Los usuarios tienen dificultades para encontrar eventos ajustados a sus intereses y preferencias dentro de una variedad de espectáculos.
 
-Desconfianza en la autenticidad de las entradas:
+Desconfianza en la autenticidad de las entradas:<br>
 Los usuarios se preocupan por la autenticidad de las entradas compradas en línea, por ese motivo, existe desconfianza en el proceso de compra.
 
-Acceso limitado a eventos exclusivos para revendedores:
+Acceso limitado a eventos exclusivos para revendedores:<br>
 Los revendedores enfrentan desafíos para acceder a eventos exclusivo debido a la falta de acceso temprano, por lo cual perderían oportunidades.
 
-Falta de opciones para usuarios empresariales:
+Falta de opciones para usuarios empresariales:<br>
 Los organizadores de eventos no cuentan con plataformas efectivas donde crear, gestionar y promocionar sus eventos recreativos.
 
-Complejidad en la compra de entradas:
+Complejidad en la compra de entradas:<br>
  los usuarios experimentan frustraciones, esto se debe al proceso complicado que conlleva la compra de entradas, como la falta de información clara de los precios y la disponibilidad, y la seguridad en las transacciones.
  </p>
 <h4>1.2.2.2 Lean UX Assumptions</h4>

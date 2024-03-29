@@ -32,8 +32,7 @@ llevar a cabo este proyecto de forma satisfactoria.</p>
     
 <h3>1.2.2 Lean UX Process</h3>
 <h4>1.2.2.1 Lean UX Problem Statements</h4>
-<p>Lean UX Problem Statements:
-Dificultad para encontrar eventos relevantes: 
+<p>Dificultad para encontrar eventos relevantes: 
  Los usuarios tienen dificultades para encontrar eventos ajustados a sus intereses y preferencias dentro de una variedad de espectáculos.
 
 Desconfianza en la autenticidad de las entradas:
@@ -49,8 +48,7 @@ Complejidad en la compra de entradas:
  los usuarios experimentan frustraciones, esto se debe al proceso complicado que conlleva la compra de entradas, como la falta de información clara de los precios y la disponibilidad, y la seguridad en las transacciones.
  </p>
 <h4>1.2.2.2 Lean UX Assumptions</h4>
-<p>Lean UX Assumptions:
-Los usuarios prefieren una experiencia de compra intuitiva: 
+<p>Los usuarios prefieren una experiencia de compra intuitiva: 
 suponemos que los usuarios prefieren una interfaz de usuario intuitiva que les permita navegar fácilmente por los eventos, ver los detalles de los precios y la disponibilidad de entrada, además, realizar transacciones de forma rápida y segura.
 
 Los usuarios valoran la variedad de eventos:

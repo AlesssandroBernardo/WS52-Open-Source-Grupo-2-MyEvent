@@ -48,22 +48,22 @@ Complejidad en la compra de entradas:<br>
  los usuarios experimentan frustraciones, esto se debe al proceso complicado que conlleva la compra de entradas, como la falta de información clara de los precios y la disponibilidad, y la seguridad en las transacciones.
  </p>
 <h4>1.2.2.2 Lean UX Assumptions</h4>
-<p>Los usuarios prefieren una experiencia de compra intuitiva: 
+<p>Los usuarios prefieren una experiencia de compra intuitiva: <br>
 suponemos que los usuarios prefieren una interfaz de usuario intuitiva que les permita navegar fácilmente por los eventos, ver los detalles de los precios y la disponibilidad de entrada, además, realizar transacciones de forma rápida y segura.
 
-Los usuarios valoran la variedad de eventos:
+Los usuarios valoran la variedad de eventos:<br>
 Suponemos que los usuarios valoran tener acceso a una diversidad de eventos, para satisfacer sus intereses y preferencia.
 
-Los organizadores buscan herramientas eficientes de gestión de eventos:
+Los organizadores buscan herramientas eficientes de gestión de eventos:<br>
 Suponemos que los organizadores de eventos valoran una plataforma que les brinde herramientas eficientes para crear, gestionar y promocionar sus eventos de manera efectiva, incluyendo procesos de revisión y aprobación para garantizar la calidad de los eventos publicados.
 
-La es seguridad en las transacciones es clave:
+La es seguridad en las transacciones es clave:<br>
 Suponemos que los usuarios consideran importante la seguridad en las transacciones al comprar las entradas por medio de una página web, además de la autenticidad de las entradas y la protección de sus datos financieros.
 
- Ofrecer Descuentos en Compras Futuras Aumenta la Retención de Usuarios:
+ Ofrecer Descuentos en Compras Futuras Aumenta la Retención de Usuarios:<br>
 Se asume que proporcionar descuentos en compras futuras de entradas para eventos ayudara a mejorar las tasas de retención de usuarios al incentivarlos a volver a la plataforma para transacciones posteriores.
 
-Programas de Fidelización Mejoran la Experiencia del Usuario: 
+Programas de Fidelización Mejoran la Experiencia del Usuario: <br>
 Se asume que implementar un programa de fidelización con acumulación y canje de puntos va a mejorar la experiencia del usuario al ofrecer recompensas por el compromiso continuo con la plataforma.
 </p>
 <h4>1.2.2.3 Lean UX Hypothesis Statements</h4>

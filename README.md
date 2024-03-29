@@ -32,7 +32,42 @@ llevar a cabo este proyecto de forma satisfactoria.</p>
     
 <h3>1.2.2 Lean UX Process</h3>
 <h4>1.2.2.1 Lean UX Problem Statements</h4>
+<p>Lean UX Problem Statements:
+Dificultad para encontrar eventos relevantes: 
+ Los usuarios tienen dificultades para encontrar eventos ajustados a sus intereses y preferencias dentro de una variedad de espectáculos.
+
+Desconfianza en la autenticidad de las entradas:
+Los usuarios se preocupan por la autenticidad de las entradas compradas en línea, por ese motivo, existe desconfianza en el proceso de compra.
+
+Acceso limitado a eventos exclusivos para revendedores:
+Los revendedores enfrentan desafíos para acceder a eventos exclusivo debido a la falta de acceso temprano, por lo cual perderían oportunidades.
+
+Falta de opciones para usuarios empresariales:
+Los organizadores de eventos no cuentan con plataformas efectivas donde crear, gestionar y promocionar sus eventos recreativos.
+
+Complejidad en la compra de entradas:
+ los usuarios experimentan frustraciones, esto se debe al proceso complicado que conlleva la compra de entradas, como la falta de información clara de los precios y la disponibilidad, y la seguridad en las transacciones.
+ </p>
 <h4>1.2.2.2 Lean UX Assumptions</h4>
+<p>Lean UX Assumptions:
+Los usuarios prefieren una experiencia de compra intuitiva: 
+suponemos que los usuarios prefieren una interfaz de usuario intuitiva que les permita navegar fácilmente por los eventos, ver los detalles de los precios y la disponibilidad de entrada, además, realizar transacciones de forma rápida y segura.
+
+Los usuarios valoran la variedad de eventos:
+Suponemos que los usuarios valoran tener acceso a una diversidad de eventos, para satisfacer sus intereses y preferencia.
+
+Los organizadores buscan herramientas eficientes de gestión de eventos:
+Suponemos que los organizadores de eventos valoran una plataforma que les brinde herramientas eficientes para crear, gestionar y promocionar sus eventos de manera efectiva, incluyendo procesos de revisión y aprobación para garantizar la calidad de los eventos publicados.
+
+La es seguridad en las transacciones es clave:
+Suponemos que los usuarios consideran importante la seguridad en las transacciones al comprar las entradas por medio de una página web, además de la autenticidad de las entradas y la protección de sus datos financieros.
+
+ Ofrecer Descuentos en Compras Futuras Aumenta la Retención de Usuarios:
+Se asume que proporcionar descuentos en compras futuras de entradas para eventos ayudara a mejorar las tasas de retención de usuarios al incentivarlos a volver a la plataforma para transacciones posteriores.
+
+Programas de Fidelización Mejoran la Experiencia del Usuario: 
+Se asume que implementar un programa de fidelización con acumulación y canje de puntos va a mejorar la experiencia del usuario al ofrecer recompensas por el compromiso continuo con la plataforma.
+</p>
 <h4>1.2.2.3 Lean UX Hypothesis Statements</h4>
 <h4>1.2.2.4 Lean UX Canvas</h4>
     

@@ -20,6 +20,10 @@ llevar a cabo este proyecto de forma satisfactoria.</p>
 <img src="./imagenes/fotoPiero.jpg" width="200" height="200">
 <p>Soy estudiante de Ingeniería de Software en la UPC. Me considero una persona entusiasta y muy creativa, predispuesta a trabajar en proyectos relacionados con la tecnología. Cuento con conocimiento basico en lenguajes de programación como python y java, además de un buen nivel en HTML y CSS. Me gusta trabajar en equipo y siempre trato de mejorar como persona cada día.</p>
 
+<p><strong>Luis Alejandro Zárate Gamarra</strong></p>
+<img src="./imagenes/AlejandroZarate.jpeg" width="200" height="290">
+<p>Soy estudiante de Ingeniería de Software en la UPC y cuento con conocimientos intermedios en los lenguajes de JavaScript, Python y C++. Me considero una persona responsalbe y empática, con capacidad para trabajar bajo presión y de forma colaborativa. Durante el transcurso de mi desarrollo me interesa cada vez más involucrar mis conocimientos en el ámbito educativo. Me gusta realizar actividades sociales y disfrutar el tiempo con amigos y familia.</p>
+
 <h2>1.2 Solution Profile</h2>
 <h3>1.2.1 Antecedentes y problemática</h3>
 <h4>1.2.1.1 What?</h4>
@@ -79,79 +83,86 @@ Se asume que implementar un programa de fidelización con acumulación y canje d
 <h4>1.2.2.4 Lean UX Canvas</h4>
    
 <img src="./imagenes/Lean%20UX%20Canvas.png"> 
+
 <h2>1.3 Segmentos objetivo</h2>
-    
-<h1>CAPÍTULO II: REQUIREMENTS ELICITATION & ANALYSIS</h1>
+
+<h1>CAPÍTULO II: REQUISITOS DE ELICITACIÓN Y ANÁLISIS</h1>
 <h2>2.1 Competidores</h2>
 <h3>2.1.1 Análisis competitivo</h3>
 <table>
+    <tr>
+        <th>¿Por qué llevar a cabo este análisis?</th>
+        <th colspan="4">El análisis competitivo es fundamental para comprender el entorno en el que opera nuestro proyecto. Nos permite identificar las fortalezas, debilidades, oportunidades y amenazas de nuestros competidores, lo que a su vez nos ayuda a tomar decisiones estratégicas informadas para mejorar nuestra posición en el mercado y desarrollar ventajas competitivas.</th>        
+    </tr>
   <tr>
     <th></th>
-    <th>Competidor A</th>
-    <th>Competidor B</th>
-    <th>Competidor C</th>
+    <th>Teleticket</th>
+    <th>Passline</th>
+    <th>Joinnus</th>
   </tr>
   <tr>
     <td><strong>Overview</strong></td>
-    <td>Descripción breve del competidor A</td>
-    <td>Descripción breve del competidor B</td>
-    <td>Descripción breve del competidor C</td>
+    <td>Teleticket es una plataforma líder en la venta de entradas para eventos en Perú. Ofrece una amplia gama de servicios relacionados con la venta de boletos para conciertos, obras de teatro, eventos deportivos y más.</td>
+    <td>Passline es una plataforma de venta de entradas que se enfoca en la facilidad de uso y la integración con redes sociales. Ofrece una experiencia de compra rápida y sencilla para los usuarios.</td>
+    <td>Joinnus es una plataforma de eventos que no solo se centra en la venta de entradas, sino que también proporciona información detallada sobre eventos culturales, deportivos y de entretenimiento en Perú.</td>
   </tr>
   <tr>
     <td><strong>Ventajas Competitivas</strong></td>
-    <td>Ventajas de A</td>
-    <td>Ventajas de B</td>
-    <td>Ventajas de C</td>
+    <td>Gran experiencia en el mercado local, asociaciones sólidas con organizadores de eventos, diversidad de eventos disponibles.</td>
+    <td>Facilidad de uso de la plataforma, integración con redes sociales, enfoque en la experiencia del usuario.</td>
+    <td>Amplia variedad de eventos, información detallada y reseñas de eventos, comunidad activa de usuarios.</td>
   </tr>
   <tr>
     <td><strong>Mercado Objetivo</strong></td>
-    <td>Mercado objetivo de A</td>
-    <td>Mercado objetivo de B</td>
-    <td>Mercado objetivo de C</td>
+    <td>Principalmente público local interesado en una amplia gama de eventos culturales y deportivos.</td>
+    <td>Usuarios que buscan una experiencia de compra rápida y sencilla, con una inclinación hacia la tecnología y las redes sociales.</td>
+    <td>Personas interesadas en descubrir nuevos eventos culturales, deportivos y de entretenimiento en Perú, con una mentalidad más exploratoria.</td>
   </tr>
   <tr>
     <td><strong>Estrategias de Marketing</strong></td>
-    <td>Estrategias de marketing de A</td>
-    <td>Estrategias de marketing de B</td>
-    <td>Estrategias de marketing de C</td>
+    <td>Campañas publicitarias locales, colaboraciones con organizadores de eventos, promociones especiales.</td>
+    <td>Marketing en redes sociales, promoción de la facilidad de uso, campañas de influencer marketing.</td>
+    <td>Contenido en línea relevante, colaboraciones con artistas y organizadores de eventos, estrategias de SEO.</td>
   </tr>
   <tr>
     <td><strong>Productos & Servicios</strong></td>
-    <td>Productos y servicios de A</td>
-    <td>Productos y servicios de B</td>
-    <td>Productos y servicios de C</td>
+    <td>Venta de entradas para una amplia gama de eventos, servicios de reserva de asientos, opciones de entrega de boletos.</td>
+    <td>Venta de entradas en línea, reserva de boletos, integración con redes sociales para compartir eventos.</td>
+    <td>Venta de entradas, información detallada sobre eventos, reseñas de usuarios, recomendaciones personalizadas.</td>
   </tr>
   <tr>
     <td><strong>Precios & Costos</strong></td>
-    <td>Precios y costos de A</td>
-    <td>Precios y costos de B</td>
-    <td>Precios y costos de C</td>
+    <td>Precios competitivos con tarifas de servicio estándar en la industria del entretenimiento en vivo.</td>
+    <td>Comisiones de servicio transparentes, posibles descuentos por compras a través de la plataforma.</td>
+    <td>Comisiones de servicio competitivas, posibles ofertas y promociones para usuarios frecuentes.</td>
   </tr>
   <tr>
     <td><strong>Canales de Distribución</strong></td>
-    <td>Canales de distribución de A</td>
-    <td>Canales de distribución de B</td>
-    <td>Canales de distribución de C</td>
+    <td>Venta en línea a través del sitio web, puntos de venta físicos en locales asociados.</td>
+    <td>Plataforma en línea accesible desde dispositivos móviles y computadoras, integración con redes sociales.</td>
+    <td>Sitio web, aplicaciones móviles para iOS y Android, redes sociales, boletines informativos.</td>
   </tr>
   <tr>
     <td><strong>Fortalezas</strong></td>
-    <td>Fortalezas de A</td>
-    <td>Fortalezas de B</td>
-    <td>Fortalezas de C</td>
+    <td>Reconocimiento de marca, experiencia en el mercado, asociaciones estratégicas.</td>
+    <td>Facilidad de uso, integración con redes sociales, enfoque en la experiencia del usuario.</td>
+    <td>Amplia variedad de eventos, información detallada, comunidad activa de usuarios.</td>
   </tr>
   <tr>
     <td><strong>Debilidades</strong></td>
-    <td>Debilidades de A</td>
-    <td>Debilidades de B</td>
-    <td>Debilidades de C</td>
+    <td>Puede carecer de innovación tecnológica, posible falta de enfoque en la experiencia del usuario.</td>
+    <td>Puede ser percibido como menos establecido en comparación con competidores más antiguos, posibles limitaciones en la diversidad de eventos.</td>
+    <td>Menos reconocimiento de marca en comparación con competidores establecidos, posibles dificultades para atraer a usuarios más tradicionales.</td>
   </tr>
   <tr>
     <td><strong>Oportunidades</strong></td>
-    <td>Oportunidades de A</td>
-    <td>Oportunidades de B</td>
-    <td>Oportunidades de C</td>
+    <td>Expansión a nuevos mercados, innovación tecnológica, colaboraciones estratégicas.</td>
+    <td>Crecimiento en la base de usuarios a través de campañas de marketing en redes sociales, expansión internacional.</td>
+    <td>Desarrollo de nuevas características en la plataforma, asociaciones con organizadores de eventos emergentes.</td>
   </tr>
 </table>
+
+
 <h3>2.1.2 Estrategias y tácticas frente a competidores</h3>
     
 <h2>2.2 Entrevistas</h2>

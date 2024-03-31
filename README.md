@@ -335,6 +335,90 @@ Se asume que implementar un programa de fidelización con acumulación y canje d
 
 <h2>3.3 Impact Mapping</h2>
 <h2>3.4 Product Backlog</h2>
+<table>
+  <thead>
+    <tr>
+      <th># Orden</th>
+      <th>User Story ID</th>
+      <th>Título</th>
+      <th>Descripción</th>
+      <th>Story Points</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>EP01</td>
+      <td>Autenticación de usuario</td>
+      <td>Como usuario quiero registrarme e iniciar sesión Para acceder a la aplicación PetPal</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>EP02</td>
+      <td>Creación de eventos</td>
+      <td>Como organizador de eventos Quiero poder crear y publicar eventos en la plataforma Para promover mi evento y vender entradas</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>EP03</td>
+      <td>Exploración de eventos</td>
+      <td>Como usuario interesado en eventos Quiero poder buscar y filtrar eventos disponibles Para encontrar eventos que me interesen</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>EP04</td>
+      <td>Compra de entradas</td>
+      <td>Como comprador de entradas Quiero poder seleccionar y comprar entradas Para asegurar mi participación en eventos</td>
+      <td>8</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>EP05</td>
+      <td>Opción Premium para Revendedores</td>
+      <td>Como revendedor Quiero tener una opción premium Para obtener ventajas sobre otros compradores</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>EP06</td>
+      <td>Transferencia de Entradas</td>
+      <td>Como usuario que ya ha comprado entradas Quiero poder transferirlas a otros usuarios Para permitir que otros disfruten del evento</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>EP07</td>
+      <td>Membresía de Descuentos Periódicos</td>
+      <td>Como usuario fiel a la plataforma Quiero recibir descuentos especiales periódicamente Para incentivar mi participación continua</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>EP08</td>
+      <td>Membresía de Concursos y Sorteos Exclusivos</td>
+      <td>Como miembro de la plataforma, quiero participar en concursos y sorteos exclusivos para ganar entradas gratuitas y experiencias VIP, para disfrutar de beneficios adicionales y experiencias únicas.</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>EP09</td>
+      <td>Membresía de Contenido Exclusivo</td>
+      <td>Como suscriptor premium, quiero tener acceso a contenido exclusivo relacionado con eventos, como transmisiones en vivo y entrevistas detrás de escena, para disfrutar de una experiencia más completa y enriquecedora.</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>EP10</td>
+      <td>Membresía de Prioridad en Servicio al Cliente</td>
+      <td>Como usuario premium, quiero recibir atención prioritaria en el servicio al cliente, con tiempos de respuesta más rápidos y asistencia personalizada, para sentirme valorado y apoyado como cliente leal.</td>
+      <td>3</td>
+    </tr>
+  </tbody>
+</table>
+
     
 <h1>CAPÍTULO IV: PRODUCT UX/UI DESIGN</h1>
 <h2>4.1 Style Guidelines</h2>

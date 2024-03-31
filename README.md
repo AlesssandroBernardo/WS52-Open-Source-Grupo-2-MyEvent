@@ -164,6 +164,14 @@ Se asume que implementar un programa de fidelización con acumulación y canje d
 
 
 <h3>2.1.2 Estrategias y tácticas frente a competidores</h3>
+
+<p>Considerando el rubro de eventos y los competidores en el mercado, hemos delineado las siguientes estrategias clave:</p>
+<ol>
+    <li><strong>Enfoque en la diversidad de eventos:</strong> Nos centraremos en ofrecer una amplia variedad de eventos para satisfacer los diferentes gustos e intereses de nuestro público objetivo. Esto nos diferenciará de competidores que pueden tener un catálogo más limitado de eventos.</li>
+    <li><strong>Promoción de eventos exclusivos:</strong> Organizaremos y promocionaremos eventos exclusivos que no estén disponibles en otras plataformas. Esto atraerá a usuarios que buscan experiencias únicas y diferenciadas.</li>
+    <li><strong>Optimización para dispositivos móviles:</strong> Nos aseguraremos de que nuestra plataforma sea completamente compatible y fácil de usar en dispositivos móviles, lo que permitirá a los usuarios comprar entradas sobre la marcha. Esta facilidad de acceso puede ser una ventaja sobre competidores que pueden no tener una experiencia móvil tan fluida.</li>
+    <li><strong>Colaboraciones con organizadores de eventos locales:</strong> Estableceremos relaciones sólidas con organizadores de eventos locales para ofrecer promociones especiales y acceso exclusivo a nuestros usuarios. Esto nos ayudará a fortalecer nuestra presencia en la comunidad y atraer a más usuarios a nuestra plataforma.</li>
+</ol>
     
 <h2>2.2 Entrevistas</h2>
 <h3>2.2.1 Diseño de entrevistas</h3>

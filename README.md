@@ -242,7 +242,7 @@ Se asume que implementar un programa de fidelización con acumulación y canje d
     <tr>
       <td>EP01</td>
       <td>Autenticación de usuario</td>
-      <td>Como usuario Quiero registrarme e iniciar sesión Para acceder a la aplicación PetPal</td>
+      <td>Como usuario Quiero registrarme e iniciar sesión Para acceder a la aplicación MyEvent</td>
       <td>El usuario puede registrar una cuenta nueva con su información personal.
           El usuario puede iniciar sesión con su nombre de usuario y contraseña.
           El usuario recibirá un mensaje de error si el inicio de sesión falla.</td>
@@ -350,7 +350,7 @@ Se asume que implementar un programa de fidelización con acumulación y canje d
       <td>1</td>
       <td>EP01</td>
       <td>Autenticación de usuario</td>
-      <td>Como usuario quiero registrarme e iniciar sesión Para acceder a la aplicación PetPal</td>
+      <td>Como usuario quiero registrarme e iniciar sesión Para acceder a MyEvent</td>
       <td>3</td>
     </tr>
     <tr>

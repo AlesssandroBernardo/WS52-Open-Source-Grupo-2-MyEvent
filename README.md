@@ -67,6 +67,15 @@ Programas de Fidelización Mejoran la Experiencia del Usuario: <br>
 Se asume que implementar un programa de fidelización con acumulación y canje de puntos va a mejorar la experiencia del usuario al ofrecer recompensas por el compromiso continuo con la plataforma.
 </p>
 <h4>1.2.2.3 Lean UX Hypothesis Statements</h4>
+<p><span style="color:black;">Hypothesis</span> 1: Si se implementa un sistema de recomendación de eventos fácil de usar, adaptado a los intereses y preferencias de los usuarios, entonces los usuarios encontrarán más fácilmente descubrir eventos relevantes en medio de una variedad de espectáculos..</p>
+
+<p><span style="color:black;">Hypothesis</span> 2: Si una plataforma de compra de boletos en línea implementa medidas robustas de autenticación y garantiza la autenticidad de los boletos, entonces la confianza de los usuarios en el proceso de compra aumentará, aliviando preocupaciones sobre boletos fraudulentos.</p>
+
+<p><span style="color:black;">Hypothesis</span> 3:  Si a los revendedores se les otorga acceso anticipado a eventos exclusivos a través de una plataforma dedicada, entonces tendrán mayores oportunidades de adquirir boletos y posteriormente expandir su negocio, reduciendo la probabilidad de oportunidades perdidas.</p>
+
+<p><span style="color:black;">Hypothesis</span> 4:Si se desarrolla una plataforma efectiva específicamente para que los organizadores creen, gestionen y promocionen eventos recreativos, entonces las empresas tendrán mejores opciones para mostrar sus eventos, lo que potencialmente conducirá a una mayor participación y ingresos.</p>
+
+<p><span style="color:black;">Hypothesis</span> 5:  Si se simplifica el proceso de compra de boletos con información clara sobre precios y disponibilidad, así como una seguridad de transacción mejorada, entonces los usuarios experimentarán menos frustración y mayor confianza al realizar compras de boletos, lo que en última instancia llevará a tasas de conversión más altas.</p>
 <h4>1.2.2.4 Lean UX Canvas</h4>
     
 <h2>1.3 Segmentos objetivo</h2>

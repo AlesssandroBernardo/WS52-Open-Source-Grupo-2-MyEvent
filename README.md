@@ -77,7 +77,44 @@ Se asume que implementar un programa de fidelización con acumulación y canje d
 
 <p><span>Hypothesis</span> 5: Si se simplifica el proceso de compra de boletos con información clara sobre precios y disponibilidad, así como una seguridad de transacción mejorada, entonces los usuarios experimentarán menos frustración y mayor confianza al realizar compras de boletos, lo que en última instancia llevará a tasas de conversión más altas.</p>
 <h4>1.2.2.4 Lean UX Canvas</h4>
-    
+    <table>
+  <tr>
+    <th>Categoría</th>
+    <th>Información</th>
+  </tr>
+  <tr>
+    <td>Problema de Negocio</td>
+    <td>Los usuarios enfrentan dificultades para encontrar eventos relevantes y auténticos, además de experimentar frustraciones en el proceso de compra de entradas en línea.</td>
+  </tr>
+  <tr>
+    <td>Ideas de Solución</td>
+    <td>Implementar un sistema de recomendación de eventos adaptado a los intereses y preferencias de los usuarios.<br>Mejorar las medidas de autenticación y garantizar la autenticidad de las entradas en la plataforma de compra de boletos en línea.<br>Proporcionar acceso anticipado a eventos exclusivos para revendedores a través de una plataforma dedicada.<br>Desarrollar una plataforma efectiva para que los organizadores creen, gestionen y promocionen eventos recreativos.<br>Simplificar el proceso de compra de boletos con información clara sobre precios, disponibilidad y seguridad de transacción mejorada.</td>
+  </tr>
+  <tr>
+    <td>Resultados de Negocio</td>
+    <td>Aumento en la participación y la retención de usuarios.<br>Incremento en las ventas de boletos.<br>Mejora en la reputación y confianza de la plataforma.</td>
+  </tr>
+  <tr>
+    <td>Usuarios y Clientes</td>
+    <td>Organizadores de eventos.<br>Usuarios finales que compran boletos para eventos.</td>
+  </tr>
+  <tr>
+    <td>Beneficios para el Usuario</td>
+    <td>Acceso fácil a eventos relevantes y auténticos.<br>Proceso de compra de boletos simplificado y seguro.<br>Oportunidades mejoradas para revendedores.<br>Plataforma eficiente para organizadores de eventos.</td>
+  </tr>
+  <tr>
+    <td>Declaraciones de Hipótesis</td>
+    <td>Si se implementa un sistema de recomendación de eventos fácil de usar y adaptado a los intereses de los usuarios, entonces encontrarán más fácilmente eventos relevantes.<br>Si se mejora la autenticidad de las entradas y se implementan medidas robustas de autenticación, entonces la confianza de los usuarios en el proceso de compra aumentará.<br>Si se proporciona acceso anticipado a eventos exclusivos para revendedores, entonces se reducirá la probabilidad de oportunidades perdidas.<br>Si se desarrolla una plataforma efectiva para que los organizadores gestionen eventos, entonces habrá un aumento en la participación y los ingresos.<br>Si se simplifica el proceso de compra de boletos con información clara y seguridad mejorada, entonces se experimentará una mayor confianza y tasas de conversión más altas.</td>
+  </tr>
+  <tr>
+    <td>¿Qué es lo más importante que necesitamos aprender primero?</td>
+    <td>Es crucial comprender las preferencias y comportamientos de los usuarios al buscar eventos, así como identificar los principales puntos de fricción en el proceso de compra de boletos en línea.</td>
+  </tr>
+  <tr>
+    <td>¿Cuál es la menor cantidad de trabajo que necesitamos hacer para aprender lo siguiente importante?</td>
+    <td>Se deben realizar pruebas de usuario y análisis de datos para identificar rápidamente los aspectos más problemáticos del proceso de compra de boletos y priorizar las mejoras en función de su impacto potencial en la experiencia del usuario y en los resultados del negocio. Esto puede incluir la implementación de prototipos rápidos, encuestas y análisis de métricas clave de rendimiento.</td>
+  </tr>
+</table>
 <h2>1.3 Segmentos objetivo</h2>
     
 <h1>CAPÍTULO II: REQUIREMENTS ELICITATION & ANALYSIS</h1>

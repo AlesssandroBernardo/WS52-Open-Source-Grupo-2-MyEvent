@@ -182,6 +182,7 @@ Se asume que implementar un programa de fidelización con acumulación y canje d
     <td colspan="2">Se deben realizar pruebas de usuario y análisis de datos para identificar rápidamente los aspectos más problemáticos del proceso de compra de boletos y priorizar las mejoras en función de su impacto potencial en la experiencia del usuario y en los resultados del negocio. Esto puede incluir la implementación de prototipos rápidos, encuestas y análisis de métricas clave de rendimiento.</td>
   </tr>
 </table>
+<img src="./imagenes/Lean%20UX%20Canvas.png"> 
 <h2>1.3 Segmentos objetivo</h2>
     
 <h1>CAPÍTULO II: REQUIREMENTS ELICITATION & ANALYSIS</h1>

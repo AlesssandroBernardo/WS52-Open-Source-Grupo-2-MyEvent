@@ -188,6 +188,45 @@ Se asume que implementar un programa de fidelización con acumulación y canje d
     
 <h1>CAPÍTULO III: REQUIREMENTS SPECIFICATION</h1>
 <h2>3.1 To-Be Scenario Mapping</h2>
+<table>
+  <tr>
+    <th></th>
+    <th>Registro de Usuarios</th>
+    <th>Creación de Eventos</th>
+    <th>Venta de Entradas</th>
+    <th>Comisiones</th>
+    <th>Opción Premium para Revendedores</th>
+    <th>Transferencia de Entradas</th>
+  </tr>
+  <tr>
+    <td><strong>Doing</strong></td>
+    <td>Completa formulario para crear una cuenta.</td>
+    <td>Crea eventos proporcionando detalles.</td>
+    <td>Navega por eventos y compra entradas.</td>
+    <td>Se aplica un porcentaje de comisión.</td>
+    <td>Compra entradas antes del público.</td>
+    <td>Transfiere entradas a otros usuarios.</td>
+  </tr>
+  <tr>
+    <td><strong>Thinking</strong></td>
+    <td>Quiero tener acceso a ofertas y eventos.</td>
+    <td>¿Qué evento quiero organizar?</td>
+    <td>Espero que el proceso de pago sea rápido.</td>
+    <td>¿Cuál es la comisión aplicada?</td>
+    <td>Quiero acceso anticipado y límites de compra.</td>
+    <td>Quiero asegurarme de que mis amigos también puedan disfrutar.</td>
+  </tr>
+  <tr>
+    <td><strong>Feeling</strong></td>
+    <td>Emocionado por explorar eventos y realizar compras.</td>
+    <td>Curiosidad y anticipación por organizar eventos.</td>
+    <td>Satisfacción al completar la compra exitosamente.</td>
+    <td>Confianza en la transparencia de las comisiones.</td>
+    <td>Contento al asegurar entradas antes del público.</td>
+    <td>Contento al compartir la experiencia con amigos.</td>
+  </tr>
+</table>
+
 <h2>3.2 User Stories</h2>
 <h2>3.3 Impact Mapping</h2>
 <h2>3.4 Product Backlog</h2>

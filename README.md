@@ -453,29 +453,37 @@ Se asume que implementar un programa de fidelización con acumulación y canje d
 <h2>4.1 Style Guidelines</h2>
 <h3>4.1.1 General Style Guidelines</h3>
 <h3>4.1.2 Web Style Guidelines</h3>
-<h3>4.1.3 Mobile Style Guidelines</h3>
-<h4>4.1.3.1 Android Mobile Style Guidelines</h4>
-<h4>4.1.3.2 iOS Mobile Style Guidelines</h4>
-    
+
 <h2>4.2 Information Architecture</h2>
 <h3>4.2.1 Organization Systems</h3>
 <h3>4.2.2 Labeling Systems</h3>
-<h3>4.2.3 Searching Systems</h3>
-<h3>4.2.4 Navigation Systems</h3>
-    
+<h3>4.2.3 SEO Tags and Meta Tags</h3>
+<h3>4.2.4 Searching Systems</h3>
+<h3>4.2.5 Navigation Systems</h3>
+
 <h2>4.3 Landing Page UI Design</h2>
 <h3>4.3.1 Landing Page Wireframe</h3>
 <h3>4.3.2 Landing Page Mock-up</h3>
-   
-<h2>4.4 Mobile Applications UI Design</h2>
-<h3>4.4.1 Mobile Applications Wireframes</h3>
-<h3>4.4.2 Mobile Applications Wireflow Diagrams</h3>
-<h3>4.4.3 Mobile Applications Mock-ups</h3>
-<h3>4.4.4 Mobile Applications User Flow Diagrams</h3>
-    
-<h2>4.5 Mobile Applications Prototyping</h2>
-<h3>4.5.1 Android Mobile Applications Prototyping</h3>
-<h3>4.5.2 iOS Mobile Applications Prototyping</h3>
+
+<h2>4.4 Web Applications UX/UI Design</h2>
+<h3>4.4.1 Web Applications Wireframes</h3>
+<h3>4.4.2 Web Applications Wireflow Diagrams</h3>
+<h3>4.4.2 Web Applications Mock-ups</h3>
+<h3>4.4.3 Web Applications User Flow Diagrams</h3>
+
+<h2>4.5 Web Applications Prototyping</h2>
+
+<h2>4.6 Domain-Driven Software Architecture</h2>
+<h3>4.6.1 Software Architecture Context Diagram</h3>
+<h3>4.6.2 Software Architecture Container Diagrams</h3>
+<h3>4.6.3 Software Architecture Components Diagrams</h3>
+
+<h2>4.7 Software Object-Oriented Design</h2>
+<h3>4.7.1 Class Diagrams</h3>
+<h3>4.7.2 Class Dictionary</h3>
+
+<h2>4.8 Database Design</h2>
+<h3>4.8.1 Database Diagram</h3>
     
 <h1>CAPÍTULO V: PRODUCT IMPLEMENTATION</h1>
 <h2>5.1 Software Configuration Management</h2>

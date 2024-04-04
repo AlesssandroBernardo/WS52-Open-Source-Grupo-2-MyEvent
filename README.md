@@ -117,7 +117,7 @@ llevar a cabo este proyecto de forma satisfactoria.</p>
 <p>Soy estudiante de Ingeniería de Software en la UPC y cuento con conocimientos intermedios en los lenguajes de JavaScript, Python y C++. Me considero una persona responsalbe y empática, con capacidad para trabajar bajo presión y de forma colaborativa. Durante el transcurso de mi desarrollo me interesa cada vez más involucrar mis conocimientos en el ámbito educativo. Me gusta realizar actividades sociales y disfrutar el tiempo con amigos y familia.</p>
 
 <p><strong>Luis Mario Gonzales Anaya</strong></p>
-<img src = "./imagenes/Mario Gonzales.jpg" width="150" height="200">
+<img src = "./imagenes/MarioGonzales.jpg" width="150" height="200">
 <p>Estudio Ingeniera de Software en la UPC. Me gusta dibujar y ayudar a los demas en lo que mis capacidad me permitan, tengo experiencia en la programacion y otras ramas, me gusta aprender siempre y ser alguien parcial. Estoy encantado de ser parte de este grupo y dare todo mi esfuerzo para que este projecto demuestre un buen rendimiento.</p>
 
 <h2>1.2 Solution Profile</h2>

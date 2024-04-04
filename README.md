@@ -311,7 +311,132 @@ Se asume que implementar un programa de fidelización con acumulación y canje d
     
 <h2>2.3 Needfinding</h2>
 <h3>2.3.1 User Personas</h3>
+<h3><strong>Ana García</strong></h3>
+<img src="./imagenes/User Persona - Cliente.png"/>
+<h3><strong>Diego Martinez</strong></h3>
+<img src="./imagenes/User Persona - Organizador.png"/>
 <h3>2.3.2 User Task Matrix</h3>
+
+<h3>Ana García</h3>
+<table>
+  <tr>
+    <td>Tarea del Usuario</td>
+    <td>Descripción</td>
+    <td>Frecuencia</td>
+    <td>Intensidad</td>
+    <td>Condición</td>
+  </tr>
+  <tr>
+    <td>Comprar boletos para conciertos</td>
+    <td>Adquirir boletos para eventos de sus artistas favoritos</td>
+    <td>Variable</td>
+    <td>Alta</td>
+    <td>Cuando se anuncian conciertos de artistas favoritos / Cuando quiere asistir a eventos</td>
+  </tr>
+  <tr>
+    <td>Descubrir nuevas bandas locales</td>
+    <td>Investigar y descubrir bandas y artistas emergentes locales</td>
+    <td>Semanal</td>
+    <td>Moderada</td>
+    <td>Cuando tiene tiempo libre</td>
+  </tr>
+  <tr>
+    <td>Informarse sobre eventos</td>
+    <td>Obtener información clara sobre la disponibilidad y precios</td>
+    <td>Variable</td>
+    <td>Moderada</td>
+    <td>Antes de decidir asistir a un evento</td>
+  </tr>
+  <tr>
+    <td>Encontrar métodos de compra más rápidos</td>
+    <td>Buscar alternativas para una compra más ágil y rápida</td>
+    <td>Variable</td>
+    <td>Alta</td>
+    <td>Cuando ha tenido problemas anteriores con la compra de boletos</td>
+  </tr>
+  <tr>
+    <td>Asistir a conciertos favoritos</td>
+    <td>Participar en eventos de sus artistas preferidos</td>
+    <td>Variable</td>
+    <td>Alta</td>
+    <td>Cuando se llevan a cabo los conciertos / Cuando tiene tiempo disponible</td>
+  </tr>
+  <tr>
+    <td>Explorar experiencias culturales</td>
+    <td>Buscar nuevas experiencias culturales y eventos</td>
+    <td>Mensual</td>
+    <td>Baja</td>
+    <td>Cuando está interesada en encontrar nuevas actividades culturales</td>
+  </tr>
+  <tr>
+    <td>Socializar en eventos</td>
+    <td>Interactuar con otros asistentes en los eventos</td>
+    <td>Variable</td>
+    <td>Moderada</td>
+    <td>Durante los eventos</td>
+  </tr>
+</table>
+
+<h3>Diego Martinez</h3>
+<table>
+  <tr>
+    <td>Tarea del Usuario</td>
+    <td>Descripción</td>
+    <td>Frecuencia</td>
+    <td>Intensidad</td>
+    <td>Condición</td>
+  </tr>
+  <tr>
+    <td>Coordinar la venta de boletos</td>
+    <td>Organizar la venta de boletos para eventos, maximizando asistencia e ingresos</td>
+    <td>Variable</td>
+    <td>Alta</td>
+    <td>Antes de cada evento</td>
+  </tr>
+  <tr>
+    <td>Mejorar el proceso de compra</td>
+    <td>Implementar mejoras en el proceso de compra de boletos para los clientes</td>
+    <td>Semanal</td>
+    <td>Alta</td>
+    <td>Cuando se identifica una oportunidad de mejora</td>
+  </tr>
+  <tr>
+    <td>Controlar la reventa de boletos</td>
+    <td>Implementar estrategias para controlar la reventa y mantener precios justos</td>
+    <td>Semanal</td>
+    <td>Alta</td>
+    <td>Antes y durante la venta de boletos</td>
+  </tr>
+  <tr>
+    <td>Desarrollar herramientas de gestión</td>
+    <td>Desarrollar y utilizar herramientas eficientes para gestionar la venta y distribución de boletos</td>
+    <td>Semanal</td>
+    <td>Alta</td>
+    <td>Cuando se requiere mejorar la eficiencia en la gestión de boletos</td>
+  </tr>
+  <tr>
+    <td>Diferenciarse en la industria</td>
+    <td>Desarrollar estrategias para destacarse entre otros organizadores de eventos</td>
+    <td>Variable</td>
+    <td>Alta</td>
+    <td>Antes de la planificación de eventos</td>
+  </tr>
+  <tr>
+    <td>Analizar la competencia</td>
+    <td>Realizar análisis de la competencia para identificar oportunidades y amenazas</td>
+    <td>Semanal</td>
+    <td>Alta</td>
+    <td>Antes de la planificación de eventos</td>
+  </tr>
+  <tr>
+    <td>Mejorar la experiencia del cliente</td>
+    <td>Implementar medidas para mejorar la experiencia del cliente durante la compra de boletos</td>
+    <td>Semanal</td>
+    <td>Alta</td>
+    <td>Cuando se identifican áreas de mejora en la experiencia del cliente</td>
+  </tr>
+</table>
+
 <h3>2.3.3 User Journey Mapping</h3>
 <h3>2.3.4 Empathy Mapping</h3>
 <h3>2.3.5 As-is Scenario Mapping</h3>

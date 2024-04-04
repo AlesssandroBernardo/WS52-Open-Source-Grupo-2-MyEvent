@@ -123,12 +123,19 @@ llevar a cabo este proyecto de forma satisfactoria.</p>
 <h2>1.2 Solution Profile</h2>
 <h3>1.2.1 Antecedentes y problemática</h3>
 <h4>1.2.1.1 What?</h4>
+<p>Existe una dificultad generalizada para adquirir boletos para conciertos y otros eventos debido a la falta de acceso directo a la compra, largas filas, intermediarios poco confiables y la posibilidad de adquirir entradas falsas.</p>
 <h4>1.2.1.2 When?</h4>
+<p>Esta problemática surge en momentos cercanos a la venta de entradas para eventos populares, cuando la demanda es alta y la oferta limitada. Además, se intensifica durante la etapa de preventa y venta general de boletos.</p>
 <h4>1.2.1.3 Where?</h4>
+<p>Este problema es relevante en múltiples ubicaciones donde se realizan conciertos y eventos, especialmente en áreas urbanas densamente pobladas donde la demanda es alta y la oferta de boletos puede ser limitada.</p>
 <h4>1.2.1.4 Who?</h4>
+<p>Este problema afecta a los aficionados a la música y los eventos en general, así como a los organizadores de eventos que desean facilitar la experiencia de compra de boletos para sus seguidores.</p>
 <h4>1.2.1.5 Why?</h4>
+<p>La creación de esta aplicación surge debido a la necesidad de mejorar la experiencia de compra de boletos para eventos, ofreciendo un canal confiable y directo para adquirir entradas de manera rápida y segura, evitando intermediarios poco confiables y la posibilidad de adquirir entradas falsas.</p>
 <h4>1.2.1.6 How?</h4>
+<p>Nuestra aplicación aborda esta problemática proporcionando una plataforma segura y confiable para la compra de boletos para conciertos y eventos. A través de nuestra aplicación, los usuarios pueden buscar eventos, seleccionar asientos, y realizar la compra de boletos de manera directa y segura, eliminando intermediarios no confiables y mitigando el riesgo de adquirir entradas falsas.</p>
 <h4>1.2.1.7 How much?</h4>
+<p>En la industria de eventos, se han reportado casos de revendedores que inflan los precios de los boletos varias veces por encima de su valor original, lo que dificulta el acceso a los eventos para muchos aficionados. Con nuestra aplicación, buscamos ofrecer precios justos y transparentes para los boletos, eliminando intermediarios no confiables y evitando la inflación de precios.</p>
     
 <h3>1.2.2 Lean UX Process</h3>
 <h4>1.2.2.1 Lean UX Problem Statements</h4>

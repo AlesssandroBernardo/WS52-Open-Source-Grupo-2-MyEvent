@@ -307,7 +307,15 @@ Se asume que implementar un programa de fidelización con acumulación y canje d
 </ol>
 
 <h3>2.2.2 Registro de entrevistas</h3>
+<h4>Organizador de evento</h4>
+<h4>Nombre: Joaquin Paredes Angeles</h4>
+<img src="./imagenes/EntrevJoaquin.png"/>
+<p>Link de la entrevista: https://www.youtube.com/watch?v=OLU-1__nHN8</p>
 <h3>2.2.3 Análisis de entrevistas</h3>
+<h4>Organizador de evento</h4>
+<h4>Nombre: Joaquin Paredes Angeles</h4>
+<p>En la entrevista Joaquin nos destaca los desafíos actuales en el mercado de eventos, como la saturación y la incertidumbre en la asistencia. Se prefiere el uso de servicios de venta de entradas en línea por su conveniencia, y se desean características como personalización, integración con redes sociales y herramientas analíticas en las plataformas de venta de entradas. Al elegir una plataforma, se considera la facilidad de uso, tarifas y seguridad. Se espera un soporte completo. Las estrategias de marketing incluyen publicidad digital y colaboraciones. Acceder a datos y análisis es crucial para evaluar el rendimiento. Aunque no ha ocurrido personalmente, se reconoce el impacto negativo de una baja asistencia en un evento vendido. Se considera esencial compartir información en línea sobre eventos, siempre que se respeten las medidas de seguridad y privacidad.</p>
+
     
 <h2>2.3 Needfinding</h2>
 <h3>2.3.1 User Personas</h3>

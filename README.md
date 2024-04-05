@@ -113,7 +113,7 @@ llevar a cabo este proyecto de forma satisfactoria.</p>
 <p>Soy estudiante de Ingeniería de Software en la UPC. Me considero una persona entusiasta y muy creativa, predispuesta a trabajar en proyectos relacionados con la tecnología. Cuento con conocimiento basico en lenguajes de programación como python y java, además de un buen nivel en HTML y CSS. Me gusta trabajar en equipo y siempre trato de mejorar como persona cada día.</p>
 
 <p><strong>Luis Alejandro Zárate Gamarra</strong></p>
-<img src="./imagenes/AlejandroZarate.jpeg" width="200" height="290">
+<img src="./imagenes/AlejandroZarateG.jpeg" width="200" height="290">
 <p>Soy estudiante de Ingeniería de Software en la UPC y cuento con conocimientos intermedios en los lenguajes de JavaScript, Python y C++. Me considero una persona responsalbe y empática, con capacidad para trabajar bajo presión y de forma colaborativa. Durante el transcurso de mi desarrollo me interesa cada vez más involucrar mis conocimientos en el ámbito educativo. Me gusta realizar actividades sociales y disfrutar el tiempo con amigos y familia.</p>
 
 <p><strong>Luis Mario Gonzales Anaya</strong></p>

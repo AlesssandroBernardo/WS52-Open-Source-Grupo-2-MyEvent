@@ -883,10 +883,10 @@ en horas tard√≠as, generando miedo e incertidumbre sobre si su evento se llenar√
 <td>Desktop Landing Page Wireframe:</td>
 </tr>
 <td>Pantalla de inicio, contiene el apartado mas llamativo del landing page</td>
-<img src="./imagenes/Wireframe.png"/>
+<img src="./imagenes/wireframe.png"/>
 </tr>
 <td>Pantalla de Proximos eventos, este apartado contiene los diversos eventos a los que pueden asistir los usuarios</td>
-<img src="./imagenes/Wireframe.png"/>
+<img src="./imagenes/wireframe1.png"/>
 
 <h3>4.3.2 Landing Page Mock-up</h3>
 

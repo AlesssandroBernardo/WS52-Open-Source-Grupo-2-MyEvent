@@ -849,19 +849,19 @@ en horas tard√≠as, generando miedo e incertidumbre sobre si su evento se llenar√
 <h2>4.3 Landing Page UI Design</h2>
 <h3>4.3.1 Landing Page Wireframe</h3>
 <td>Desktop Landing Page Wireframe:</td>
-
+<br>
 <td>Pantalla de inicio, contiene el apartado mas llamativo del landing page</td>
 <img src="./imagenes/wireframe.png"/>
-<hr>
+<br>
 <td>Pantalla de "Proximos eventos", este apartado contiene los diversos eventos a los que pueden asistir los usuarios</td>
 <img src="./imagenes/wireframe1.png"/>
-<hr>
+<br>
 <td>Pantalla de "Nosotros", este apartado contiene la mision de la startup, junto con el proposito de la plataforma web</td>
 <img src="./imagenes/wireframe2.png"/>
-<hr>
+<br>
 <td>Pantalla de "Contactanos", en este apartado encuentran la informacion de contacto del startup</td>
 <img src="./imagenes/wireframe3.png"/>
-<hr>
+<br>
 <h3>4.3.2 Landing Page Mock-up</h3>
 
 <h2>4.4 Web Applications UX/UI Design</h2>

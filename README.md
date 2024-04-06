@@ -188,9 +188,13 @@ Se asume que implementar un programa de fidelización con acumulación y canje d
 <img src="./imagenes/Lean%20UX%20Canvas.png"> 
 
 <h2>1.3 Segmentos objetivo</h2>
+<p>MyEvent está diseñado para atender a dos segmentos clave en la industria del entretenimiento en vivo. El primero se compone de entusiastas de la música y los eventos en vivo, que buscan una experiencia sin complicaciones al adquirir entradas para conciertos, festivales y espectáculos locales. Para este segmento se considerará la conveniencia, la variedad de eventos disponibles y la seguridad en las transacciones en línea. El segundo segmento lo conforman los organizadores de eventos y propietarios de locales. Este grupo buscan una plataforma confiable y eficiente para vender y gestionar las entradas de sus eventos. Priorizan herramientas que les permitan alcanzar a su audiencia objetivo de manera efectiva, gestionar fácilmente el proceso de venta de entradas y obtener información detallada sobre la asistencia y las preferencias de los asistentes. Al comprender las necesidades únicas de estos dos tipos de usuarios, MyEvent se posiciona como una solución integral que ofrece una experiencia fluida tanto para los compradores de entradas como para los organizadores de eventos.</p>
 
 <h1>CAPÍTULO II: REQUISITOS DE ELICITACIÓN Y ANÁLISIS</h1>
 <h2>2.1 Competidores</h2>
+
+<p>En el competitivo mercado de la venta de entradas para eventos en línea, MyEvent se enfrenta a varios competidores destacados. Entre ellos, se encuentran plataformas establecidas como Teleticket, Passline y Joinnus. Teleticket, reconocida por su amplia cobertura nacional, ofrece una amplia gama de eventos culturales y de entretenimiento. Por otro lado, Passline se destaca por su interfaz fácil de usar y su enfoque en la seguridad de las transacciones. Joinnus, por su parte, se distingue por su versatilidad, no solo como plataforma de venta de entradas, sino también como organizadora y promoción de eventos. Aunque estos competidores representan una competencia sólida, MyEvent busca diferenciarse mediante características únicas, como la opción de combos exclusivos, asociaciones conn establecimientos y opciones para revendedores, para ofrecer a los usuarios una experiencia completa y emocionante al comprar entradas para eventos locales.</p>
+
 <h3>2.1.1 Análisis competitivo</h3>
 <table>
     <tr>

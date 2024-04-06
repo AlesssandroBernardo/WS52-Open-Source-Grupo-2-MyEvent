@@ -862,6 +862,7 @@ en horas tard√≠as, generando miedo e incertidumbre sobre si su evento se llenar√
 <td>Pantalla de "Contactanos", en este apartado encuentran la informacion de contacto del startup</td>
 <img src="./imagenes/wireframe4.png"/>
 <br>
+<p>Link de la entrevista: https://www.figma.com/file/dDsv9BCQHxxzDUz3hqTTyp/Landing-Page-Wireframe--Desarrollo-Open-Source?type=design&mode=design&t=baNvdMOlwkRcVvBE-1</p>
 <h3>4.3.2 Landing Page Mock-up</h3>
 
 <h2>4.4 Web Applications UX/UI Design</h2>

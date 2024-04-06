@@ -880,6 +880,14 @@ en horas tard√≠as, generando miedo e incertidumbre sobre si su evento se llenar√
 
 <h2>4.3 Landing Page UI Design</h2>
 <h3>4.3.1 Landing Page Wireframe</h3>
+<td>Desktop Landing Page Wireframe:</td>
+</tr>
+<td>Pantalla de inicio, contiene el apartado mas llamativo del landing page</td>
+<img src="./imagenes/Wireframe.png"/>
+</tr>
+<td>Pantalla de Proximos eventos, este apartado contiene los diversos eventos a los que pueden asistir los usuarios</td>
+<img src="./imagenes/Wireframe.png"/>
+
 <h3>4.3.2 Landing Page Mock-up</h3>
 
 <h2>4.4 Web Applications UX/UI Design</h2>

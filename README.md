@@ -885,8 +885,18 @@ Se asume que implementar un programa de fidelización con acumulación y canje d
 
 <h2>4.6 Domain-Driven Software Architecture</h2>
 <h3>4.6.1 Software Architecture Context Diagram</h3>
+<img src="./imagenes/MyEventDDC.png"/>
 <h3>4.6.2 Software Architecture Container Diagrams</h3>
+<img src="./imagenes/MyEventDDCTX.png"/>
 <h3>4.6.3 Software Architecture Components Diagrams</h3>
+<h4>Landing Page</h4>
+<img src="./imagenes/MyEventDDCLand.png"/>
+<h4>Web Application</h4>
+<img src="./imagenes/MyEventDDCWeb.png"/>
+<h4>Mobile Application</h4>
+<img src="./imagenes/MyEventDDCMB.png"/>
+<h4>API</h4>
+<img src="./imagenes/MyEventDDCAPI.png"/>
 
 <h2>4.7 Software Object-Oriented Design</h2>
 <h3>4.7.1 Class Diagrams</h3>

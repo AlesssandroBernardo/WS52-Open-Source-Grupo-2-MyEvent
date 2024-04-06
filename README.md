@@ -740,6 +740,7 @@ Se asume que implementar un programa de fidelización con acumulación y canje d
 
 <h2>4.8 Database Design</h2>
 <h3>4.8.1 Database Diagram</h3>
+<img src="-/imagenes/DisenoBaseDatos.png"/>
     
 <h1>CAPÍTULO V: PRODUCT IMPLEMENTATION</h1>
 <h2>5.1 Software Configuration Management</h2>

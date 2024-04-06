@@ -857,10 +857,10 @@ en horas tard√≠as, generando miedo e incertidumbre sobre si su evento se llenar√
 <img src="./imagenes/wireframe1.png"/>
 <br>
 <td>Pantalla de "Nosotros", este apartado contiene la mision de la startup, junto con el proposito de la plataforma web</td>
-<img src="./imagenes/wireframe2.png"/>
+<img src="./imagenes/wireframe3.png"/>
 <br>
 <td>Pantalla de "Contactanos", en este apartado encuentran la informacion de contacto del startup</td>
-<img src="./imagenes/wireframe3.png"/>
+<img src="./imagenes/wireframe4.png"/>
 <br>
 <h3>4.3.2 Landing Page Mock-up</h3>
 

@@ -474,6 +474,12 @@ en horas tard√≠as, generando miedo e incertidumbre sobre si su evento se llenar√
 
 <h3>2.3.3 User Journey Mapping</h3>
 <h3>2.3.4 Empathy Mapping</h3>
+<h4>Empathy Map - Cliente</h4>
+<img src="./imagenes/empathyMaps/EmpathyMap1_Marco.png"/>
+<h4>Empathy Map - Organizador de Eventos</h4>
+<img src="./imagenes/empathyMaps/EmpathyMap2_Joaquin.png"/>
+
+<hr>
 <h3>2.3.5 As-is Scenario Mapping</h3>
 <h2>2.3 Ubiquitous Language</h2>
 

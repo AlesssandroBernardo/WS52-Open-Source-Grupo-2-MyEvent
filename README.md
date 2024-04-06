@@ -321,6 +321,10 @@ Se asume que implementar un programa de fidelización con acumulación y canje d
 <img src="./imagenes/EntrevMarco.png"/>
 <p>Link de la entrevista: https://youtu.be/LGgSQhsjqQI?si=h8IUovq9bNTRS-5z</p>
 
+<h4>Nombre: Lizbeth Estela Gamboa Cabrera</h4>
+<img src="./imagenes/Liz Gamboa.png"/>
+<p>Link de la entrevista: https://youtu.be/VWth4gYwdHs</p>
+
 <h3>2.2.3 Análisis de entrevistas</h3>
 <h4>Organizador de evento</h4>
 <h4>Nombre: Joaquin Paredes Angeles</h4>

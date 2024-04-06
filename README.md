@@ -311,10 +311,20 @@ Se asume que implementar un programa de fidelización con acumulación y canje d
 <h4>Nombre: Joaquin Paredes Angeles</h4>
 <img src="./imagenes/EntrevJoaquin.png"/>
 <p>Link de la entrevista: https://www.youtube.com/watch?v=OLU-1__nHN8</p>
+
+<h4>Cliente</h4>
+<h4>Nombre: Marco Eduardo Colca Chipana</h4>
+<img src="./imagenes/EntrevMarco.png"/>
+<p>Link de la entrevista: https://youtu.be/LGgSQhsjqQI?si=h8IUovq9bNTRS-5z</p>
+
 <h3>2.2.3 Análisis de entrevistas</h3>
 <h4>Organizador de evento</h4>
 <h4>Nombre: Joaquin Paredes Angeles</h4>
 <p>En la entrevista Joaquin nos destaca los desafíos actuales en el mercado de eventos, como la saturación y la incertidumbre en la asistencia. Se prefiere el uso de servicios de venta de entradas en línea por su conveniencia, y se desean características como personalización, integración con redes sociales y herramientas analíticas en las plataformas de venta de entradas. Al elegir una plataforma, se considera la facilidad de uso, tarifas y seguridad. Se espera un soporte completo. Las estrategias de marketing incluyen publicidad digital y colaboraciones. Acceder a datos y análisis es crucial para evaluar el rendimiento. Aunque no ha ocurrido personalmente, se reconoce el impacto negativo de una baja asistencia en un evento vendido. Se considera esencial compartir información en línea sobre eventos, siempre que se respeten las medidas de seguridad y privacidad.</p>
+
+<h4>Cliente</h4>
+<h4>Nombre: Marco Eduardo Colca Chipana</h4>
+<p>En la entrevista Marco asiste a eventos como conciertos, festivales o espectáculos en vivo varias veces al mes. Su motivación principal para comprar entradas radica en la calidad de los artistas o el tipo de evento, junto con la consideración de la ubicación y el ambiente del lugar. Al elegir dónde comprar sus entradas, valora la confiabilidad del servicio, la facilidad de uso de la plataforma y la variedad de eventos disponibles. Aunque no ha tenido experiencias negativas en el pasado, reconoce la importancia de la seguridad y la transparencia en las transacciones en línea. Para mejorar su experiencia como comprador, le gustaría ver funcionalidades como recomendaciones personalizadas y mapas de asientos detallados. Considera esencial tener acceso a información detallada sobre los eventos y las entradas disponibles, y le parece atractiva la posibilidad de obtener recompensas o descuentos por asistir a eventos de manera regular. Prefiere comprar entradas a través de una plataforma de venta de entradas debido a su conveniencia y la posibilidad de comparar precios. Considera fundamental tener opciones de pago seguras y convenientes, así como medidas de seguridad y privacidad al comprar entradas en línea.</p>
 
     
 <h2>2.3 Needfinding</h2>

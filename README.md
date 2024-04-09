@@ -118,7 +118,7 @@ llevar a cabo este proyecto de forma satisfactoria.</p>
 
 <p><strong>Luis Mario Gonzales Anaya</strong></p>
 <img src = "./imagenes/MarioGonzales.jpg" width="150" height="200">
-<p>Estudio Ingeniera de Software en la UPC. Me gusta dibujar y ayudar a los demas en lo que mis capacidad me permitan, tengo experiencia en la programacion y otras ramas, me gusta aprender siempre y ser alguien parcial. Estoy encantado de ser parte de este grupo y dare todo mi esfuerzo para que este projecto demuestre un buen rendimiento.</p>
+<p>Estudio Ingeniería de Software en la UPC. Me gusta dibujar y ayudar a los demás en lo que mi capacidad me permite, tengo experiencia en la programación y otras ramas, me gusta aprender siempre y ser alguien parcial. Estoy encantado de ser parte de este grupo y daré todo mi esfuerzo para que este proyecto demuestre un buen rendimiento.</p>
 
 <h2>1.2 Solution Profile</h2>
 <h3>1.2.1 Antecedentes y problemática</h3>

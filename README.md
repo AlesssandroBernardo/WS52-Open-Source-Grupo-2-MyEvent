@@ -322,6 +322,8 @@ Se asume que implementar un programa de fidelización con acumulación y canje d
 <p>Link de la entrevista: https://youtu.be/LGgSQhsjqQI?si=h8IUovq9bNTRS-5z</p>
 
 <h4>Nombre: Lizbeth Estela Gamboa Cabrera</h4>
+<h4>Edad: 20 años</h4>
+<h4>Ubicación: Los Olivos</h4>
 <img src="./imagenes/Liz Gamboa.png"/>
 <p>Link de la entrevista: https://youtu.be/VWth4gYwdHs</p>
 

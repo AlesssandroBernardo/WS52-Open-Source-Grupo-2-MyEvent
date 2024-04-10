@@ -1099,30 +1099,26 @@ en horas tard√≠as, generando miedo e incertidumbre sobre si su evento se llenar√
 <br>
 <td>Desktop Web Browser:</td>
 <img src="./imagenes/wireframe.png"/>
-<br>
-<br><td>Mobile Web Browser:</td><br>
+<br><td>Mobile Web Browser:</td>
 <img src="./imagenes/wireframemobile1.JPG"/>
-
+<br>
 <td>Pantalla de "Proximos eventos", este apartado contiene los diversos eventos a los que pueden asistir los usuarios.</td>
 <br>
 <td>Desktop Web Browser:</td>
-<br>
 <img src="./imagenes/wireframe1.png"/>
-<br><td>Mobile Web Browser:</td><br>
+<td>Mobile Web Browser:</td>
 <img src="./imagenes/wireframemobile2.JPG"/>
 <br>
 <td>Pantalla de "Nosotros", este apartado contiene la mision de la startup, junto con el proposito de la plataforma web.</td>
-<br><td>Desktop Web Browser:</td><br>
+<br><td>Desktop Web Browser:</td>
 <img src="./imagenes/wireframe3.png"/>
-<br>
-<br><td>Mobile Web Browser:</td><br>
+<br><td>Mobile Web Browser:</td>
 <img src="./imagenes/wireframemobile3.JPG"/>
 <br>
 <td>Pantalla de "Contactanos", en este apartado encuentran la informacion de contacto del startup.</td>
-<br><td>Desktop Web Browser:</td><br>
+<br><td>Desktop Web Browser:</td>
 <img src="./imagenes/wireframe4.png"/>
-<br>
-<br><td>Mobile Web Browser:</td><br>
+<br><td>Mobile Web Browser:</td>
 <img src="./imagenes/wireframemobile4.JPG"/>
 <br>
 <p>Link del Figma Desktop Web Browser : https://www.figma.com/file/dDsv9BCQHxxzDUz3hqTTyp/Landing-Page-Wireframe--Desarrollo-Open-Source?type=design&mode=design&t=baNvdMOlwkRcVvBE-1</p>

@@ -1,4 +1,109 @@
-# **Tabla de Contenido**
+<div align="center">
+<img src="./imagenes/logos/Logo_UPC.png" width="100" height="100">
+<p></p>
+
+# Universidad Peruana de Ciencias Aplicadas
+
+## *Ingeniería de Software*
+**Quinto Ciclo**
+
+**Desarrollo de Aplicaciones Open Source**
+
+**Sección:** WS52
+
+**Profesor:** Elio Jefferrson Navarrete Vilca
+
+---
+
+## Informe de TB1
+
+**Startup:** Eventec
+
+**Producto:** MyEvent
+
+**Relación de Integrantes:**
+
+[Nombre del Integrante 1]
+
+[Nombre del Integrante 2]
+
+[Nombre del Integrante 3]
+
+[Nombre del Integrante 4]
+
+Luis Alejandro Zárate Gamarra
+
+**Abril - 2024** 
+
+</div>
+
+<h2>Registro de versiones del informe</h2>
+
+<table style="width: 100%;">
+    <tr>
+        <th>Versión</th>
+        <th>Fecha</th>
+        <th>Autor</th>
+        <th>Descripción de la modificación</th>
+    </tr>
+    <tr>
+        <td><strong>TB1</strong></td>
+        <td>10 de abril de 2024</td></td>
+        <td>
+            <ul>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li>Luis Alejandro Zárate Gamarra</li>
+            </ul>
+        </td>
+        <td>Contenido</td>
+    </tr>
+</table>
+
+<h1 style="color: red;">STUDENT OUTCOME</h1>
+
+<table style="width: 100%;">
+    <tr>
+        <th>Criterios específicos</th>
+        <th>Acciones realizadas</th>
+        <th>Conclusiones</th>
+    </tr>
+    <tr>
+        <td><strong>Comunica oralmente con efectividad a
+        diferentes rangos de audiencia</strong></td>
+        <td>
+            <ul style="list-style-type: none;">
+                <li><strong>1</strong></li>
+                <li><strong>2</strong></li>
+                <li><strong>3</strong></li>
+                <li><strong>4</strong></li>
+                <li><strong>Luis Alejandro Zárate Gamarra</strong>
+                  <p>
+                    <strong>TB1</strong>
+                    <p>
+                      Desarrollo e implementación de los capítulos 2 y 3...
+                    </p>
+                  </p>
+                </li>    
+            </ul>
+                </li>    
+            </ul>
+        </td>
+        <td>
+          <p>
+            <strong>TB1</strong>
+              <p>
+                Se analizó una problemática que afecta a dos segmentos
+              </p>
+          </p>
+        </td>
+    </tr>
+</table>
+
+
+# Tabla de Contenido
 
 - [Registro de Versiones](#registro-de-versiones)
 - [Project Report Collaboration Insights](#project-report-collaboration-insights)
@@ -89,36 +194,43 @@
 - [Bibliografía](#bibliografía)
 - [Anexos](#anexos)
 
+<h2>Registro de versiones del informe</h2>
+
+
 
 <h1>CAPÍTULO I: INTRODUCCIÓN</h1>
 <h2>1.1 Startup Profile</h2>
 <h3>1.1.1 Descripción de la Startup</h3>
-<p>Nuestra startup ofrece una plataforma de venta de entradas centrada en usuarios y organizadores de eventos. Proporcionamos una amplia gama de eventos y funcionalidades como registro de usuarios, creación de eventos y venta de entradas. Nuestro enfoque en la satisfacción del cliente se refleja en nuestras políticas de recompensas y membresías premium. Con un modelo de negocio transparente, estamos transformando la experiencia de descubrir y participar en eventos.</p>
+<p class="justificado">Nuestra startup ofrece una plataforma de venta de entradas centrada en usuarios y organizadores de eventos. Proporcionamos una amplia gama de eventos y funcionalidades como registro de usuarios, creación de eventos y venta de entradas. Nuestro enfoque en la satisfacción del cliente se refleja en nuestras políticas de recompensas y membresías premium. Con un modelo de negocio transparente, estamos transformando la experiencia de descubrir y participar en eventos.</p>
 <h3>1.1.2 Perfiles de integrantes del equipo</h3>
 
-<p><strong>Alessandro Joaquin Bernardo Eusebio</strong></p>
-<img src="./imagenes/fotoBernardo.jpg" width="200" height="200">
-<p>Soy estudiante de la carrera de Ingeniería de software en la UPC, tengo conocimientos básicos sobre programación
- en el lenguaje de C++ y Python, conocimiento básico sobre configuración de redes y aplicación de la complejidad 
-algorítmica. Tengo además conocimientos básicos sobre ciberseguridad y fundamentos de probabilidad y sus aplicaciones
-. Siempre dispuesto a trabajar en equipo. Me considero una persona paciente y respetuosa que tiene como objetivo 
-llevar a cabo este proyecto de forma satisfactoria.</p>
+<div class="centrado">
 
-<p><strong>Michael Stefano Carmelino Dueñas</strong></p>
-<img src="./imagenes/MichaelCarmelino.jfif" width="200" height="200"> 
-<p>Estudio la carrera de Ingeniería de Software en la UPC, tengo conocimientos básicos en C++, Python y Java. Soy una persona que le gusta el liderazgo y organización en equipo, coordinación y poder generar un buen entorno. Ayudo a quienes lo necesiten con lo máximo que pueda. De igual forma tengo conocimientos en los que son fundamentos en Ciencia de Datos.</p>
+  <p><strong>Alessandro Joaquin Bernardo Eusebio</strong></p>
+  <img src="./imagenes/fotoBernardo.jpg" width="200" height="200">
+  <p class="justificado">Soy estudiante de la carrera de Ingeniería de software en la UPC, tengo conocimientos básicos sobre programación
+  en el lenguaje de C++ y Python, conocimiento básico sobre configuración de redes y aplicación de la complejidad 
+  algorítmica. Tengo además conocimientos básicos sobre ciberseguridad y fundamentos de probabilidad y sus aplicaciones
+  . Siempre dispuesto a trabajar en equipo. Me considero una persona paciente y respetuosa que tiene como objetivo 
+  llevar a cabo este proyecto de forma satisfactoria.</p>
 
-<p><strong>Piero Jhoynner Muñoz Salcedo</strong></p>
-<img src = "./imagenes/PieroMuñoz.JPG" width="200" height="250">
-<p>Soy estudiante de Ingeniería de Software en la UPC. Me considero una persona entusiasta y muy creativa, predispuesta a trabajar en proyectos relacionados con la tecnología. Cuento con conocimiento basico en lenguajes de programación como python y java, además de un buen nivel en HTML y CSS. Me gusta trabajar en equipo y siempre trato de mejorar como persona cada día.</p>
+  <p><strong>Michael Stefano Carmelino Dueñas</strong></p>
+  <img src="./imagenes/MichaelCarmelino.jfif" width="200" height="200"> 
+  <p class="justificado">Estudio la carrera de Ingeniería de Software en la UPC, tengo conocimientos básicos en C++, Python y Java. Soy una persona que le gusta el liderazgo y organización en equipo, coordinación y poder generar un buen entorno. Ayudo a quienes lo necesiten con lo máximo que pueda. De igual forma tengo conocimientos en los que son fundamentos en Ciencia de Datos.</p>
 
-<p><strong>Luis Alejandro Zárate Gamarra</strong></p>
-<img src="./imagenes/AlejandroZarateG.jpeg" width="200" height="230">
-<p>Soy estudiante de Ingeniería de Software en la UPC y cuento con conocimientos intermedios en los lenguajes de JavaScript, Python y C++. Me considero una persona responsalbe y empática, con capacidad para trabajar bajo presión y de forma colaborativa. Durante el transcurso de mi desarrollo me interesa cada vez más involucrar mis conocimientos en el ámbito educativo. Me gusta realizar actividades sociales y disfrutar el tiempo con amigos y familia.</p>
+  <p><strong>Piero Jhoynner Muñoz Salcedo</strong></p>
+  <img src = "./imagenes/PieroMuñoz.JPG" width="200" height="250">
+  <p class="justificado">Soy estudiante de Ingeniería de Software en la UPC. Me considero una persona entusiasta y muy creativa, predispuesta a trabajar en proyectos relacionados con la tecnología. Cuento con conocimiento basico en lenguajes de programación como python y java, además de un buen nivel en HTML y CSS. Me gusta trabajar en equipo y siempre trato de mejorar como persona cada día.</p>
 
-<p><strong>Luis Mario Gonzales Anaya</strong></p>
-<img src = "./imagenes/MarioGonzales.jpg" width="150" height="200">
-<p>Estudio Ingeniería de Software en la UPC. Me gusta dibujar y ayudar a los demás en lo que mi capacidad me permite, tengo experiencia en la programación y otras ramas, me gusta aprender siempre y ser alguien parcial. Estoy encantado de ser parte de este grupo y daré todo mi esfuerzo para que este proyecto demuestre un buen rendimiento.</p>
+  <p><strong>Luis Alejandro Zárate Gamarra</strong></p>
+  <img src="./imagenes/AlejandroZarateG.jpeg" width="200" height="230">
+  <p class="justificado">Soy estudiante de Ingeniería de Software en la UPC y cuento con conocimientos intermedios en desarrollo web, administración y gestión de entornos LMS, análisis de tecnologías móviles y diseño y maquetación de entornos web. Me considero una persona responsalbe y empática, con capacidad para trabajar de forma colaborativa. Durante el transcurso de mi desarrollo me interesa cada vez más involucrar mis conocimientos en el ámbito educativo. Me gusta realizar actividades sociales y disfrutar el tiempo con amigos y familia.</p>
+
+  <p><strong>Luis Mario Gonzales Anaya</strong></p>
+  <img src = "./imagenes/MarioGonzales.jpg" width="150" height="200">
+  <p class="justificado">Estudio Ingeniería de Software en la UPC. Me gusta dibujar y ayudar a los demás en lo que mi capacidad me permite, tengo experiencia en la programación y otras ramas, me gusta aprender siempre y ser alguien parcial. Estoy encantado de ser parte de este grupo y daré todo mi esfuerzo para que este proyecto demuestre un buen rendimiento.</p>
+
+</div>
 
 <h2>1.2 Solution Profile</h2>
 <h3>1.2.1 Antecedentes y problemática</h3>
@@ -203,66 +315,77 @@ Se asume que implementar un programa de fidelización con acumulación y canje d
     </tr>
   <tr>
     <th></th>
+    <th>MyEvent</th>
     <th>Teleticket</th>
     <th>Passline</th>
     <th>Joinnus</th>
   </tr>
   <tr>
     <td><strong>Overview</strong></td>
+    <td>MyEvent es una plataforma de venta de entradas intuitiva para usuarios y organizadores de eventos, con una amplia variedad de eventos y un enfoque en la satisfacción del cliente.</td>
     <td>Teleticket es una plataforma líder en la venta de entradas para eventos en Perú. Ofrece una amplia gama de servicios relacionados con la venta de boletos para conciertos, obras de teatro, eventos deportivos y más.</td>
     <td>Passline es una plataforma de venta de entradas que se enfoca en la facilidad de uso y la integración con redes sociales. Ofrece una experiencia de compra rápida y sencilla para los usuarios.</td>
     <td>Joinnus es una plataforma de eventos que no solo se centra en la venta de entradas, sino que también proporciona información detallada sobre eventos culturales, deportivos y de entretenimiento en Perú.</td>
   </tr>
   <tr>
     <td><strong>Ventajas Competitivas</strong></td>
+    <td>Destacamos por nuestra diversidad de eventos, funcionalidades completas de plataforma y modelo de negocio transparente.</td>
     <td>Gran experiencia en el mercado local, asociaciones sólidas con organizadores de eventos, diversidad de eventos disponibles.</td>
     <td>Facilidad de uso de la plataforma, integración con redes sociales, enfoque en la experiencia del usuario.</td>
     <td>Amplia variedad de eventos, información detallada y reseñas de eventos, comunidad activa de usuarios.</td>
   </tr>
   <tr>
     <td><strong>Mercado Objetivo</strong></td>
+    <td>Nuestro mercado objetivo son usuarios interesados en una variedad de eventos y organizadores que buscan una plataforma sencilla para promocionar y vender boletos.</td>
     <td>Principalmente público local interesado en una amplia gama de eventos culturales y deportivos.</td>
     <td>Usuarios que buscan una experiencia de compra rápida y sencilla, con una inclinación hacia la tecnología y las redes sociales.</td>
     <td>Personas interesadas en descubrir nuevos eventos culturales, deportivos y de entretenimiento en Perú, con una mentalidad más exploratoria.</td>
   </tr>
   <tr>
     <td><strong>Estrategias de Marketing</strong></td>
+    <td>Utilizamos estrategias de marketing digital, alianzas con organizadores locales y promociones especiales para aumentar la participación de los usuarios.</td>
     <td>Campañas publicitarias locales, colaboraciones con organizadores de eventos, promociones especiales.</td>
     <td>Marketing en redes sociales, promoción de la facilidad de uso, campañas de influencer marketing.</td>
     <td>Contenido en línea relevante, colaboraciones con artistas y organizadores de eventos, estrategias de SEO.</td>
   </tr>
   <tr>
     <td><strong>Productos & Servicios</strong></td>
+    <td>Ofrecemos una plataforma de venta de entradas en línea con registro de usuarios, creación de eventos y venta de boletos para diversas actividades.</td>
     <td>Venta de entradas para una amplia gama de eventos, servicios de reserva de asientos, opciones de entrega de boletos.</td>
     <td>Venta de entradas en línea, reserva de boletos, integración con redes sociales para compartir eventos.</td>
     <td>Venta de entradas, información detallada sobre eventos, reseñas de usuarios, recomendaciones personalizadas.</td>
   </tr>
   <tr>
     <td><strong>Precios & Costos</strong></td>
-    <td>Precios competitivos con tarifas de servicio estándar en la industria del entretenimiento en vivo.</td>
+    <td>Nuestros precios son transparentes y competitivos, con costos operativos que incluyen mantenimiento de plataforma y marketing.</td>
+    <td>Nuestros precios son transparentes y competitivos, con costos operativos que incluyen mantenimiento de plataforma, marketing y soporte al cliente.</td>
     <td>Comisiones de servicio transparentes, posibles descuentos por compras a través de la plataforma.</td>
     <td>Comisiones de servicio competitivas, posibles ofertas y promociones para usuarios frecuentes.</td>
   </tr>
   <tr>
     <td><strong>Canales de Distribución</strong></td>
+    <td>Distribuimos entradas a través de nuestra plataforma en línea, asociaciones con organizadores locales y puntos de venta físicos en lugares de eventos.</td>
     <td>Venta en línea a través del sitio web, puntos de venta físicos en locales asociados.</td>
     <td>Plataforma en línea accesible desde dispositivos móviles y computadoras, integración con redes sociales.</td>
     <td>Sitio web, aplicaciones móviles para iOS y Android, redes sociales, boletines informativos.</td>
   </tr>
   <tr>
     <td><strong>Fortalezas</strong></td>
+    <td>Destacamos por nuestra diversidad de eventos, funcionalidades completas de plataforma y enfoque en la satisfacción del cliente.</td>
     <td>Reconocimiento de marca, experiencia en el mercado, asociaciones estratégicas.</td>
     <td>Facilidad de uso, integración con redes sociales, enfoque en la experiencia del usuario.</td>
     <td>Amplia variedad de eventos, información detallada, comunidad activa de usuarios.</td>
   </tr>
   <tr>
     <td><strong>Debilidades</strong></td>
+    <td>Necesitamos aumentar el reconocimiento de marca y fortalecer nuestras asociaciones estratégicas.</td>
     <td>Puede carecer de innovación tecnológica, posible falta de enfoque en la experiencia del usuario.</td>
     <td>Puede ser percibido como menos establecido en comparación con competidores más antiguos, posibles limitaciones en la diversidad de eventos.</td>
     <td>Menos reconocimiento de marca en comparación con competidores establecidos, posibles dificultades para atraer a usuarios más tradicionales.</td>
   </tr>
   <tr>
     <td><strong>Oportunidades</strong></td>
+    <td>Vemos oportunidades en la expansión a nuevos mercados, colaboraciones con organizadores emergentes y desarrollo de nuevas características para mejorar la experiencia del usuario.</td>
     <td>Expansión a nuevos mercados, innovación tecnológica, colaboraciones estratégicas.</td>
     <td>Crecimiento en la base de usuarios a través de campañas de marketing en redes sociales, expansión internacional.</td>
     <td>Desarrollo de nuevas características en la plataforma, asociaciones con organizadores de eventos emergentes.</td>
@@ -282,7 +405,7 @@ Se asume que implementar un programa de fidelización con acumulación y canje d
     
 <h2>2.2 Entrevistas</h2>
 <h3>2.2.1 Diseño de entrevistas</h3>
-<h5>Preguntas para Organizadores de Eventos:</h5>
+<h5>Preguntas dirigidas al segmento Organizadores de Eventos:</h5>
 <ol>
     <li>¿Qué desafíos enfrentas al promocionar y vender entradas para tus eventos actualmente?</li>
     <li>¿Cómo sueles gestionar la venta de entradas para tus eventos?</li>
@@ -296,7 +419,7 @@ Se asume que implementar un programa de fidelización con acumulación y canje d
     <li>¿Qué medidas de seguridad y privacidad consideras esenciales al utilizar una plataforma de venta de entradas para tus eventos?</li>
 </ol>
 
-<h5>Preguntas para Compradores de Entradas:</h5>
+<h5>Preguntas dirigidas al segmento Compradores de Entradas:</h5>
 <ol>
     <li>¿Con qué frecuencia asistes a eventos como conciertos, festivales o espectáculos en vivo?</li>
     <li>¿Qué te motiva a comprar entradas para un evento en particular?</li>
@@ -311,40 +434,105 @@ Se asume que implementar un programa de fidelización con acumulación y canje d
 </ol>
 
 <h3>2.2.2 Registro de entrevistas</h3>
-<h4>Organizador de evento</h4>
+<h3>Segmento Organizador de evento</h3>
 <h4>Nombre: Joaquin Paredes Angeles</h4>
-<img src="./imagenes/EntrevJoaquin.png"/>
-<p>Link de la entrevista: https://www.youtube.com/watch?v=OLU-1__nHN8</p>
 
-<h4>Cliente</h4>
-<h4>Nombre: Marco Eduardo Colca Chipana</h4>
-<img src="./imagenes/EntrevMarco.png"/>
-<p>Link de la entrevista: https://youtu.be/LGgSQhsjqQI?si=h8IUovq9bNTRS-5z</p>
+  <table style="border: 1px solid gray;">
+    <tr>
+        <td><img src="./imagenes/EntrevJoaquin.png" alt="Descripción de la imagen"></td>
+    </tr>
+    <tr><td class="justificado">En la entrevista Joaquin nos destaca los desafíos actuales en el mercado de eventos, como la saturación y la incertidumbre en la asistencia. Se prefiere el uso de servicios de venta de entradas en línea por su conveniencia, y se desean características como personalización, integración con redes sociales y herramientas analíticas en las plataformas de venta de entradas. Al elegir una plataforma, se considera la facilidad de uso, tarifas y seguridad. Se espera un soporte completo. Las estrategias de marketing incluyen publicidad digital y colaboraciones. Acceder a datos y análisis es crucial para evaluar el rendimiento. Aunque no ha ocurrido personalmente, se reconoce el impacto negativo de una baja asistencia en un evento vendido. Se considera esencial compartir información en línea sobre eventos, siempre que se respeten las medidas de seguridad y privacidad.</td></tr>
+    <tr><td>Link de la entrevista: <a href="https://www.youtube.com/watch?v=OLU-1__nHN8">https://www.youtube.com/watch?v=OLU-1__nHN8</a></td></tr>
+  </table>
 
-<h4>Nombre: Lizbeth Estela Gamboa Cabrera</h4>
-<h4>Edad: 20 años</h4>
-<h4>Ubicación: Los Olivos</h4>
-<img src="./imagenes/Liz Gamboa.png"/>
-<p>Link de la entrevista: https://youtu.be/VWth4gYwdHs</p>
-
-<h3>2.2.3 Análisis de entrevistas</h3>
-<h4>Organizador de evento</h4>
-<h4>Nombre: Joaquin Paredes Angeles</h4>
-<p>En la entrevista Joaquin nos destaca los desafíos actuales en el mercado de eventos, como la saturación y la incertidumbre en la asistencia. Se prefiere el uso de servicios de venta de entradas en línea por su conveniencia, y se desean características como personalización, integración con redes sociales y herramientas analíticas en las plataformas de venta de entradas. Al elegir una plataforma, se considera la facilidad de uso, tarifas y seguridad. Se espera un soporte completo. Las estrategias de marketing incluyen publicidad digital y colaboraciones. Acceder a datos y análisis es crucial para evaluar el rendimiento. Aunque no ha ocurrido personalmente, se reconoce el impacto negativo de una baja asistencia en un evento vendido. Se considera esencial compartir información en línea sobre eventos, siempre que se respeten las medidas de seguridad y privacidad.</p>
-
-<h4>Nombre: Jesús Espinoza Montalvo</h4>
-<p>En la entrevista Jesús nos cuenta sus dificultades que tiene cada vez que quiere realizar eventos, como conseguir gente que quiera ser promotora
+<h3>Segmento ...</h3>
+<h4>Nombre: ...</h4>
+<h4>Edad: ...años</h4>
+<h4>Ubicación: ...</h4>
+<table style="border: 1px solid gray;">
+    <tr>
+        <td><img src="./imagenes/" alt="Descripción de la imagen"></td>
+    </tr>
+    <tr><td class="justificado">En la entrevista Jesús nos cuenta sus dificultades que tiene cada vez que quiere realizar eventos, como conseguir gente que quiera ser promotora
 de sus eventos y las publicaciones que debe realizar para cada uno de ellos para atraer a público, también encontrar al público objetivo 
 aunque en la mayoría son jóvenes. Comenta que para eventos más grandes, prefiere buscar algo más genérico para atraer atención de todo
 público. Se le hace importante tener acceso a la información de participantes de sus eventos, más que todo para saber los porcentajes y 
 datos sobre como va el evento. Comenta que sus eventos siempre se llenan. Sin embargo, no suelen llegar a la hora establecida, y suelen llegar
-en horas tardías, generando miedo e incertidumbre sobre si su evento se llenará o no.</p>
-<h4>Cliente</h4>
-<h4>Nombre: Marco Eduardo Colca Chipana</h4>
-<p>En la entrevista Marco asiste a eventos como conciertos, festivales o espectáculos en vivo varias veces al mes. Su motivación principal para comprar entradas radica en la calidad de los artistas o el tipo de evento, junto con la consideración de la ubicación y el ambiente del lugar. Al elegir dónde comprar sus entradas, valora la confiabilidad del servicio, la facilidad de uso de la plataforma y la variedad de eventos disponibles. Aunque no ha tenido experiencias negativas en el pasado, reconoce la importancia de la seguridad y la transparencia en las transacciones en línea. Para mejorar su experiencia como comprador, le gustaría ver funcionalidades como recomendaciones personalizadas y mapas de asientos detallados. Considera esencial tener acceso a información detallada sobre los eventos y las entradas disponibles, y le parece atractiva la posibilidad de obtener recompensas o descuentos por asistir a eventos de manera regular. Prefiere comprar entradas a través de una plataforma de venta de entradas debido a su conveniencia y la posibilidad de comparar precios. Considera fundamental tener opciones de pago seguras y convenientes, así como medidas de seguridad y privacidad al comprar entradas en línea.</p>
+en horas tardías, generando miedo e incertidumbre sobre si su evento se llenará o no.</td></tr>
+    <tr><td>Link de la entrevista: <a href="">Link aquí!!</a></td></tr>
+  </table>
 
+<h3>Segmento Cliente</h3>
+<h4>Nombre: Marco Eduardo Colca Chipana</h4>
+<h4>Edad: 23 años</h4>
+<h4>Ubicación: Lince</h4>
+
+<table style="border: 1px solid gray;">
+    <tr>
+        <td><img src="./imagenes/EntrevMarco.png" alt="Descripción de la imagen"></td>
+    </tr>
+    <tr><td class="justificado">En la entrevista recabamos que Marco asiste a eventos como conciertos, festivales o espectáculos en vivo varias veces al mes. Su motivación principal para comprar entradas radica en la calidad de los artistas o el tipo de evento, junto con la consideración de la ubicación y el ambiente del lugar. Al elegir dónde comprar sus entradas, valora la confiabilidad del servicio, la facilidad de uso de la plataforma y la variedad de eventos disponibles. Aunque no ha tenido experiencias negativas en el pasado, reconoce la importancia de la seguridad y la transparencia en las transacciones en línea. Para mejorar su experiencia como comprador, le gustaría ver funcionalidades como recomendaciones personalizadas y mapas de asientos detallados. Considera esencial tener acceso a información detallada sobre los eventos y las entradas disponibles, y le parece atractiva la posibilidad de obtener recompensas o descuentos por asistir a eventos de manera regular. Prefiere comprar entradas a través de una plataforma de venta de entradas debido a su conveniencia y la posibilidad de comparar precios. Considera fundamental tener opciones de pago seguras y convenientes, así como medidas de seguridad y privacidad al comprar entradas en línea.</td></tr>
+    <tr><td>Link de la entrevista: <a href="https://youtu.be/LGgSQhsjqQI?si=h8IUovq9bNTRS-5z">https://youtu.be/LGgSQhsjqQI?si=h8IUovq9bNTRS-5z</a></td></tr>
+  </table>
+
+<h3>Segmento Cliente</h3>
 <h4>Nombre: Lizbeth Estela Gamboa Cabrera</h4>
-<p>Liz Gamboa no asiste con frecuencia a eventos como conciertos, festivales o espectáculos en vivo, pero tiene experiencia en la compra de entradas, siendo su motivación principal la conveniencia, especialmente cuando se trata de eventos virtuales para ahorrar costos como el pasaje y el tiempo. Valora la eficiencia del servicio al elegir dónde comprar sus entradas y ha tenido una experiencia negativa en el pasado con largas colas de espera en una página web. Le gustaría ver funcionalidades que mejoren la capacidad de personas en las colas de espera. Considera esencial tener acceso a información detallada sobre los eventos y las entradas disponibles, incluyendo detalles como el organizador, la fecha, el lugar y la ubicación de los asientos. La posibilidad de obtener recompensas o descuentos por asistir a eventos de manera regular le parece atractiva, especialmente si incluye descuentos en cadenas de comida. Prefiere comprar en plataformas de venta de entradas por su conveniencia y la posibilidad de comparar precios, pero le es muy importante tener opciones de pago seguras y convenientes, así como medidas de seguridad y privacidad robustas al comprar en línea, para evitar posibles fraudes o robos de datos.</p>
+<h4>Edad: 20 años</h4>
+<h4>Ubicación: Los Olivos</h4>
+<table style="border: 1px solid gray;">
+    <tr>
+        <td><img src="./imagenes/Liz Gamboa.png" alt="Descripción de la imagen"></td>
+    </tr>
+    <tr><td class="justificado">Liz Gamboa no asiste con frecuencia a eventos como conciertos, festivales o espectáculos en vivo, pero tiene experiencia en la compra de entradas, siendo su motivación principal la conveniencia, especialmente cuando se trata de eventos virtuales para ahorrar costos como el pasaje y el tiempo. Valora la eficiencia del servicio al elegir dónde comprar sus entradas y ha tenido una experiencia negativa en el pasado con largas colas de espera en una página web. Le gustaría ver funcionalidades que mejoren la capacidad de personas en las colas de espera. Considera esencial tener acceso a información detallada sobre los eventos y las entradas disponibles, incluyendo detalles como el organizador, la fecha, el lugar y la ubicación de los asientos. La posibilidad de obtener recompensas o descuentos por asistir a eventos de manera regular le parece atractiva, especialmente si incluye descuentos en cadenas de comida. Prefiere comprar en plataformas de venta de entradas por su conveniencia y la posibilidad de comparar precios, pero le es muy importante tener opciones de pago seguras y convenientes, así como medidas de seguridad y privacidad robustas al comprar en línea, para evitar posibles fraudes o robos de datos.</td></tr>
+    <tr><td>Link de la entrevista: <a href="https://youtu.be/VWth4gYwdHs">https://youtu.be/VWth4gYwdHs</a></td></tr>
+  </table>
+
+
+
+
+<h3>2.2.3 Análisis de entrevistas</h3>
+<h3>Organizador de Eventos:</h3>
+    <ul>
+        <li>Se destacan los desafíos actuales del mercado de eventos, como la saturación y la incertidumbre en la asistencia.</li>
+        <li>Existe una preferencia por los servicios de venta de entradas en línea debido a su conveniencia.</li>
+        <li>Se desean características como personalización, integración con redes sociales y herramientas analíticas en las plataformas de venta de entradas.</li>
+        <li>Al elegir una plataforma, se considera la facilidad de uso, tarifas y seguridad como factores importantes.</li>
+        <li>Estrategias de marketing incluyen publicidad digital y colaboraciones.</li>
+        <li>Acceder a datos y análisis es crucial para evaluar el rendimiento de los eventos.</li>
+        <li>Se reconoce el impacto negativo de una baja asistencia en un evento vendido.</li>
+    </ul>
+<h3>Cliente:</h3>
+<ul>
+        <li>Los clientes valoran la calidad de los artistas o el tipo de evento al comprar entradas.</li>
+        <li>Se valora la confiabilidad del servicio, la facilidad de uso de la plataforma y la variedad de eventos disponibles al elegir dónde comprar entradas.</li>
+        <li>Se considera importante la seguridad y la transparencia en las transacciones en línea.</li>
+        <li>Mejoras deseadas incluyen recomendaciones personalizadas, mapas de asientos detallados y la posibilidad de obtener recompensas o descuentos por asistir a eventos de manera regular.</li>
+        <li>Se prefiere comprar entradas a través de una plataforma de venta de entradas debido a su conveniencia y la posibilidad de comparar precios.</li>
+        <li>Se destaca la importancia de opciones de pago seguras y convenientes, así como medidas de seguridad y privacidad al comprar entradas en línea.</li>
+</ul>
+<h3>Temas Destacados</h3>
+  <ul>
+        <li>Conveniencia de los servicios en línea</li>
+        <li>Importancia de la seguridad en las transacciones</li>
+        <li>Preferencia por características específicas en las plataformas de venta de entradas</li>
+  </ul>
+
+  <h3>Factores Importantes</h3>
+  <ul>
+        <li>Seguridad y confiabilidad del servicio</li>
+        <li>Conveniencia de uso</li>
+        <li>Variedad de eventos disponibles</li>
+  </ul>
+
+  <h3>Características Valoradas</h3>
+  <ul>
+        <li>Personalización e integración con redes sociales para organizadores de eventos</li>
+        <li>Recomendaciones personalizadas y opciones de pago seguras para clientes</li>
+  </ul>
+
+<p>Estos puntos resaltan la importancia de garantizar la seguridad, ofrecer opciones de personalización y conveniencia, e integrar características sociales y analíticas en una plataforma de venta de entradas.</p>
+
+
     
 <h2>2.3 Needfinding</h2>
 <h3>2.3.1 User Personas</h3>
@@ -482,13 +670,18 @@ en horas tardías, generando miedo e incertidumbre sobre si su evento se llenar�
 <img src="./imagenes/empathyMaps/EmpathyMap2_Joaquin.png"/>
 
 <hr>
-<h3>2.3.5 As-is Scenario Mapping</h3>
+<h3>2.3.5 As-Is Scenario Mapping</h3>
+<h4>As-Is - Organizador de Eventos</h4>
+<img src="./imagenes/As-is Scenario Mapping/As - Is 2.jpg"/>
+<h4>As-Is - Cliente</h4>
+<img src="./imagenes/As-is Scenario Mapping/As - Is 1.jpg"/>
+
 <h2>2.3 Ubiquitous Language</h2>
 
     
 <h1>CAPÍTULO III: REQUIREMENTS SPECIFICATION</h1>
 <h2>3.1 To-Be Scenario Mapping</h2>
-<img src="/imagenes/tobe.PNG"/>
+<img src="/imagenes/tobe.png"/>
 <h2>3.2 User Stories</h2>
 <table>
   <thead>
@@ -744,12 +937,15 @@ en horas tardías, generando miedo e incertidumbre sobre si su evento se llenar�
   <td>EP27</td>
 </tr>
 
-    </tr>
+</tr>
   </tbody>
 </table>
 
 
 <h2>3.3 Impact Mapping</h2>
+  <img src="./imagenes/impactMapping/Impact Mapping.jpg"/>
+
+
 <h2>3.4 Product Backlog</h2>
 <table>
   <thead>
@@ -843,10 +1039,57 @@ en horas tardías, generando miedo e incertidumbre sobre si su evento se llenar�
 
 <h2>4.2 Information Architecture</h2>
 <h3>4.2.1 Organization Systems</h3>
+<p class="justificado">En este apartado, nuestro equipo ha optado por implementar un enfoque basado en la jerarquía visual. Creemos firmemente que esta estructura organizativa proporcionará una experiencia más intuitiva y eficiente para nuestros usuarios, al tiempo que les permitirá interactuar de manera más fluida con nuestra aplicación.</p>
+<img src="./imagenes/organizationSystems/Organization Systems.jpg"/>
+
 <h3>4.2.2 Labeling Systems</h3>
+<p class="justificado">Para el diseño de nuestra página web, hemos implementado un sistema de etiquetado uniforme con el objetivo de facilitar la navegación de los usuarios por nuestra plataforma. Este sistema se compone de etiquetas específicas que tienen funciones definidas para mejorar la experiencia del usuario. A continuación, se detallan las etiquetas utilizadas:</p>
+<img src="./imagenes/labelingSystems/1.png"/>
+<ul>
+  <li><strong>Inicio:</strong> Dirige a la página de inicio.</li>
+  <li><strong>MyEvent:</strong> Acceso al área de eventos disponibles.</li>
+  <li><strong>Nosotros:</strong> Información sobre nuestra empresa.</li>
+  <li><strong>Contáctanos:</strong> Canal para comunicarse con nuestro equipo de soporte.</li>
+</ul>
+<img src="./imagenes/labelingSystems/2.png"/>
+<ul>
+  <li><strong>Discotecas:</strong> Eventos relacionados con establecimientos sociales y clubes.</li>
+  <li><strong>Conciertos:</strong> Eventos musicales en vivo.</li>
+  <li><strong>Eventos:</strong> Otras actividades y espectáculos disponibles.</li>
+</ul>
+
 <h3>4.2.3 SEO Tags and Meta Tags</h3>
+<p>Para mejorar la visibilidad y el posicionamiento de nuestro sitio web en los motores de búsqueda, implementamos una estrategia sólida de SEO (Search Engine Optimization) que incluye el uso adecuado de etiquetas SEO y meta etiquetas. Estas etiquetas desempeñan un papel crucial en la optimización del contenido para que sea más accesible y relevante para los motores de búsqueda, lo que a su vez aumenta la probabilidad de que nuestro sitio web aparezca en los resultados de búsqueda relevantes para nuestros usuarios.</p>
+    
+<h3>Etiquetas SEO Principales Utilizadas:</h3>
+    <ol>
+        <li><strong>Title Tag (etiqueta de título):</strong> Cada página de nuestro sitio web cuenta con un título único y descriptivo que captura la esencia del contenido de esa página. Estos títulos están optimizados con palabras clave relevantes para mejorar su visibilidad en los resultados de búsqueda.</li>
+        <li><strong>Meta Description Tag (etiqueta de descripción meta):</strong> Para complementar el título, cada página también incluye una meta descripción que proporciona un resumen conciso del contenido de la página. Estas descripciones están diseñadas para ser informativas y atractivas para los usuarios, lo que puede aumentar la tasa de clics en los resultados de búsqueda.</li>
+        <li><strong>Meta Keywords Tag (etiqueta de palabras clave meta):</strong> Aunque el uso de meta palabras clave ha disminuido en importancia en los últimos años, aún las utilizamos de manera estratégica para identificar las palabras clave principales relacionadas con el contenido de la página. Esto ayuda a los motores de búsqueda a comprender mejor el tema y la relevancia del contenido.</li>
+        <li><strong>Canonical Tag (etiqueta canónica):</strong> En casos donde tenemos múltiples URL que muestran el mismo contenido o contenido similar, utilizamos etiquetas canónicas para indicar a los motores de búsqueda la URL preferida que deben indexar y mostrar en los resultados de búsqueda.</li>
+    </ol>
+    
+<h3>Otros Aspectos Relevantes:</h3>
+    <ul>
+        <li><strong>Etiquetas Alt en Imágenes:</strong> Cada imagen en nuestro sitio web incluye una etiqueta alt descriptiva que ayuda a los motores de búsqueda a comprender el contenido de la imagen. Esto también mejora la accesibilidad para usuarios con discapacidades visuales.</li>
+        <li><strong>Etiquetas Heading (H1, H2, H3, etc.):</strong> Utilizamos etiquetas de encabezado de manera jerárquica para estructurar el contenido de nuestras páginas web. Esto no solo mejora la legibilidad y la experiencia del usuario, sino que también proporciona pistas adicionales a los motores de búsqueda sobre la relevancia y la organización del contenido.</li>
+    </ul>
+    
+<p>Nuestra estrategia de etiquetado SEO y meta tags está diseñada para garantizar que nuestro sitio web sea fácilmente indexado y clasificado por los motores de búsqueda, lo que aumenta su visibilidad y accesibilidad para nuestros usuarios objetivo.</p>
+
 <h3>4.2.4 Searching Systems</h3>
+<p class="justificado">Los sistemas de búsqueda son esenciales para permitir a los usuarios encontrar y descubrir características y funcionalidades relevantes en nuestro sitio web. Para una experiencia de usuario eficiente, hemos implementado un sistema de búsqueda simple pero efectivo:</p>
+<img src="./imagenes/labelingSystems/3.png"/>
+<ul>
+  <li><strong>Lupa de Búsqueda:</strong> Permite a los usuarios buscar rápidamente cualquier tema de su interés.</li>
+  <li><strong>Perfil de Usuario:</strong> Representado por el icono del usuario, proporciona acceso al perfil del usuario para editar información o iniciar sesión.</li>
+  <li><strong>Membresías:</strong> Representado por el icono de membresías, muestra los planes disponibles y sus precios para suscripciones mensuales o anuales.</li>
+</ul>
+
 <h3>4.2.5 Navigation Systems</h3>
+<p class="justificado">Nuestra aplicación cuenta con un sistema de navegación claro y definido para garantizar una experiencia fluida para los usuarios.</p>
+<img src="./imagenes/labelingSystems/5.png"/>
+<p class="justificado">El sistema de navegación de nuestra aplicación móvil está diseñado para ofrecer a los usuarios una experiencia intuitiva y fluida. Con iconos claramente identificados en la parte superior, los usuarios pueden acceder fácilmente a las funciones principales de la aplicación.</p>
 
 <h2>4.3 Landing Page UI Design</h2>
 <h3>4.3.1 Landing Page Wireframe</h3>

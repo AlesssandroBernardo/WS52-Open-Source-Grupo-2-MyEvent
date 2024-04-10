@@ -1099,7 +1099,7 @@ en horas tard√≠as, generando miedo e incertidumbre sobre si su evento se llenar√
 <br>
 <td>Desktop Web Browser:</td>
 <img src="./imagenes/wireframe.png"/>
-<br><td>Mobile Web Browser:</td>
+<td>Mobile Web Browser:</td>
 <img src="./imagenes/wireframemobile1.JPG"/>
 <br>
 <td>Pantalla de "Proximos eventos", este apartado contiene los diversos eventos a los que pueden asistir los usuarios.</td>
@@ -1112,13 +1112,13 @@ en horas tard√≠as, generando miedo e incertidumbre sobre si su evento se llenar√
 <td>Pantalla de "Nosotros", este apartado contiene la mision de la startup, junto con el proposito de la plataforma web.</td>
 <br><td>Desktop Web Browser:</td>
 <img src="./imagenes/wireframe3.png"/>
-<br><td>Mobile Web Browser:</td>
+<td>Mobile Web Browser:</td>
 <img src="./imagenes/wireframemobile3.JPG"/>
 <br>
 <td>Pantalla de "Contactanos", en este apartado encuentran la informacion de contacto del startup.</td>
 <br><td>Desktop Web Browser:</td>
 <img src="./imagenes/wireframe4.png"/>
-<br><td>Mobile Web Browser:</td>
+<td>Mobile Web Browser:</td>
 <img src="./imagenes/wireframemobile4.JPG"/>
 <br>
 <p>Link del Figma Desktop Web Browser : https://www.figma.com/file/dDsv9BCQHxxzDUz3hqTTyp/Landing-Page-Wireframe--Desarrollo-Open-Source?type=design&mode=design&t=baNvdMOlwkRcVvBE-1</p>
@@ -1126,16 +1126,28 @@ en horas tard√≠as, generando miedo e incertidumbre sobre si su evento se llenar√
 <h3>4.3.2 Landing Page Mock-up</h3>
 <br>
 <td>Pantalla de inicio, contiene el apartado mas llamativo del landing page con los colores asignados en el Style Guidelines, detalla brevemente las multiples opciones que puede tener el usuario, acompa√±ado con imagenes referentes.</td>
+<br><td>Desktop Web Browser:</td>
 <img src="./imagenes/mockup 1.JPG"/>
+<td>Mobile Web Browser:</td>
+<img src="./imagenes/mockupmobile1.JPG"/>
 <br>
 <td>Pantalla de "Proximos eventos", este apartado contiene los diversos eventos a los que el usuario puede asistir, incluye la foto del artista o artistas, el lugar y la fecha de preentaci√≥n.</td>
+<br><td>Desktop Web Browser:</td>
 <img src="./imagenes/mockup 2.JPG"/>
+<td>Mobile Web Browser:</td>
+<img src="./imagenes/mockupmobile2.JPG"/>
 <br>
 <td>Pantalla de "Nosotros", este apartado contiene la mision de la startup y muestra el lineamiento que sigue la paltaforma web para cunmplir su proposito.</td>
+<br><td>Desktop Web Browser:</td>
 <img src="./imagenes/mockup 3.JPG"/>
+<td>Mobile Web Browser:</td>
+<img src="./imagenes/mockupmobile3.JPG"/>
 <br>
 <td>Pantalla de "Contactanos", en este apartado encuentran la informacion de contacto del startup. Insertamos un QR Code para facilitar el medio de comunicacion entre el usuario y nosotros. </td>
+<br><td>Desktop Web Browser:</td>
 <img src="./imagenes/mockup 4.JPG"/>
+<td>Mobile Web Browser:</td>
+<img src="./imagenes/mockupmobile4.JPG"/>
 <br>
 <h2>4.4 Web Applications UX/UI Design</h2>
 <h3>4.4.1 Web Applications Wireframes</h3>

@@ -1092,34 +1092,41 @@ en horas tardías, generando miedo e incertidumbre sobre si su evento se llenar�
 <p class="justificado">El sistema de navegación de nuestra aplicación móvil está diseñado para ofrecer a los usuarios una experiencia intuitiva y fluida. Con iconos claramente identificados en la parte superior, los usuarios pueden acceder fácilmente a las funciones principales de la aplicación.</p>
 
 <h2>4.3 Landing Page UI Design</h2>
+
 <h3>4.3.1 Landing Page Wireframe</h3>
-<td>Desktop Landing Page Wireframe:</td>
 <br>
 <td>Pantalla de inicio, contiene el apartado mas llamativo del landing page.</td>
+<br>
+<td>Desktop Web Browser:</td>
 <img src="./imagenes/wireframe.png"/>
 <br>
-<td>Pantalla de "Proximos eventos", este apartado contiene los diversos eventos a los que pueden asistir los usuarios.</td>
-<br><td>Pa<td>Para Desktop Web Browser:</td><br>
-<img src="./imagenes/wireframe1.png"/>
-<br>
-<br><td>Pa<td>Para Mobile Web Browser:</td><br>
+<br><td>Mobile Web Browser:</td><br>
 <img src="./imagenes/wireframemobile1.JPG"/>
+
+<td>Pantalla de "Proximos eventos", este apartado contiene los diversos eventos a los que pueden asistir los usuarios.</td>
 <br>
-<td>Pantalla de "Nosotros", este apartado contiene la mision de la startup, junto con el proposito de la plataforma web.</td>
-<br><td>Pa<td>Para Desktop Web Browser:</td><br>
-<img src="./imagenes/wireframe3.png"/>
+<td>Desktop Web Browser:</td>
 <br>
-<br><td>Pa<td>Para Mobile Web Browser:</td><br>
+<img src="./imagenes/wireframe1.png"/>
+<br><td>Mobile Web Browser:</td><br>
 <img src="./imagenes/wireframemobile2.JPG"/>
 <br>
+<td>Pantalla de "Nosotros", este apartado contiene la mision de la startup, junto con el proposito de la plataforma web.</td>
+<br><td>Desktop Web Browser:</td><br>
+<img src="./imagenes/wireframe3.png"/>
+<br>
+<br><td>Mobile Web Browser:</td><br>
+<img src="./imagenes/wireframemobile3.JPG"/>
+<br>
 <td>Pantalla de "Contactanos", en este apartado encuentran la informacion de contacto del startup.</td>
-<br><td>Pa<td>Para Desktop Web Browser:</td><br>
+<br><td>Desktop Web Browser:</td><br>
 <img src="./imagenes/wireframe4.png"/>
 <br>
-<br><td>Pa<td>Para Mobile Web Browser:</td><br>
+<br><td>Mobile Web Browser:</td><br>
 <img src="./imagenes/wireframemobile4.JPG"/>
 <br>
-<p>Link del Figma: https://www.figma.com/file/dDsv9BCQHxxzDUz3hqTTyp/Landing-Page-Wireframe--Desarrollo-Open-Source?type=design&mode=design&t=baNvdMOlwkRcVvBE-1</p>
+<p>Link del Figma Desktop Web Browser : https://www.figma.com/file/dDsv9BCQHxxzDUz3hqTTyp/Landing-Page-Wireframe--Desarrollo-Open-Source?type=design&mode=design&t=baNvdMOlwkRcVvBE-1</p>
+<p>Link del Figma Mobile Web Browser : https://www.figma.com/file/3uZbQ58V4KBA7Yexsds130/Mobile-Browser-Frames?type=design&node-id=2%3A1523&mode=design&t=LddOPqpidUhOV053-1</p>
 <h3>4.3.2 Landing Page Mock-up</h3>
 <br>
 <td>Pantalla de inicio, contiene el apartado mas llamativo del landing page con los colores asignados en el Style Guidelines, detalla brevemente las multiples opciones que puede tener el usuario, acompañado con imagenes referentes.</td>

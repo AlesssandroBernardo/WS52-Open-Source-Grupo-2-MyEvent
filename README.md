@@ -1099,15 +1099,27 @@ en horas tardías, generando miedo e incertidumbre sobre si su evento se llenar�
 <img src="./imagenes/wireframe.png"/>
 <br>
 <td>Pantalla de "Proximos eventos", este apartado contiene los diversos eventos a los que pueden asistir los usuarios.</td>
+<br><td>Pa<td>Para Desktop Web Browser:</td><br>
 <img src="./imagenes/wireframe1.png"/>
 <br>
+<br><td>Pa<td>Para Mobile Web Browser:</td><br>
+<img src="./imagenes/wireframemobile1.JPG"/>
+<br>
 <td>Pantalla de "Nosotros", este apartado contiene la mision de la startup, junto con el proposito de la plataforma web.</td>
+<br><td>Pa<td>Para Desktop Web Browser:</td><br>
 <img src="./imagenes/wireframe3.png"/>
 <br>
+<br><td>Pa<td>Para Mobile Web Browser:</td><br>
+<img src="./imagenes/wireframemobile2.JPG"/>
+<br>
 <td>Pantalla de "Contactanos", en este apartado encuentran la informacion de contacto del startup.</td>
+<br><td>Pa<td>Para Desktop Web Browser:</td><br>
 <img src="./imagenes/wireframe4.png"/>
 <br>
-<p>Link de la entrevista: https://www.figma.com/file/dDsv9BCQHxxzDUz3hqTTyp/Landing-Page-Wireframe--Desarrollo-Open-Source?type=design&mode=design&t=baNvdMOlwkRcVvBE-1</p>
+<br><td>Pa<td>Para Mobile Web Browser:</td><br>
+<img src="./imagenes/wireframemobile4.JPG"/>
+<br>
+<p>Link del Figma: https://www.figma.com/file/dDsv9BCQHxxzDUz3hqTTyp/Landing-Page-Wireframe--Desarrollo-Open-Source?type=design&mode=design&t=baNvdMOlwkRcVvBE-1</p>
 <h3>4.3.2 Landing Page Mock-up</h3>
 <br>
 <td>Pantalla de inicio, contiene el apartado mas llamativo del landing page con los colores asignados en el Style Guidelines, detalla brevemente las multiples opciones que puede tener el usuario, acompañado con imagenes referentes.</td>

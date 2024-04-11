@@ -681,7 +681,7 @@ en horas tardías, generando miedo e incertidumbre sobre si su evento se llenar�
     
 <h1>CAPÍTULO III: REQUIREMENTS SPECIFICATION</h1>
 <h2>3.1 To-Be Scenario Mapping</h2>
-<img src="/imagenes/tobe.png"/>
+<img src="./imagenes/t.jpg"/>
 <h2>3.2 User Stories</h2>
 <table>
   <thead>

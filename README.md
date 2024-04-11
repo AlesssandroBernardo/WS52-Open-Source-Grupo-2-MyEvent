@@ -80,12 +80,12 @@ Luis Alejandro Zárate Gamarra  - U20181H198
                 <p>
                     <strong>TB1</strong>
                     <p>
-                      Desarrollo e implementación de:
-                        Entrevista a cada uno de los segmentos objetivos
-                        To-Be Scenario Mapping
-                        User Stories
-                        Product Backlog
-                        Programación de la Landing Page
+                    Desarrollo e implementación de:</p>
+                    <p>Entrevista a cada uno de los segmentos objetivos</p>
+                    <p>To-Be Scenario Mapping</p>
+                    <p> User Stories</p>
+                    <p> Product Backlog</p>
+                    <p>Programación de la Landing Page
                     </p>
                   </p>
                 <li><strong>3</strong></li>

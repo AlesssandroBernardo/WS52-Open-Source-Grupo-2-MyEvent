@@ -31,7 +31,7 @@
 
 [Nombre del Integrante 4]
 
-Luis Alejandro Zárate Gamarra
+Luis Alejandro Zárate Gamarra  - U20181H198
 
 **Abril - 2024** 
 
@@ -55,7 +55,7 @@ Luis Alejandro Zárate Gamarra
                 <li></li>
                 <li></li>
                 <li></li>
-                <li>Luis Alejandro Zárate Gamarra - U20181H198</li>
+                <li>Luis Alejandro Zárate Gamarra</li>
             </ul>
         </td>
         <td>Se formuló una solución para abordar la oportunidad identificada y se procedió a desarrollar los primeros cinco capítulos del proyecto, desde la Introducción hasta la Implementación del Producto, Validación y Despliegue. De esta manera, hemos completado la fase inicial del proyecto según la estructura indicada en este informe.</td>

@@ -25,7 +25,7 @@
 
 [Nombre del Integrante 1]
 
-[Nombre del Integrante 2]
+Michael Stefano Carmelino Dueñas - U202212760
 
 [Nombre del Integrante 3]
 
@@ -52,7 +52,7 @@ Luis Alejandro Zárate Gamarra  - U20181H198
         <td>
             <ul>
                 <li></li>
-                <li></li>
+                <li>Michael Stefano Carmelino Dueñas</li>
                 <li></li>
                 <li></li>
                 <li>Luis Alejandro Zárate Gamarra</li>
@@ -76,7 +76,17 @@ Luis Alejandro Zárate Gamarra  - U20181H198
         <td>
             <ul style="list-style-type: none;">
                 <li><strong>1</strong></li>
-                <li><strong>2</strong></li>
+                <li><strong>Michael Stefano Carmelino Dueñas</strong></li>
+                <p>
+                    <strong>TB1</strong>
+                    <p>
+                      Desarrollo e implementación de:
+                        To-Be Scenario Mapping
+                        User Stories
+                        Product Backlog
+                        Programación de la Landing Page
+                    </p>
+                  </p>
                 <li><strong>3</strong></li>
                 <li><strong>4</strong></li>
                 <li><strong>Luis Alejandro Zárate Gamarra</strong>

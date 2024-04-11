@@ -81,6 +81,7 @@ Luis Alejandro Zárate Gamarra  - U20181H198
                     <strong>TB1</strong>
                     <p>
                       Desarrollo e implementación de:
+                        Entrevista a cada uno de los segmentos objetivos
                         To-Be Scenario Mapping
                         User Stories
                         Product Backlog

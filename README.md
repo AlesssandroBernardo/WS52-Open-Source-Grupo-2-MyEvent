@@ -462,7 +462,7 @@ Se asume que implementar un programa de fidelización con acumulación y canje d
 <h4>Ubicación: Pueblo Libre</h4>
 <table style="border: 1px solid gray;">
     <tr>
-        <td><img src="./imagenes/" alt="Descripción de la imagen"></td>
+        <td><img src="./imagenes/entrevistaJesus.png" alt="Descripción de la imagen"></td>
     </tr>
     <tr><td class="justificado">En la entrevista Jesús nos cuenta sus dificultades que tiene cada vez que quiere realizar eventos, como conseguir gente que quiera ser promotora
 de sus eventos y las publicaciones que debe realizar para cada uno de ellos para atraer a público, también encontrar al público objetivo 

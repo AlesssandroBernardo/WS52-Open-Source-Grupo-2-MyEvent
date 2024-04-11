@@ -1166,13 +1166,13 @@ en horas tardías, generando miedo e incertidumbre sobre si su evento se llenar�
 <h3>4.4.2 Web Applications Mock-ups</h3>
 <br>
 <td>Segmento de inicio:</td>
-<img src="./imagenes/informacionmockup1.JPG"/>
-<img src="./imagenes/informacionmockup2.JPG"/>
-
-<td>Segmento de información sobre eventos, conciertos y discotecas:</td>
-<img src="./imagenes/mockup1.JPG"/>
+<img src="./imagenes/mockup 1.JPG"/>
 <img src="./imagenes/iniciomockup1.JPG"/>
 <img src="./imagenes/iniciomockup2.JPG"/>
+
+<td>Segmento de información sobre eventos, conciertos y discotecas:</td>
+<img src="./imagenes/informacionmockup1.JPG"/>
+<img src="./imagenes/informacionmockup2.JPG"/>
 
 <td>Segmento de adquisición de entradas:</td>
 <img src="./imagenes/compramockup1.JPG"/>

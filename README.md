@@ -445,10 +445,10 @@ Se asume que implementar un programa de fidelización con acumulación y canje d
     <tr><td>Link de la entrevista: <a href="https://www.youtube.com/watch?v=OLU-1__nHN8">https://www.youtube.com/watch?v=OLU-1__nHN8</a></td></tr>
   </table>
 
-<h3>Segmento ...</h3>
-<h4>Nombre: ...</h4>
-<h4>Edad: ...años</h4>
-<h4>Ubicación: ...</h4>
+<h3>Segmento Organizador de Eventos</h3>
+<h4>Nombre: Jesús Espinoza</h4>
+<h4>Edad: 19 años</h4>
+<h4>Ubicación: Pueblo Libre</h4>
 <table style="border: 1px solid gray;">
     <tr>
         <td><img src="./imagenes/" alt="Descripción de la imagen"></td>
@@ -459,7 +459,7 @@ aunque en la mayoría son jóvenes. Comenta que para eventos más grandes, prefi
 público. Se le hace importante tener acceso a la información de participantes de sus eventos, más que todo para saber los porcentajes y 
 datos sobre como va el evento. Comenta que sus eventos siempre se llenan. Sin embargo, no suelen llegar a la hora establecida, y suelen llegar
 en horas tardías, generando miedo e incertidumbre sobre si su evento se llenará o no.</td></tr>
-    <tr><td>Link de la entrevista: <a href="">Link aquí!!</a></td></tr>
+    <tr><td>Link de la entrevista: <a href="https://youtu.be/kTtdDcBem4g">https://youtu.be/kTtdDcBem4g</a></td></tr>
   </table>
 
 <h3>Segmento Cliente</h3>

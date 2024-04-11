@@ -1178,6 +1178,7 @@ en horas tard√≠as, generando miedo e incertidumbre sobre si su evento se llenar√
 <img src="./imagenes/compramockup1.JPG"/>
 <img src="./imagenes/compramockup2.JPG"/>
 
+<p>Link del Figma : https://www.figma.com/file/KbCtpsbMWS1zaDDdYl8vAQ/Web-Applications-Mock-ups?type=design&node-id=0%3A1&mode=design&t=dWTASblpDbT7DnVi-1</p>
 <h3>4.4.3 Web Applications User Flow Diagrams</h3>
 <img src="./imagenes/mockupuserflow.JPG"/>
 

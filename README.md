@@ -1039,6 +1039,125 @@ en horas tardías, generando miedo e incertidumbre sobre si su evento se llenar�
       <td>Como usuario premium, quiero recibir atención prioritaria en el servicio al cliente, con tiempos de respuesta más rápidos y asistencia personalizada, para sentirme valorado y apoyado como cliente leal.</td>
       <td>3</td>
     </tr>
+  <tr>
+      <td>11</td>
+      <td>EP11</td>
+      <td>Membresía de Descuentos en Futuras Compras</td>
+      <td>Como usuario habitual de la plataforma, quiero recibir descuentos para futuras compras de entradas Para incentivar mi lealtad y continuar utilizando el servicio</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>EP12</td>
+      <td>Entradas Gratis para Eventos Seleccionados</td>
+      <td>Como usuario frecuente de la plataforma, quiero tener la oportunidad de obtener entradas gratuitas Para disfrutar de eventos sin costo adicional y fomentar mi fidelidad</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>EP13</td>
+      <td>Acceso a Preventas Exclusivas</td>
+      <td>Como usuario frecuente de la plataforma, quiero tener acceso exclusivo a preventas de eventos populares Para asegurar mi participación en eventos de alto demanda</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>EP14</td>
+      <td>Puntos de Fidelidad o Programa de Recompensas</td>
+      <td>Como usuario frecuente de la plataforma, quiero acumular puntos de fidelidad por cada compra de entradas Para canjearlos por descuentos, entradas gratis u otros beneficios</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td>EP15</td>
+      <td>Niveles de Entrada con Descuento</td>
+      <td>Como usuario frecuente de la plataforma, quiero acceder a precios especiales de entrada después de realizar cierto número de compras Para disfrutar de beneficios adicionales y promociones exclusivas</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>16</td>
+      <td>EP16</td>
+      <td>Notificaciones de Eventos y Ofertas</td>
+      <td>Como usuario de la plataforma, quiero recibir notificaciones sobre eventos nuevos y ofertas especiales Para estar al tanto de las últimas novedades y oportunidades</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>17</td>
+      <td>EP17</td>
+      <td>Integración con Redes Sociales</td>
+      <td>Como usuario de la plataforma, quiero poder compartir eventos y experiencias en mis redes sociales Para ampliar el alcance de la plataforma y compartir intereses con amigos</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>18</td>
+      <td>EP18</td>
+      <td>Soporte Multilingüe</td>
+      <td>Como usuario de la plataforma, quiero poder acceder a la aplicación en varios idiomas Para facilitar la navegación y comprensión del contenido</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>19</td>
+      <td>EP19</td>
+      <td>Integración con Mapas y Direcciones</td>
+      <td>Como usuario de la plataforma, quiero tener acceso a información de ubicación y direcciones de eventos Para facilitar la planificación y asistencia a los mismos</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>20</td>
+      <td>EP20</td>
+      <td>Calificación y Reseñas de Eventos</td>
+      <td>Como usuario de la plataforma, quiero poder calificar y dejar reseñas sobre eventos a los que asistí Para compartir experiencias y ayudar a otros usuarios en su decisión de compra</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>21</td>
+      <td>EP21</td>
+      <td>Asistencia en Vivo y Chat en Línea</td>
+      <td>Como usuario de la plataforma, quiero tener acceso a asistencia en vivo y chat en línea Para resolver consultas rápidamente y recibir ayuda durante la navegación</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>22</td>
+      <td>EP22</td>
+      <td>Estadísticas y Análisis de Participación</td>
+      <td>Como organizador de eventos, quiero acceder a estadísticas y análisis detallados sobre la participación en mis eventos Para evaluar su éxito y mejorar la planificación futura</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>23</td>
+      <td>EP23</td>
+      <td>Integración con Plataformas de Streaming</td>
+      <td>Como usuario de la plataforma, quiero tener acceso a transmisiones en vivo y contenido exclusivo de eventos Para disfrutar de experiencias virtuales y ampliar mi participación en eventos</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>24</td>
+      <td>EP24</td>
+      <td>Verificación de Identidad para Revendedores</td>
+      <td>Como revendedor de entradas, quiero completar un proceso de verificación de identidad Para garantizar la legitimidad de mis transacciones y proteger la integridad de la plataforma</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>25</td>
+      <td>EP25</td>
+      <td>Integración con Plataformas de Pago Internacionales</td>
+      <td>Como usuario internacional de la plataforma, quiero poder utilizar diferentes métodos de pago Para facilitar la compra de entradas desde cualquier parte del mundo</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>26</td>
+      <td>EP26</td>
+      <td>Reserva de Entradas</td>
+      <td>Como usuario de la plataforma, quiero tener la opción de reservar entradas para eventos populares Para garantizar mi participación antes de la venta general</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>27</td>
+      <td>EP27</td>
+      <td>Reembolso y Política de Devoluciones</td>
+      <td>Como usuario de la plataforma, quiero conocer la política de reembolso y devoluciones Para tomar decisiones informadas sobre mis compras de entradas</td>
+      <td>2</td>
+    </tr>
   </tbody>
 </table>
 

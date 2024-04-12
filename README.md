@@ -451,7 +451,7 @@ Se asume que implementar un programa de fidelización con acumulación y canje d
 <h4>Ubicación: Cercado de Lima</h4>
   <table style="border: 1px solid gray;">
     <tr>
-        <td><img src="./imagenes/fotoentrevistajordy.png" alt="Descripción de la imagen"></td>
+        <td><img src="./imagenes/fotoentrevistajordy.JPG" alt="Descripción de la imagen"></td>
     </tr>
     <tr><td class="justificado">En la entrevista Jordy nos cuenta que uno de los problemas que tiene al organizar un evento es la fuerte competencia, y que las estrategias que utiliza si bien le funcionan, no logra captar el público que espera.Además comenta que considera viable utilizar una plataforma web que facilite la compra de entradas e incorpore medios de pago como visa, bcp y otros medios de pagos conocidos. También indica que quisiera confiabilidad y seguridad en las plataformas web para que sus asistentes puedan comprar sus entradas de manera segura. Indica que quisiera que esta plataforma cuente con un sistemas optimo para que recopile la informacion de pago, y un asesoramiento para manipular esa información. Comenta que unas de sus estrategias es contratar cantantes o  animadores que puedan crear una mejor experiencia a sus asistentes.Considera que los datos son importantes para estudiar el comportamiento del publico y la rentabilidad del evento. Comenta que no es tan común que la gente pague sus entrada y no asista al evento, y que la mayoria de personas llegan tarde a este. Comenta que si bien no trabaja con ninguna plataforma web de compra de entradas, el preferiría hacerlo con las mas conocidas como passline, entre otras.
 </td></tr>

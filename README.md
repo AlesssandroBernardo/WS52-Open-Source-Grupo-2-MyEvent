@@ -242,7 +242,7 @@ Luis Alejandro Zárate Gamarra  - U20181H198
   <p class="justificado">Estudio la carrera de Ingeniería de Software en la UPC, tengo conocimientos básicos en C++, Python y Java. Soy una persona que le gusta el liderazgo y organización en equipo, coordinación y poder generar un buen entorno. Ayudo a quienes lo necesiten con lo máximo que pueda. De igual forma tengo conocimientos en los que son fundamentos en Ciencia de Datos.</p>
 
   <p><strong>Piero Jhoynner Muñoz Salcedo</strong></p>
-  <img src = "./imagenes/fotopiero.jpg" width="270" height="250">
+  <img src = "./imagenes/fotopiero.jpg" width="240" height="250">
   <p class="justificado">Soy estudiante de Ingeniería de Software en la UPC. Me considero una persona entusiasta y muy creativa, predispuesta a trabajar en proyectos relacionados con la tecnología. Cuento con conocimiento basico en lenguajes de programación como python y java, además de un buen nivel en HTML y CSS. Me gusta trabajar en equipo y siempre trato de mejorar como persona cada día.</p>
 
   <p><strong>Luis Alejandro Zárate Gamarra</strong></p>

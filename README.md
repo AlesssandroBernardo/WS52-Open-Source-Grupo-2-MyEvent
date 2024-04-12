@@ -53,7 +53,7 @@ Luis Alejandro Zárate Gamarra  - U20181H198
             <ul>
                 <li></li>
                 <li>Michael Stefano Carmelino Dueñas</li>
-                <li></li>
+                <li>Luis Mario Gonzales Anaya</li>
                 <li>Piero Jhoynner Muñoz Salcedo</li>
                 <li>Luis Alejandro Zárate Gamarra</li>
             </ul>

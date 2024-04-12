@@ -247,7 +247,7 @@ Luis Alejandro Zárate Gamarra  - U20181H198
   llevar a cabo este proyecto de forma satisfactoria.</p>
 
   <p><strong>Michael Stefano Carmelino Dueñas</strong></p>
-  <img src="./imagenes/MichaelCarmelino.jfif" width="200" height="200"> 
+  <img src="./imagenes/stefanoimg.jpg" width="200" height="200"> 
   <p class="justificado">Estudio la carrera de Ingeniería de Software en la UPC, tengo conocimientos básicos en C++, Python y Java. Soy una persona que le gusta el liderazgo y organización en equipo, coordinación y poder generar un buen entorno. Ayudo a quienes lo necesiten con lo máximo que pueda. De igual forma tengo conocimientos en los que son fundamentos en Ciencia de Datos.</p>
 
   <p><strong>Piero Jhoynner Muñoz Salcedo</strong></p>

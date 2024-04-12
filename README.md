@@ -1374,9 +1374,9 @@ en horas tardías, generando miedo e incertidumbre sobre si su evento se llenar�
 Este apartado nos será de mucha utilidad para facilitar que los actuales y futuros desarrolladores puedan colaborar en el proyecto gracias a tener una documentación sobre cómo se está llevando a cabo el desarrollo.</p>
 <h4>Project Management</h4>
 
-<p><strong>• Meet: </strong>Es un servicio de videoconferencia desarollado por Google. Esta plataforma nos sirvió de ayuda para realizar las reuniones virtuales con todos los integrantes del grupo y también poder compartir.</p>
-<p><strong>Link: </strong> https://workspace.google.com/products/meet/ </p>
-<img src="./imagenes/meet.png" width="80" height="80">
+<p><strong>• Discord: </strong>Discord es una plataforma de comunicación en línea que permite a los usuarios chatear, hacer llamadas de voz y video, y colaborar en grupos o comunidades virtuales.</p>
+<p><strong>Link: </strong> https://discord.com/ </p>
+<img src="./imagenes/discord.png" width="80" height="80">
 
 <p><strong>• Uxpressia: </strong>Es una herramienta en línea para el mapeo de la trayectoria del cliente donde se puede realizar los User Personas, el Customer Journey Map, Empathy map. Ya que cuenta con plantillas y nos facilita el desarrollo.</p>
 <p><strong>Link: </strong> https://uxpressia.com/ </p>

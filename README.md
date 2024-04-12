@@ -1314,6 +1314,9 @@ en horas tard√≠as, generando miedo e incertidumbre sobre si su evento se llenar√
 <td>Mobile Web Browser:</td>
 <img src="./imagenes/mockupmobile4.JPG"/>
 <br>
+<p>Link del Figma Desktop Web Browser : https://www.figma.com/file/dDsv9BCQHxxzDUz3hqTTyp/Landing-Page-Wireframe--Desarrollo-Open-Source?type=design&mode=design&t=baNvdMOlwkRcVvBE-1</p>
+<p>Link del Figma Mobile Web Browser : https://www.figma.com/file/3uZbQ58V4KBA7Yexsds130/Mobile-Browser-Frames?type=design&node-id=2%3A1523&mode=design&t=LddOPqpidUhOV053-1</p>
+<br>
 <h2>4.4 Web Applications UX/UI Design</h2>
 <h3>4.4.1 Web Applications Wireframes</h3>
 <h3>4.4.2 Web Applications Wireflow Diagrams</h3>

@@ -1325,6 +1325,8 @@ en horas tardías, generando miedo e incertidumbre sobre si su evento se llenar�
 <h3>4.4.2 Web Applications Wireflow Diagrams</h3>
 <h3>4.4.2 Web Applications Mock-ups</h3>
 <br>
+<td>Vista Para los usuarios generales que adquieren entradas</td>
+<br>
 <td>Segmento de inicio:</td>
 <img src="./imagenes/mockup 1.JPG"/>
 <img src="./imagenes/iniciomockup1.JPG"/>
@@ -1337,10 +1339,19 @@ en horas tardías, generando miedo e incertidumbre sobre si su evento se llenar�
 <td>Segmento de adquisición de entradas:</td>
 <img src="./imagenes/compramockup1.JPG"/>
 <img src="./imagenes/compramockup2.JPG"/>
-
 <p>Link del Figma : https://www.figma.com/file/KbCtpsbMWS1zaDDdYl8vAQ/Web-Applications-Mock-ups?type=design&node-id=0%3A1&mode=design&t=dWTASblpDbT7DnVi-1</p>
+<br>
+<td>Vista Para los usuarios empresariales que organizan eventos</td>
+<br>
+
+
 <h3>4.4.3 Web Applications User Flow Diagrams</h3>
+<td>User Persona: Usuario General</td>
+<td>User Goal: El usuario general adquiere la entrada al evento, concierto o discoteca satisfactoriamente</td>
+<td>En el Wireflow se evidencia las distintas ventanas por las que el usuario general tendrá que pasar para adquirir sus entradas, desde la eleccion del evento, concierto o discoteca hasta la eleccion del metodo pago a placer</td>
 <img src="./imagenes/mockupuserflow.JPG"/>
+<td>User Persona: Usuario Empresarial</td>
+<td>User Goal: El usuario empresarial crea un evento y proporciona sus detalles satisfactoriamente</td>
 
 <h2>4.5 Web Applications Prototyping</h2>
 

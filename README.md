@@ -1485,6 +1485,7 @@ https://github.com/pieroms210
     
 <h2>5.2 Product Implementation & Deployment</h2>
 <h3>5.2.1 Sprint 1</h3>
+<p>En el primer sprint se desarrolló y se desplegó la Landing Page.</p>
 <h4>5.2.1.1 Sprint Planning 1</h4>
 <table>
   <tr>
@@ -1545,7 +1546,78 @@ Piero Jhoynner, Muñoz Salcedo - u202224446
     <th>5</th>
   </tr>
 </table>
-<h3>5.2.1.1 Sprint Backlog 1</h3>
-<p>En el primer sprint se desarrolló y se desplegó la Landing Page.</p>
+<h4>5.2.1.2 Sprint Backlog 1</h4>
+<table>
+   <tr>
+    <th>Sprint #</th>
+    <th>Sprint 1</th>
+  </tr>
+   <tr>
+    <th>User Story</th>
+    <th></th>
+    <th>Work-Item/Task</th>
+  </tr>
+  <tr>
+    <th>Id</th>
+    <th>Title</th>
+    <th>Id</th>
+    <th>Title </th>
+    <th>Description</th>
+    <th>Estimation(Hours)</th>
+    <th>Assigned To</th>
+    <th>Status (To-do / InProcess / ToReview / Done)</th>
+  </tr>
+  <tr>
+    <th>US-01</th>
+    <th>Visualizar una landing page intuitiva</th>
+    <th>W-01</th>
+    <th>Diseño </th>
+    <th>Como visitante, quiero ver una landing page intuitiva, atractiva y sencilla para que pueda entender rápidamente el propósito del sitio web.</th>
+    <th>2 hours</th>
+    <th>Michael</th>
+    <th>Done</th>
+  </tr>
+  <tr>
+    <th>US-02</th>
+    <th>Visualizar una sección de MyEvent</th>
+    <th>W-02</th>
+    <th>Sección quienes somos</th>
+    <th>Como visitante, quiero ver una sección en el landing page que muestre los proximos eventos que auspicia la empresa.</th>
+    <th>2 hours</th>
+    <th>Luis</th>
+    <th>Done</th>
+  </tr>
+  <tr>
+    <th>US-03</th>
+    <th>Visualizar una sección de Nosotros</th>
+    <th>W-03</th>
+    <th>Sección Nosotros</th>
+    <th>Como visitante, quiero ver una seccion en el landing page que hable acerca de la empresa y su motivación.</th>
+    <th>2 hours</th>
+    <th>Piero</th>
+    <th>Done</th>
+  </tr>
+  <tr>
+    <th>US-04</th>
+    <th>Visualizar una sección de contacto</th>
+    <th>W-04</th>
+    <th>Sección de contacto</th>
+    <th>Como usuario, quiero una seccion donde pueda observar tarjetas de presentacion de personas con las cuales pueda comunicarme relacionadas con la empresa.</th>
+    <th>3 hours</th>
+    <th>Mario</th>
+    <th>Done</th>
+  </tr>
+  <tr>
+    <th>US-05</th>
+    <th>Visualización de elementos Call to Action</th>
+    <th>W-05</th>
+    <th>Elementos call to action</th>
+    <th>Como visitante, quiero poder observar dentro de la landing page algun elemento que pueda dirijirme directamente a la descarga o uso de la aplicacion que promueve esta landing page</th>
+    <th>30 minutes</th>
+    <th>Alessandro</th>
+    <th>Done</th>
+  </tr>
+</table>
+
 <h3>5.2.1.2 User Interface & Execution</h3>
 <h3>5.2.1.3 Team Collaboration Insights</h3>

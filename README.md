@@ -1413,8 +1413,54 @@ Este apartado nos será de mucha utilidad para facilitar que los actuales y futu
 <p><strong>• CSS: </strong>Es para el diseño de los documentos HTML y XML. Ayuda para dar una mejor visión a las páginas web. Fue utilizado para el Landing page.</p>
 <img src="./imagenes/css.png" width="80" height="80">
 <h3>5.1.2 Source Code Management</h3>
+<p>Para el manejo y organización de las diferentes modificaciones de nuestro proyecto, se crearon dos repositorios en GitHub: uno para el informe y otro para la página de inicio (landing page). Esto permitirá evidenciar el registro de nuestros avances y visualizar los cambios realizados por cada miembro del equipo.</p>
 <h3>5.1.3 Source Code Style Guide & Conventions</h3>
 <h3>5.1.4 Software Deployment Configuration</h3>
+<p><strong>Repositorio del informe: </strong>https://github.com/AlesssandroBernardo/WS52-Open-Source-Grupo-2-MyEvent </p>
+<p><strong>Repositorio del landing page: </strong>https://github.com/stxfxno/stxfxno.github.io </p>
+<table>
+  <tr>
+    <th>Alumno </th>
+    <th>Correo </th>
+    <th>Usuario de Github </th>
+  </tr>
+  <tr>
+    <td><strong>Alessandro Joaquin, Bernardo Eusebio</strong></td>
+    <td>u202113640@upc.edu.pe </td>
+    <td>AlessandroBernardoEusebio
+https://github.com/AlessandroBernardoEusebio 
+</td>
+  </tr>
+  <tr>
+    <td><strong>Luis Alejandro, Zárate Gamarra</strong></td>
+    <td>U20181H198@upc.edu.pe </td>
+    <td>AlejandroZarateGamarra
+https://github.com/AlejandroZarateGamarra
+</td>
+  </tr>
+  <tr>
+    <td><strong>Carmelino Dueñas, Michael Stefano </strong></td>
+    <td>U202212760 @upc.edu.pe </td>
+    <td>stxfxno  
+    https://github.com/stxfxno
+</td>
+  </tr>
+  <tr>
+    <td><strong>Gonzales Anaya, Luis Mario</strong></td>
+    <td>u20201C585@upc.edu.pe</td>
+    <td>Neroramu
+https://github.com/Neroramu 
+</td>
+  </tr>
+  <tr>
+    <td><strong>Piero Jhoynner, Muñoz Salcedo</strong></td>
+    <td>u202224446@upc.edu.pe</td>
+    <td>pieroms210
+https://github.com/pieroms210 
+</td>
+  </tr>
+</table>
+
     
 <h2>5.2 Product Implementation & Deployment</h2>
 <h3>5.2.1.1 Sprint Backlog 1</h3>

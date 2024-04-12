@@ -1505,7 +1505,7 @@ https://github.com/pieroms210
   </tr>
   <tr>
     <th>Location</th>
-    <th>Meet</th>
+    <th>Discord</th>
   </tr>
   <tr>
     <th>Prepared by</th>

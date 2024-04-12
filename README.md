@@ -1297,13 +1297,13 @@ en horas tardías, generando miedo e incertidumbre sobre si su evento se llenar�
 <img src="./imagenes/mockup 1.JPG"/>
 <td>Mobile Web Browser:</td>
 <img src="./imagenes/mockupmobile1.JPG"/>
-<td>Pantalla de "Proximos eventos", este apartado contiene los diversos eventos a los que el usuario puede asistir, incluye la foto del artista o artistas, el lugar y la fecha de preentación.</td>
+<td>Pantalla de "Proximos eventos", este apartado contiene los diversos eventos a los que el usuario puede asistir, incluye la foto del artista o artistas, el lugar y la fecha de presentación.</td>
 <br><br><td>Desktop Web Browser:</td>
 <img src="./imagenes/mockup 2.JPG"/>
 <td>Mobile Web Browser:</td>
 <img src="./imagenes/mockupmobile2.JPG"/>
 <br>
-<td>Pantalla de "Nosotros", este apartado contiene la mision de la startup y muestra el lineamiento que sigue la paltaforma web para cunmplir su proposito.</td>
+<td>Pantalla de "Nosotros", este apartado contiene la mision de la startup y muestra el lineamiento que sigue la paltaforma web para cunmplir su propósito.</td>
 <br><br><td>Desktop Web Browser:</td>
 <img src="./imagenes/mockup 3.JPG"/>
 <td>Mobile Web Browser:</td>
@@ -1319,6 +1319,24 @@ en horas tardías, generando miedo e incertidumbre sobre si su evento se llenar�
 <br>
 <h2>4.4 Web Applications UX/UI Design</h2>
 <h3>4.4.1 Web Applications Wireframes</h3>
+<td>Vista para Usuario General</td>
+<br><br>
+<td>Segmento de inicio:</td>
+<img src="./imagenes/mockup 1.JPG"/>
+<img src="./imagenes/iniciomockup1.JPG"/>
+<img src="./imagenes/iniciomockup2.JPG"/>
+
+<td>Segmento de información sobre eventos, conciertos y discotecas:</td>
+<img src="./imagenes/informacionmockup1.JPG"/>
+<img src="./imagenes/informacionmockup2.JPG"/>
+
+<td>Segmento de adquisición de entradas:</td>
+<img src="./imagenes/compramockup1.JPG"/>
+<img src="./imagenes/compramockup2.JPG"/>
+<p>Link del Figma : https://www.figma.com/file/KbCtpsbMWS1zaDDdYl8vAQ/Web-Applications-Mock-ups?type=design&node-id=0%3A1&mode=design&t=dWTASblpDbT7DnVi-1</p>
+<br>
+<td>Vista para Usuario Empresarial</td>
+<br>
 <h3>4.4.2 Web Applications Wireflow Diagrams</h3>
 <h3>4.4.2 Web Applications Mock-ups</h3>
 <td>Vista para Usuario General</td>

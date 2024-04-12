@@ -79,8 +79,7 @@ Luis Alejandro Zárate Gamarra  - U20181H198
                 <li><strong>Michael Stefano Carmelino Dueñas</strong></li>
                 <p>
                     <strong>TB1</strong>
-                    <p>
-                    Desarrollo e implementación de:</p>
+                    <p>Desarrollo e implementación de:</p>
                     <p>Entrevista a cada uno de los segmentos objetivos</p>
                     <p>To-Be Scenario Mapping</p>
                     <p> User Stories</p>
@@ -88,7 +87,17 @@ Luis Alejandro Zárate Gamarra  - U20181H198
                     <p>Programación de la Landing Page
                     </p>
                   </p>
-                <li><strong>3</strong></li>
+                <li><strong>Luis Mario Gonzales Anaya</strong></li>
+                <p>
+                    <strong>TB1</strong>
+                    <p>Desarrollo e implementación:</p>
+                    <p>User Personas</p>
+                    <p>User Task Matrix</p>
+                    <p>Entrevista del segmento clinte</p>
+                    <p>Diagrama de clases</p>
+                    <p>Diccionario de clases</p>
+                    <p>Diagrama de base de datos</p>
+                </p>
                 <li><strong>Piero Jhoynner Muñoz Salcedo</strong></li>
                 <p>
                     <strong>TB1</strong>

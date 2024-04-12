@@ -1319,21 +1319,22 @@ en horas tardías, generando miedo e incertidumbre sobre si su evento se llenar�
 <br>
 <h2>4.4 Web Applications UX/UI Design</h2>
 <h3>4.4.1 Web Applications Wireframes</h3>
+<br><br>
 <td>Vista para Usuario General</td>
 <br><br>
 <td>Segmento de inicio:</td>
-<img src="./imagenes/mockup 1.JPG"/>
-<img src="./imagenes/iniciomockup1.JPG"/>
-<img src="./imagenes/iniciomockup2.JPG"/>
+<img src="./imagenes/webaplicationwireframe.JPG"/>
+<img src="./imagenes/webaplicationwireframe2.JPG"/>
+<img src="./imagenes/webaplicationwireframe3.JPG"/>
 
 <td>Segmento de información sobre eventos, conciertos y discotecas:</td>
-<img src="./imagenes/informacionmockup1.JPG"/>
-<img src="./imagenes/informacionmockup2.JPG"/>
+<img src="./imagenes/webaplicationwireframe4.JPG"/>
+<img src="./imagenes/webaplicationwireframe5.JPG"/>
 
 <td>Segmento de adquisición de entradas:</td>
-<img src="./imagenes/compramockup1.JPG"/>
-<img src="./imagenes/compramockup2.JPG"/>
-<p>Link del Figma : https://www.figma.com/file/KbCtpsbMWS1zaDDdYl8vAQ/Web-Applications-Mock-ups?type=design&node-id=0%3A1&mode=design&t=dWTASblpDbT7DnVi-1</p>
+<img src="./imagenes/webaplicationwireframe6.JPG"/>
+<img src="./imagenes/webaplicationwireframe7.JPG"/>
+<p>Link del Figma : https://www.figma.com/file/xWLUYV6msjOPbmQIWzbZyK/Landing-Page-Mock-up?type=design&node-id=0%3A1&mode=design&t=rRKmQBvMK3GHc01O-1</p>
 <br>
 <td>Vista para Usuario Empresarial</td>
 <br>

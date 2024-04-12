@@ -1319,7 +1319,7 @@ en horas tard√≠as, generando miedo e incertidumbre sobre si su evento se llenar√
 <br>
 <h2>4.4 Web Applications UX/UI Design</h2>
 <h3>4.4.1 Web Applications Wireframes</h3>
-<br><br>
+
 <td>Vista para Usuario General</td>
 <br><br>
 <td>Segmento de inicio:</td>

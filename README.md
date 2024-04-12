@@ -494,12 +494,12 @@ en horas tardías, generando miedo e incertidumbre sobre si su evento se llenar�
 
 <table style="border: 1px solid gray;">
     <tr>
-        <td><img src="./imagenes/EntrevMarco.png" alt="Descripción de la imagen"></td>
+        <td><img src="./imagenes/entrevistaFlavio.png" alt="Descripción de la imagen"></td>
     </tr>
     <tr><td class="justificado">En la entrevista vemos como Flavio es una persona que suele asistir a ventos recurrentemente, incluso, el próximo mes ira a un concierto. Comenta que antes a comprado entradas
     en otros lugares como facebook marketplace y que por suerte no a sufrido ninguna estafa. Prefiere comprar entradas y elije las más conocidas que hay en el país para ir a sus eventos. Y cree que lo mas
     importante para el sistema de seguridad es poder tener algún tipo de contraseña, ya que sí le gustaría que haya una app para eventos y que tenga buen método de pago.</td></tr>
-    <tr><td>Link de la entrevista: <a href="[https://youtu.be/LGgSQhsjqQI?si=h8IUovq9bNTRS-5z](https://www.youtube.com/watch?v=n3ord5Jeg0c)">[https://youtu.be/LGgSQhsjqQI?si=h8IUovq9bNTRS-5z](https://www.youtube.com/watch?v=n3ord5Jeg0c)</a></td></tr>
+    <tr><td>Link de la entrevista: <a href="https://youtu.be/n3ord5Jeg0c?si=u2xW-Qqrr0w6A7WW">https://youtu.be/n3ord5Jeg0c?si=u2xW-Qqrr0w6A7WW</a></td></tr>
   </table>
 
 <h3>Segmento Cliente</h3>

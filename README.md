@@ -29,7 +29,7 @@ Michael Stefano Carmelino Dueñas - U202212760
 
 [Nombre del Integrante 3]
 
-[Nombre del Integrante 4]
+Piero Jhoynner Muñoz Salcedo - U202224446
 
 Luis Alejandro Zárate Gamarra  - U20181H198
 
@@ -89,6 +89,18 @@ Luis Alejandro Zárate Gamarra  - U20181H198
                     </p>
                   </p>
                 <li><strong>3</strong></li>
+                <li><strong>Piero Jhoynner Muñoz Salcedo</strong></li>
+                <p>
+                    <strong>TB1</strong>
+                    <p>
+                    Desarrollo e implementación de:</p>
+                    <p>Landing Page Wireframe</p>
+                    <p>Landing Page Mock-up</p>
+                    <p> Web Applications Wireframes</p>
+                    <p> Web Applications Wireflow Diagrams</p>
+                    <p>Web Applications Mock-ups</p>
+                    <p>Web Applications User Flow Diagrams</p>
+                  </p>
                 <li><strong>4</strong></li>
                 <li><strong>Luis Alejandro Zárate Gamarra</strong>
                   <p>

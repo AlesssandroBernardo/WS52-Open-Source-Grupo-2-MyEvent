@@ -27,7 +27,7 @@
 
 Michael Stefano Carmelino Dueñas - U202212760
 
-[Nombre del Integrante 3]
+Luis Mario Gonzales Anaya - U20201C585
 
 Piero Jhoynner Muñoz Salcedo - U202224446
 

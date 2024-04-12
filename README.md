@@ -1414,8 +1414,6 @@ Este apartado nos será de mucha utilidad para facilitar que los actuales y futu
 <img src="./imagenes/css.png" width="80" height="80">
 <h3>5.1.2 Source Code Management</h3>
 <p>Para el manejo y organización de las diferentes modificaciones de nuestro proyecto, se crearon dos repositorios en GitHub: uno para el informe y otro para la página de inicio (landing page). Esto permitirá evidenciar el registro de nuestros avances y visualizar los cambios realizados por cada miembro del equipo.</p>
-<h3>5.1.3 Source Code Style Guide & Conventions</h3>
-<h3>5.1.4 Software Deployment Configuration</h3>
 <p><strong>Repositorio del informe: </strong>https://github.com/AlesssandroBernardo/WS52-Open-Source-Grupo-2-MyEvent </p>
 <p><strong>Repositorio del landing page: </strong>https://github.com/stxfxno/stxfxno.github.io </p>
 <table>
@@ -1460,6 +1458,29 @@ https://github.com/pieroms210
 </td>
   </tr>
 </table>
+<h3>5.1.3 Source Code Style Guide & Conventions</h3>
+<p>En esta parte del trabajo, nos planteamos a desarrollar las convenciones descritas HTML/CSS Style Guide en la que deben tener en cuenta al trabajar. Para tener una guía de las buenas paracticas tenemos que acceder a este enlace:  https://google.github.io/styleguide/htmlcssguide.html.</p>
+
+<p> - Declaración del tipo de documento en HTML.</p>
+<p> - Utilizar letras en minúsculas para los nombres de los elementos (como p, h1, section, entre otros).</p>
+<p> - Especificar alt, width, and height para imágenes.</p>
+<p> - Espaciado y signo igual estandarizados.</p>
+
+<p>Estas buenas practicas nos ayuda a mantener legibilidad en nuestro código, esto también es de ayuda para otra personas puedan comprender el manejo de nuestro proyecto.</p>
+<h3>5.1.4 Software Deployment Configuration</h3>
+<p>En esta sección abordaremos el despliegue de nuestro landing page, utilizamos GitHub.io, donde contiene lo siguiente. </p>
+<p>Para eso ingresamos a nuestro respositorio</p>
+<img src="./imagenes/repo_Landing.png" width="900" height="200">
+<img src="./imagenes/gitLanding.png" width="650" height="400">
+<p>• images: Carpeta donde se aloja las imágenes utilizadas en el landing page.</p>
+<p>• styles.css: Archivo que contiene los estilos que ayudaran a que el landing page visualmente se encuentre ordenado y atractivo.</p>
+<p>• index.html: Archivo que contiene la estructura del landing page por secciones.</p>
+<p>• Contacto: Carpeta que almacena el index.html y los estilos de la seccion contacto</p>
+<p>• MyEvent: Carpeta que almacena el index.html y los estilos de la seccion inicial del landing page.</p>
+<p>• Nosotros: Carpeta que almacena el index.html y los estilos de la seccion de "Nosotros" del landing page.</p>
+<p>• Tarjetas: Carpeta que contiene las tarjetas personalizadas de los integrantes del proyecto.</p>
+<p>• Assets: Carpeta que contiene los recursos digitales utilizados dentro del landing page.</p>
+<p><strong>Link: https://github.com/stxfxno/stxfxno.github.io/tree/main</strong></p>
 
     
 <h2>5.2 Product Implementation & Deployment</h2>

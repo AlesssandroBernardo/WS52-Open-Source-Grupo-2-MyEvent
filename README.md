@@ -1484,6 +1484,68 @@ https://github.com/pieroms210
 
     
 <h2>5.2 Product Implementation & Deployment</h2>
+<h3>5.2.1 Sprint 1</h3>
+<h4>5.2.1.1 Sprint Planning 1</h4>
+<table>
+  <tr>
+    <th>Sprint # </th>
+    <th>Sprint 1 </th>
+  </tr>
+  <tr>
+    <td><strong>Sprint Planning Background</strong></td>
+    <td></td>
+  </tr>
+  <tr>
+    <th>Date</th>
+    <th>2024/03/22</th>
+  </tr>
+  <tr>
+    <th>Time</th>
+    <th>22:00 PM</th>
+  </tr>
+  <tr>
+    <th>Location</th>
+    <th>Meet</th>
+  </tr>
+  <tr>
+    <th>Prepared by</th>
+    <th>Carmelino Dueñas, Michael Stefano </th>
+  </tr>
+  <tr>
+    <th>Attendess (to planning meeting)</th>
+    <th>Alessandro Joaquin Bernardo Eusebio - u202113640
+Luis Alejandro, Zárate Gamarra - U20181H198
+Gonzales Anaya, Luis Mario - u20201C585
+Carmelino Dueñas, Michael Stefano - U202212760
+Piero Jhoynner, Muñoz Salcedo - u202224446
+ </th>
+  </tr>
+  <tr>
+    <th>Sprint 0 Review Summary</th>
+    <th>There was no previous sprint</th>
+  </tr>
+  <tr>
+    <th>Sprint 0 Retrospective Summary</th>
+    <th>There was no previous sprint</th>
+  </tr>
+  <tr>
+    <th>Sprint Goal & User Stories</th>
+    <th></th>
+  </tr>
+  <tr>
+    <th>Sprint 1 Goal</th>
+    <th>Se creó la organización de nuestro starup en Github y el repositorio de landing page, que fue desarrollado y desplegado.</th>
+  </tr>
+  <tr>
+    <th>Sprint 1 Velocity</th>
+    <th>2 semanas </th>
+  </tr>
+  <tr>
+    <th>Sum of Story Point</th>
+    <th>5</th>
+  </tr>
+</table>
 <h3>5.2.1.1 Sprint Backlog 1</h3>
+<p>En el primer sprint se desarrolló y se desplegó la Landing Page.</p>
 <h3>5.2.1.2 User Interface & Execution</h3>
 <h3>5.2.1.3 Team Collaboration Insights</h3>

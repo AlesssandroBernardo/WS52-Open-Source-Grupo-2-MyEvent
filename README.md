@@ -1334,7 +1334,7 @@ en horas tard√≠as, generando miedo e incertidumbre sobre si su evento se llenar√
 <td>Segmento de adquisici√≥n de entradas:</td>
 <img src="./imagenes/webaplicationwireframe6.JPG"/>
 <img src="./imagenes/webaplicationwireframe7.JPG"/>
-<p>Link del Figma : https://www.figma.com/file/xWLUYV6msjOPbmQIWzbZyK/Landing-Page-Mock-up?type=design&node-id=0%3A1&mode=design&t=rRKmQBvMK3GHc01O-1</p>
+<p>Link del Figma : https://www.figma.com/file/KbCtpsbMWS1zaDDdYl8vAQ/Web-Applications-Mock-ups?type=design&node-id=0%3A1&mode=design&t=dWTASblpDbT7DnVi-1</p>
 <br>
 <td>Vista para Usuario Empresarial</td>
 <br>
@@ -1362,7 +1362,8 @@ en horas tard√≠as, generando miedo e incertidumbre sobre si su evento se llenar√
 <td>User Persona:Usuario General.</td><br>
 <td>User Goal:Encontrar y adquirir las entradas para un concierto, evento o discoteca satisfactoriamente.</td><br>
 <br><td>En el Wireflow se evidencia el proceso por el cual deve pasar el usuario general para adquirir sus entradas, desde la eleccion del concierto, evento o discoteca hasta la eleccion del medio de pago.</td>
-<img src="./imagenes/mockupuserflow.JPG"/>
+<img src="./imagenes/Web Applications User Flow Diagrams.png"/>
+<p>Link del LucidChart : https://lucid.app/lucidchart/d600e420-2008-47f3-b62c-9d0831517951/edit?viewport_loc=1336%2C-2130%2C9357%2C4583%2C0_0&invitationId=inv_e9b49aaa-b374-4540-8239-73a459be1746</p><br>
 <td>User Persona:Usuario Empresarial.</td><br>
 <td>User Goal:Crear un evento y proporcionar los detalles de este satisfactoriamente</td><br>
 <br><td>En el Wireflow se evidencia el proceso por el cual deve pasar el usuario empresarial para crear su evento, desde la especificacion del tipo concierto, evento o discoteca hasta los detalles especificos.</td>

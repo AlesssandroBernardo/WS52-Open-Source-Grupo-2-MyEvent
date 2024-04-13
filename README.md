@@ -1357,7 +1357,21 @@ en horas tardías, generando miedo e incertidumbre sobre si su evento se llenar�
 <img src="./imagenes/webaplicationwireframe7.JPG"/>
 <p>Link del Figma : https://www.figma.com/file/KbCtpsbMWS1zaDDdYl8vAQ/Web-Applications-Mock-ups?type=design&node-id=0%3A1&mode=design&t=dWTASblpDbT7DnVi-1</p>
 <br>
-<td>Vista para Usuario Empresarial</td>
+<td>Vista para Usuario Empresarial:</td>
+<br>
+<td>Segmento de inicio, el usuario inicia sesión con su cuenta empresarial o de lo contrario se registra como un usuario nuevo.</td>
+<img src="./imagenes/webaplicationwireframe.JPG"/>
+<img src="./imagenes/webaplicationwireframe2.JPG"/>
+<img src="./imagenes/webaplicationwireframe3.JPG"/>
+
+<td>Segmento de calendario y eventos agendados, aqui se puede visualizar la información de los eventos pendientes e iniciar el proceso de crear un nuevo evento.</td>
+<img src="./imagenes/mockupusuarioempresarial.JPG"/>
+
+<td>Segmento de calendario y eventos agendados, aqui se puede visualizar la información de los eventos pendientes e iniciar el proceso de crear un nuevo evento.</td>
+<img src="./imagenes/mockupusuarioempresarial2.JPG"/>
+<img src="./imagenes/mockupusuarioempresarial3.JPG"/>
+<img src="./imagenes/mockupusuarioempresarial4.JPG"/>
+<p>Link del Figma : https://www.figma.com/file/xWLUYV6msjOPbmQIWzbZyK/Landing-Page-Mock-up%2FWireframe?type=design&node-id=0%3A1&mode=design&t=nFbwSDvqLBXYbfay-1</p>
 <br>
 <h3>4.4.2 Web Applications Wireflow Diagrams</h3>
 <td>User Persona:Usuario General.</td><br>

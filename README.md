@@ -59,6 +59,8 @@ Alessandro Joaquin Bernardo Eusebio  - U202113640
                 <li>Luis Mario Gonzales Anaya</li>
                 <li>Piero Jhoynner Muñoz Salcedo</li>
                 <li>Luis Alejandro Zárate Gamarra</li>
+                <li>Alessandro Joaquin Bernardo Eusebio</li>
+
             </ul>
         </td>
         <td>Se formuló una solución para abordar la oportunidad identificada y se procedió a desarrollar los primeros cinco capítulos del proyecto, desde la Introducción hasta la Implementación del Producto, Validación y Despliegue. De esta manera, hemos completado la fase inicial del proyecto según la estructura indicada en este informe.</td>

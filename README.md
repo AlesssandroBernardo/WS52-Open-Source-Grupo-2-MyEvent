@@ -1234,6 +1234,23 @@ en horas tardías, generando miedo e incertidumbre sobre si su evento se llenar�
 <h1>CAPÍTULO IV: PRODUCT UX/UI DESIGN</h1>
 <h2>4.1 Style Guidelines</h2>
 <h3>4.1.1 General Style Guidelines</h3>
+<p>Lenguaje:
+El lenguaje que usaremos en nuestra aplicación es el lenguaje formal ya que queremos transmitirle al usuario seguridad y confianza en la información y recomendaciones que le brindemos.
+</p>
+
+<p>Logo:
+El logo de MyEvent ha sido diseñado con un enfoque minimalista para reflejar la esencia de la marca y su propósito como una plataforma de venta de entradas a eventos exclusivos.
+</p>
+<img src="./imagenes/myeventLogo.png">
+
+<p>Procederemos a mostrar los elementos seleccionados para el diseño de la aplicación.
+Con respecto a la paleta de colores elegimos los siguientes:</p>
+<img src="./imagenes/colores.png">
+
+<p>Tipografía:
+Para la tipografia escojimos Arial, ya que es conocida por su alta legibilidad y claridad, lo que la convierte en una excelente opción para la comunicación de mensajes importantes en la web. En una landing page, donde la información clave debe ser fácilmente accesible y comprensible para los usuarios, la tipografía Arial garantiza que el contenido sea claro y fácil de leer, lo que mejora la experiencia del usuario.
+</p>
+<img src="./imagenes/calibri.png">
 <h3>4.1.2 Web Style Guidelines</h3>
 
 <h2>4.2 Information Architecture</h2>

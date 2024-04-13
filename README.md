@@ -1744,6 +1744,52 @@ Piero Jhoynner, Muñoz Salcedo - u202224446
 </table>
 
 <h4>5.2.1.3 Development Evidence for Sprint Review</h4>
+<table>
+   <tr>
+    <th>Repository</th>
+    <th>Branch</th>
+    <th>Commit ID</th>
+    <th>Commit Message</th>
+    <th>Commit ed on (Date)</th>
+  </tr>
+  <tr>
+    <th>https://github.com/stxfxno/stxfxno.github.io </th>
+    <th>main</th>
+    <th>ed1a4aedcf00c8febefdd9616cb2422c7d7d3cb8</th>
+    <th>"Archivos del landing page”</th>
+    <th>Thu Apr 4 21:32:48 2024</th>
+  </tr>
+  <tr>
+    <th>https://github.com/stxfxno/stxfxno.github.io</th>
+    <th>main</th>
+    <th>d7d8cdff3b4cf3f7351146fa01146efa0a45df8c</th>
+    <th>"Seccion inicial”</th>
+    <th>Sat Apr 6 00:42:24</th>
+  </tr>
+   <tr>
+    <th>https://github.com/stxfxno/stxfxno.github.io</th>
+    <th>main</th>
+    <th>0f7c42fef72c8655ed7db2102ddd9d453cded3e1</th>
+    <th>"Seccion MyEvent</th>
+    <th>Sat Apr 6 00:42:24 2024</th>
+  </tr>
+  </tr>
+   <tr>
+    <th>https://github.com/stxfxno/stxfxno.github.io</th>
+    <th>main</th>
+    <th>ae044b664c4600f8be9812ac9821ad944ef6e5b5</th>
+    <th>"Seccion Nosotros</th>
+    <th>Thu Apr 4 21:32:48 2024</th>
+  </tr>
+  </tr>
+   <tr>
+    <th>https://github.com/stxfxno/stxfxno.github.io</th>
+    <th>main</th>
+    <th>7f4da2115b0aae7ff749db20cbed7486cddb06e4</th>
+    <th>"Seccion Contacto</th>
+    <th>Wed Apr 10 23:38:13 2024</th>
+  </tr>
+  </table>
 <h4>5.2.1.4 Testing Suite Evidence for Sprint Review</h4>
 <h4>5.2.1.5 Execution Evidence for Sprint Review</h4>
 <h4>5.2.1.6 Services Documentation Evidence for Sprint Review</h4>

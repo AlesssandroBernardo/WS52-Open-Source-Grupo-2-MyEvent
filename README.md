@@ -1437,6 +1437,7 @@ en horas tardías, generando miedo e incertidumbre sobre si su evento se llenar�
 <p>Link del LucidChart : https://lucid.app/lucidchart/d600e420-2008-47f3-b62c-9d0831517951/edit?viewport_loc=1336%2C-2130%2C9357%2C4583%2C0_0&invitationId=inv_e9b49aaa-b374-4540-8239-73a459be1746</p><br>
 <br>
 <h2>4.5 Web Applications Prototyping</h2>
+<p><strong>Enlace al prototipo de la aplicación web: </strong>https://www.figma.com/proto/KbCtpsbMWS1zaDDdYl8vAQ/Web-Applications-Mockup%2Fwireframe?type=design&node-id=173-443&t=XHaNL054rBg1ANC0-0&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=173%3A443</p>
 
 <h2>4.6 Domain-Driven Software Architecture</h2>
 <h3>4.6.1 Software Architecture Context Diagram</h3>

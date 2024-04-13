@@ -1423,12 +1423,13 @@ en horas tard√≠as, generando miedo e incertidumbre sobre si su evento se llenar√
 <td>User Goal:Encontrar y adquirir las entradas para un concierto, evento o discoteca satisfactoriamente.</td><br>
 <br><td>En el Wireflow se evidencia el proceso por el cual deve pasar el usuario general para adquirir sus entradas, desde la eleccion del concierto, evento o discoteca hasta la eleccion del medio de pago.</td>
 <img src="./imagenes/Web Applications User Flow Diagrams.png"/>
-<p>Link del LucidChart : https://lucid.app/lucidchart/d600e420-2008-47f3-b62c-9d0831517951/edit?viewport_loc=1336%2C-2130%2C9357%2C4583%2C0_0&invitationId=inv_e9b49aaa-b374-4540-8239-73a459be1746</p><br>
 
 
 <td>User Persona:Usuario Empresarial.</td><br>
 <td>User Goal:Crear un evento y proporcionar los detalles de este satisfactoriamente.</td><br>
 <br><td>En el Wireflow se evidencia el proceso por el cual deve pasar el usuario empresarial para crear su evento, desde la especificacion del tipo evento hasta los detalles de este.</td>
+<img src="./imagenes/wireflowmockup"/><br>
+<p>Link del LucidChart : https://lucid.app/lucidchart/d600e420-2008-47f3-b62c-9d0831517951/edit?viewport_loc=1336%2C-2130%2C9357%2C4583%2C0_0&invitationId=inv_e9b49aaa-b374-4540-8239-73a459be1746</p><br>
 <br>
 <h2>4.5 Web Applications Prototyping</h2>
 

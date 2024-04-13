@@ -1367,7 +1367,7 @@ en horas tardías, generando miedo e incertidumbre sobre si su evento se llenar�
 <td>Segmento de calendario y eventos agendados, aqui se puede visualizar la información de los eventos pendientes e iniciar el proceso de crear un nuevo evento.</td>
 <img src="./imagenes/mockupusuarioempresarial.JPG"/>
 
-<td>Segmento de calendario y eventos agendados, aqui se puede visualizar la información de los eventos pendientes e iniciar el proceso de crear un nuevo evento.</td>
+<td>Segmento de creación del evento, aqui se podrá crear el evento y especificar todos sus detalles para que los usuarios generales lo puedan ver.</td>
 <img src="./imagenes/mockupusuarioempresarial2.JPG"/>
 <img src="./imagenes/mockupusuarioempresarial3.JPG"/>
 <img src="./imagenes/mockupusuarioempresarial4.JPG"/>

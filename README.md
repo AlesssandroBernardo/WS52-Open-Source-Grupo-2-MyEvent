@@ -1461,7 +1461,6 @@ en horas tardÃ­as, generando miedo e incertidumbre sobre si su evento se llenarÃ
 
 <td><strong>Empresa</strong></td>
 <p>Es el ente que financia el evento y tiene un organizador que los representa en el evento./>
-<p>Posee un lugar donde esta registrado en su RUC.</p>
 
 <h2>4.8 Database Design</h2>
 <h3>4.8.1 Database Diagram</h3>

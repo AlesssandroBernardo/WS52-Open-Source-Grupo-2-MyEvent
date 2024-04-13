@@ -1406,11 +1406,12 @@ en horas tardías, generando miedo e incertidumbre sobre si su evento se llenar�
 
 <h2>4.7 Software Object-Oriented Design</h2>
 <h3>4.7.1 Class Diagrams</h3>
+<img src="./imagenes/DiagramaClases.png"/>
 <h3>4.7.2 Class Dictionary</h3>
 
 <h2>4.8 Database Design</h2>
 <h3>4.8.1 Database Diagram</h3>
-<img src="./imagenes/DisenoBaseDatos.png"/>
+<img src="./imagenes/DiagramaBaseDatos.png"/>
     
 <h1>CAPÍTULO V: PRODUCT IMPLEMENTATION</h1>
 <h2>5.1 Software Configuration Management</h2>

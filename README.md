@@ -1805,10 +1805,24 @@ Piero Jhoynner, Muñoz Salcedo - u202224446
   </tr>
   </table>
 <h4>5.2.1.4 Testing Suite Evidence for Sprint Review</h4>
+<p>Como nos encontramos en una etapa de diseño de la pagina web, aun no podemos realizar los respectivos Tests. Pero se están
+realizando las validaciones para ir mejorando en nuetra pagina web</p>
 <h4>5.2.1.5 Execution Evidence for Sprint Review</h4>
+<p>Para este primer sprint se desarrolló y se logró desplegar el Landing Page</p>
+<img src="./imagenes/landingMyEvent.png>
+
 <h4>5.2.1.6 Services Documentation Evidence for Sprint Review</h4>
+<p>Debido a que en este desarrollo de sprint, se ha realizado el landing page y estamos en etapa de diseño, aun no se puede
+documentar.</p>
+
 <h4>5.2.1.7 Software Deployment Evidence for Sprint Review</h4>
+<p>El deployment de nuestro landing se ha desarrollado en Github.</p>
+<img src="./imagenes/GitMyEvent.png">
+<img src="./imagenes/landingDesplegado.png">
+
 <h4>5.2.1.8 Team Collaboration Insights during Sprint</h4>
+<img src="./imagenes/commits.png">
+<img src="./imagenes/insights.png">
 
 
 

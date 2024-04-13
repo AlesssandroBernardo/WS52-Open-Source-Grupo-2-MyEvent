@@ -33,6 +33,9 @@ Piero Jhoynner Muñoz Salcedo - U202224446
 
 Luis Alejandro Zárate Gamarra  - U20181H198
 
+Alessandro Joaquin Bernardo Eusebio  - U202113640
+
+
 **Abril - 2024** 
 
 </div>
@@ -118,7 +121,16 @@ Luis Alejandro Zárate Gamarra  - U20181H198
                       Desarrollo e implementación de los capítulos 2 y 3...
                     </p>
                   </p>
-                </li>    
+                </li>   
+                <li><strong>Alessandro Joaquin Bernardo Eusebio</strong>
+                  <p>
+                    <strong>TB1</strong>
+                    <p>
+                      Desarrollo e implementacion del capitulo 5
+                    </p>
+                    <p>Desarrollo del sprint 1 perteneciente al Landing Page</p>
+                  </p>
+                </li> 
             </ul>
                 </li>    
             </ul>

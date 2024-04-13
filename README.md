@@ -736,6 +736,11 @@ en horas tardÃ­as, generando miedo e incertidumbre sobre si su evento se llenarÃ
 </table>
 
 <h3>2.3.3 User Journey Mapping</h3>
+<h4>Journey Map - Cliente</h4>
+<img src="./imagenes/jmap1.png"/>
+<h4>Journey Map - Organizador de Eventos</h4>
+<img src="./imagenes/jmap2.png"/>
+
 <h3>2.3.4 Empathy Mapping</h3>
 <h4>Empathy Map - Cliente</h4>
 <img src="./imagenes/empathyMaps/EmpathyMap1_Marco.png"/>

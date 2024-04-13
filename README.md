@@ -1359,23 +1359,36 @@ en horas tardías, generando miedo e incertidumbre sobre si su evento se llenar�
 <br>
 
 <h3>4.4.2 Web Applications Mock-ups</h3>
-<td>Vista para Usuario General</td>
+<td>Vista para Usuario General:</td>
 <br><br>
-<td>Segmento de inicio:</td>
+<td>Segmento de inicio, el usuario inicia sesión con su cuenta general o de lo contrario se registra como usuario nuevo.</td>
 <img src="./imagenes/mockup 1.JPG"/>
 <img src="./imagenes/iniciomockup1.JPG"/>
 <img src="./imagenes/iniciomockup2.JPG"/>
 
-<td>Segmento de información sobre eventos, conciertos y discotecas:</td>
+<td>Segmento de información sobre eventos, conciertos y discotecas. Aqui los usuarios cuentan con multiples opciones a su elección. Además, encontrará una breve información del evento,junto a la fecha, dirección, entre otros. </td>
 <img src="./imagenes/informacionmockup1.JPG"/>
 <img src="./imagenes/informacionmockup2.JPG"/>
 
-<td>Segmento de adquisición de entradas:</td>
+<td>Segmento de adquisición de entradas, aqui los usuarios confirmarán su compra y elegirán el numero de entradas que desean adquirir. Posteriormente podrán descargar su voucher de pago y volver al menú de selección de eventos.</td>
 <img src="./imagenes/compramockup1.JPG"/>
 <img src="./imagenes/compramockup2.JPG"/>
 <p>Link del Figma : https://www.figma.com/file/KbCtpsbMWS1zaDDdYl8vAQ/Web-Applications-Mock-ups?type=design&node-id=0%3A1&mode=design&t=dWTASblpDbT7DnVi-1</p>
 <br>
-<td>Vista para Usuario Empresarial</td>
+<td>Vista para Usuario Empresarial:</td>
+<br><br>
+<td>Segmento de inicio, el usuario inicia sesión con su cuenta empresarial o de lo contrario se registra como un usuario nuevo.</td>
+<img src="./imagenes/mockup 1.JPG"/>
+<img src="./imagenes/iniciomockup1.JPG"/>
+<img src="./imagenes/iniciomockup2.JPG"/>
+
+<td>Segmento de calendario y eventos agendados, aqui se puede visualizar la información de los eventos pendientes e iniciar el proceso de crear un nuevo evento.</td>
+<img src="./imagenes/wireframeusuarioempresarial.JPG"/>
+<td>Segmento de creación del evento, aqui se podrá crear el evento y especificar todos sus detalles para que los usuarios generales lo puedan ver.</td>
+<img src="./imagenes/wireframeusuarioempresarial2.JPG"/>
+<img src="./imagenes/wireframeusuarioempresarial3.JPG"/>
+<img src="./imagenes/wireframeusuarioempresarial4.JPG"/>
+<p>Link del Figma : https://www.figma.com/file/xWLUYV6msjOPbmQIWzbZyK/Landing-Page-Mock-up?type=design&node-id=0%3A1&mode=design&t=nFbwSDvqLBXYbfay-1</p>
 <br>
 <h3>4.4.3 Web Applications User Flow Diagrams</h3>
 <td>User Persona:Usuario General.</td><br>

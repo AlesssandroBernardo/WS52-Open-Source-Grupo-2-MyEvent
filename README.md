@@ -1248,11 +1248,32 @@ Con respecto a la paleta de colores elegimos los siguientes:</p>
 <img src="./imagenes/colores.png">
 
 <p>Tipografía:
-Para la tipografia escojimos Arial, ya que es conocida por su alta legibilidad y claridad, lo que la convierte en una excelente opción para la comunicación de mensajes importantes en la web. En una landing page, donde la información clave debe ser fácilmente accesible y comprensible para los usuarios, la tipografía Arial garantiza que el contenido sea claro y fácil de leer, lo que mejora la experiencia del usuario.
+Para la tipografia escojimos Calibri, ya que es conocida por su alta legibilidad y claridad, lo que la convierte en una excelente opción para la comunicación de mensajes importantes en la web. En una landing page, donde la información clave debe ser fácilmente accesible y comprensible para los usuarios, la tipografía Calibri garantiza que el contenido sea claro y fácil de leer, lo que mejora la experiencia del usuario.
 </p>
 <img src="./imagenes/calibri.png">
 <h3>4.1.2 Web Style Guidelines</h3>
+<p>Al elegir Calibri para la tipografía de la aplicación web de MyEvent, se mantiene la consistencia visual con la marca. La tipografía utilizada en la aplicación debe reflejar la identidad visual de la marca para fortalecer su reconocimiento y cohesión. Como Calibri es una fuente comúnmente asociada con profesionalismo y modernidad, se alinea bien con la imagen contemporánea que MyEvent desea proyectar. A continuacion se daran los formatos de tamaño, estilo y formato de letra a utilizar:</p>
+<ul>
+  <li>   Los botones con texto de la aplicación utilizarán el tamaño de letra 12 y estilo “Regular”.</li>
+  <li>   Los títulos de la aplicación utilizarán el tamaño 16 en estilo “SemiBold”.</li>
+  <li>   Los textos de la aplicación utilizarán el tamaño 14 en estilo “Regular”.</li>
+  <li>   Los botones con texto utilizarán el tamaño de letra 18 y estilo “Medium”.</li>
+  <li>   Los títulos utilizarán el tamaño 55 y estilo “Regular”.</li>
+  <li>   Los subtítulos utilizarán el tamaño 28 en estilo “Medium”.</li>
+  <li>   Los textos utilizarán el tamaño 18 en estilo “Regular”.</li>
+  <li>   Los textos medianos utilizarán el tamaño 22 en estilo “Regular”.</li>
+  <li>   Los textos pequeños utilizarán el tamaño 15 en “Light”.</li>
+</ul>
+<h4><strong>Botones</strong><h4>
+  <p>Se utilizaran botones como el siguiente:</p>
+<h4><strong>Input</strong><h4>
+  <p>Se utilizaran campos de datos de entrada como el siguiente:</p>
+  
 
+
+
+
+    
 <h2>4.2 Information Architecture</h2>
 <h3>4.2.1 Organization Systems</h3>
 <p class="justificado">En este apartado, nuestro equipo ha optado por implementar un enfoque basado en la jerarquía visual. Creemos firmemente que esta estructura organizativa proporcionará una experiencia más intuitiva y eficiente para nuestros usuarios, al tiempo que les permitirá interactuar de manera más fluida con nuestra aplicación.</p>

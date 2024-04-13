@@ -1379,9 +1379,12 @@ en horas tard√≠as, generando miedo e incertidumbre sobre si su evento se llenar√
 <br><td>En el Wireflow se evidencia el proceso por el cual deve pasar el usuario general para adquirir sus entradas, desde la eleccion del concierto, evento o discoteca hasta la eleccion del medio de pago.</td>
 <img src="./imagenes/Web Applications Wireflow Diagrams1.png"/>
 <p>Link del LucidChart : https://lucid.app/lucidchart/23c75c4f-6e14-45e6-9a97-2f5135e4a15c/edit?viewport_loc=-3364%2C196%2C6656%2C3260%2C0_0&invitationId=inv_cb23542a-c259-4cc0-8cfc-904ad1590b14</p><br>
+
 <td>User Persona:Usuario Empresarial.</td><br>
 <td>User Goal:Crear un evento y proporcionar los detalles de este satisfactoriamente</td><br>
-<br><td>En el Wireflow se evidencia el proceso por el cual deve pasar el usuario empresarial para crear su evento, desde la especificacion del tipo concierto, evento o discoteca hasta los detalles especificos.</td>
+<br><td>En el Wireflow se evidencia el proceso por el cual deve pasar el usuario empresarial para crear su evento, desde especificar el tipo evento hasta brindar los detalles de este.</td>
+
+
 <br>
 
 <h3>4.4.2 Web Applications Mock-ups</h3>

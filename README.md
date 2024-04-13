@@ -1269,7 +1269,7 @@ Para la tipografia escojimos Calibri, ya que es conocida por su alta legibilidad
     <img src="./imagenes/botones.png"/>
 <h4><strong>Input</strong><h4>
   <p>Se utilizaran campos de datos de entrada como el siguiente:</p>
-    <img src="./imagenes/cuadrosinput.png"/>
+    <img src="./imagenes/cuadrosInput.png"/>
 <h2>4.2 Information Architecture</h2>
 <h3>4.2.1 Organization Systems</h3>
 <p class="justificado">En este apartado, nuestro equipo ha optado por implementar un enfoque basado en la jerarquía visual. Creemos firmemente que esta estructura organizativa proporcionará una experiencia más intuitiva y eficiente para nuestros usuarios, al tiempo que les permitirá interactuar de manera más fluida con nuestra aplicación.</p>

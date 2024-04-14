@@ -91,13 +91,9 @@ Alessandro Joaquin Bernardo Eusebio  - U202113640
                 <li><strong>Luis Mario Gonzales Anaya</strong></li>
                 <p>
                     <strong>TB1</strong>
-                    <p>Desarrollo e implementación:</p>
-                    <p>User Personas</p>
-                    <p>User Task Matrix</p>
-                    <p>Entrevista del segmento clinte</p>
-                    <p>Diagrama de clases</p>
-                    <p>Diccionario de clases</p>
-                    <p>Diagrama de base de datos</p>
+                    <p>
+                        En el proyecto, me encargué de comunicar de forma clara y objetiva conceptos técnicos a audiencias diversas. Esto implicó presentar User Personas, el User Task Matrix y entrevistar a clientes clave. Además, desarrollé Diagramas de Clases y de Base de Datos, demostrando habilidades de comunicación efectiva en un contexto de ingeniería.
+                    </p>
                 </p>
                 <li><strong>Piero Jhoynner Muñoz Salcedo</strong></li>
                 <p>
@@ -133,18 +129,28 @@ Alessandro Joaquin Bernardo Eusebio  - U202113640
         <td>
           <p>
             <strong>TB1</strong>
-              <p>Se realizó una investigación que sustente de forma concreta la solución planteada al problema y se analizaron los casos que afecta a dos segmentos (clientes y organizadores de eventos), de forma simultánea se fue desarrollando la solución y apartados del presente proyecto, manteniendo las buenas prácticas de desarrollo, implementación y comunicación. </p>
+              <p>
+                  Se realizó una investigación que sustente de forma concreta la solución planteada al problema y se analizaron los casos que afecta a dos segmentos (clientes y organizadores de eventos), de forma simultánea se fue desarrollando la solución y apartados del presente proyecto, manteniendo las buenas prácticas de desarrollo, implementación y comunicación.
+              </p>
           </p>
         </td>
         <tr>
-        <td><stron>Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería.</stron>stron></td>
-        <td>
-         <li><strong>Luis Alejandro Zárate Gamarra</strong>
-                  <p>
+            <td><strong>Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería.</strong></td>
+            <td>
+                <ul style="list-style-type: none;">
+                <li><strong>Luis Alejandro Zárate Gamarra</strong>
+                <p>
                     <strong>TB1</strong>
-                    <p>De acuerdo al objetivo en las etapas de análisis de competidores y desarrollo de estrategias se mantuvo una presentación de la información óptima con los diversos usuarios involucrados en las etapas de investigación, análisis y estudio. Asimismo, se presentaron los resultados escritos de forma clara en las secciones de los empathy maps y as-is scenario mapping. </p>
-                  </p>
+                    <p>De acuerdo al objetivo en las etapas de análisis de competidores y desarrollo de estrategias se mantuvo una presentación de la información óptima con los diversos usuarios involucrados en las etapas de investigación, análisis y estudio. Asimismo, se presentaron los resultados escritos de forma clara en las secciones de los empathy maps y as-is scenario mapping.</p>
+                </p>
                 </li>
+    <li><strong>Luis Mario Gonzales Anaya</strong>
+            <p>
+                <strong>TB1</strong>
+                <p>En el proyecto de ingeniería, comuniqué de manera objetiva y clara ideas y resultados por escrito a audiencias diversas. Esto incluyó la elaboración de documentos como User Personas, una User Task Matrix, informes de entrevistas y Diagramas de Clases y de Base de Datos. Mi habilidad para transmitir información técnica fue crucial para el éxito del proyecto.</p>
+            </p>
+    </li>
+                </ul>
         </td>
         <td>
             <p>

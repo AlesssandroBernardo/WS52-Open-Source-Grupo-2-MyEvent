@@ -97,13 +97,7 @@ Alessandro Joaquin Bernardo Eusebio  - U202113640
                 <p>
                     <strong>TB1</strong>
                     <p>
-                    Desarrollo e implementación de:</p>
-                    <p>Landing Page Wireframe</p>
-                    <p>Landing Page Mock-up</p>
-                    <p> Web Applications Wireframes</p>
-                    <p> Web Applications Wireflow Diagrams</p>
-                    <p>Web Applications Mock-ups</p>
-                    <p>Web Applications User Flow Diagrams</p>
+En el marco del desarrollo del landing page de MyEvent y la creación de wireframes y mockups, nuestro equipo ha trabajado en colaboración para garantizar que la interfaz y el diseño sean intuitivos y atractivos para nuestros usuarios. Al elaborar los wireframes, nos enfocamos en definir la estructura y disposición de los elementos clave, como la ubicación estratégica de los botones de llamada a la acción, la distribución del contenido y la navegación fluida. Esto nos ha permitido visualizar de manera precisa cómo se organizará la información y cómo interactuarán los usuarios con la página.
                   </p>
                 <li><strong>Luis Alejandro Zárate Gamarra</strong>
                   <p>

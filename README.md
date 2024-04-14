@@ -1540,6 +1540,9 @@ Para la tipografia escojimos Calibri, ya que es conocida por su alta legibilidad
 <td><strong>Cliente</strong></td>
 <p>Usuario que solo puede comprar y ver los eventos disponibles en el aplicativo, tiene un metodo de pago para pagar sus boletos/entradas</p>
 
+<td><strong>Revenvedor</strong></td>
+<p>Un cliente puede volverse un revendedor, para eso necesita registrar donde sera almacenado su dinero.</p>
+
 <td><strong>Organizador</strong></td>
 <p>Usuario que solo puede ofertar y administrar eventos en el aplicativo, esta ligado a una empresa.</p>
 

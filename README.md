@@ -140,13 +140,13 @@ Alessandro Joaquin Bernardo Eusebio  - U202113640
                     <p>De acuerdo al objetivo en las etapas de análisis de competidores y desarrollo de estrategias se mantuvo una presentación de la información óptima con los diversos usuarios involucrados en las etapas de investigación, análisis y estudio. Asimismo, se presentaron los resultados escritos de forma clara en las secciones de los empathy maps y as-is scenario mapping.</p>
                 </p>
                 </li>
-    <li><strong>Luis Mario Gonzales Anaya</strong>
-            <p>
-                <strong>TB1</strong>
-                <p>En el proyecto de ingeniería, comuniqué de manera objetiva y clara ideas y resultados por escrito a audiencias diversas. Esto incluyó la elaboración de documentos como User Personas, una User Task Matrix, informes de entrevistas y Diagramas de Clases y de Base de Datos. Mi habilidad para transmitir información técnica fue crucial para el éxito del proyecto.</p>
-            </p>
-    </li>
-                    <li><strong>Alessandro Joaquin Bernardo Eusebio</strong>
+                <li><strong>Luis Mario Gonzales Anaya</strong>
+                    <p>
+                        <strong>TB1</strong>
+                        <p>En el proyecto de ingeniería, comuniqué de manera objetiva y clara ideas y resultados por escrito a audiencias diversas. Esto incluyó la elaboración de documentos como User Personas, una User Task Matrix, informes de entrevistas y Diagramas de Clases y de Base de Datos. Mi habilidad para transmitir información técnica fue crucial para el éxito del proyecto.</p>
+                    </p>
+                </li>
+                <li><strong>Alessandro Joaquin Bernardo Eusebio</strong>
             <p>
                 <strong>TB1</strong>
                 <p>

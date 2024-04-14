@@ -765,7 +765,27 @@ en horas tardías, generando miedo e incertidumbre sobre si su evento se llenar�
 <img src="./imagenes/As-is Scenario Mapping/As - Is 1.jpg"/>
 
 <h2>2.3 Ubiquitous Language</h2>
+<dl>
+  <dt>Event Organizers</dt>
+    <dd>Individuos o entidades responsables de planificar, promocionar y gestionar eventos, incluida la venta de entradas.</dd>
+  <dt>Ticket Purchase</dt>
+    <dd>El proceso de comprar boletos para eventos a través de una plataforma en línea o puntos de venta físicos.</dd>
+  <dt>Ticket Sale</dt>
+    <dd>El proceso de vender boletos para eventos a través de una plataforma en línea o puntos de venta físicos.</dd>
+  <dt>User Registration</dt>
+    <dd>El proceso mediante el cual los individuos crean cuentas en la plataforma de venta de entradas, proporcionando la información necesaria para comprar boletos.</dd>
+  <dt>Event Discovery</dt>
+    <dd>El proceso de encontrar y explorar varios eventos disponibles para asistir, a menudo facilitado por opciones de búsqueda y filtros.</dd>
 
+  <dt>Secure Transactions</dt>
+    <dd>Transacciones realizadas en la plataforma que están protegidas y encriptadas para garantizar la seguridad de la información financiera de los usuarios.</dd>
+  <dt>Event Promotion</dt>
+    <dd>Actividades realizadas para aumentar la conciencia e interés en eventos específicos, a menudo involucrando campañas de marketing y colaboraciones con organizadores.</dd>
+  <dt>Ticket Authenticity</dt>
+    <dd>Aseguramiento de que las entradas compradas a través de la plataforma son genuinas y válidas para ingresar al evento.</dd>
+  <dt>Event Variety</dt>
+    <dd>La diversidad de eventos disponibles para comprar en la plataforma, que atiende a diferentes interes</dd>
+</dl>
     
 <h1>CAPÍTULO III: REQUIREMENTS SPECIFICATION</h1>
 <h2>3.1 To-Be Scenario Mapping</h2>

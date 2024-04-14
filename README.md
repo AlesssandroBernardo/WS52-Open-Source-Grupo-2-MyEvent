@@ -80,12 +80,10 @@ Alessandro Joaquin Bernardo Eusebio  - U202113640
                 <li><strong>Michael Stefano Carmelino Dueñas</strong></li>
                 <p>
                     <strong>TB1</strong>
-                    <p>Desarrollo e implementación de:</p>
-                    <p>Entrevista a cada uno de los segmentos objetivos</p>
-                    <p>To-Be Scenario Mapping</p>
-                    <p> User Stories</p>
-                    <p> Product Backlog</p>
-                    <p>Programación de la Landing Page
+                    <p>
+                        En el proyecto, las parte que realicé fue la elabolaración del To-Be Scenario Mapping, el User Stories y mis entrevistas que realizar, una a cada segmento objetivo,
+                        desarrollé tambíen el product backlog y la pogramación del Landing Page, demostrando la coordianción y liderazgo que tengo tanto como para poder realizar reuniones
+                        separación de partes y un trabajo igualitario para todos.
                     </p>
                   </p>
                 <li><strong>Luis Mario Gonzales Anaya</strong></li>

@@ -146,6 +146,13 @@ Alessandro Joaquin Bernardo Eusebio  - U202113640
                 <p>En el proyecto de ingeniería, comuniqué de manera objetiva y clara ideas y resultados por escrito a audiencias diversas. Esto incluyó la elaboración de documentos como User Personas, una User Task Matrix, informes de entrevistas y Diagramas de Clases y de Base de Datos. Mi habilidad para transmitir información técnica fue crucial para el éxito del proyecto.</p>
             </p>
     </li>
+                    <li><strong>Alessandro Joaquin Bernardo Eusebio</strong>
+            <p>
+                <strong>TB1</strong>
+                <p>
+En el contexto del desarrollo de un proyecto en ingeniería, se llevó a cabo una comunicación objetiva y clara de ideas y resultados a audiencias de diversas especialidades y niveles jerárquicos. Durante la elaboración de los journey maps y el análisis de las entrevistas al segmento organizador de eventos, se transmitieron los hallazgos de manera precisa y sin sesgos, adaptando el lenguaje técnico según la audiencia. Del mismo modo, al desarrollar el prototipo de la aplicación web y al redactar el capítulo 5 sobre la implementación del producto, se mantuvo una comunicación que permitió la comprensión tanto a expertos en ingeniería como a aquellos con menos experiencia en el área, asegurando la objetividad y la claridad en la presentación de los resultados y las ideas.</p>
+            </p>
+    </li>
                 </ul>
         </td>
         <td>

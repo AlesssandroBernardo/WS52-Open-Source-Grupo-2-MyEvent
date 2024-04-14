@@ -23,7 +23,6 @@
 
 **Relación de Integrantes:**
 
-[Nombre del Integrante 1]
 
 Michael Stefano Carmelino Dueñas - U202212760
 
@@ -54,14 +53,13 @@ Alessandro Joaquin Bernardo Eusebio  - U202113640
         <td>10 de abril de 2024</td></td>
         <td>
             <ul>
-                <li></li>
                 <li>Michael Stefano Carmelino Dueñas</li>
                 <li>Luis Mario Gonzales Anaya</li>
                 <li>Piero Jhoynner Muñoz Salcedo</li>
                 <li>Luis Alejandro Zárate Gamarra</li>
                 <li>Alessandro Joaquin Bernardo Eusebio</li>
 
-            </ul>
+</ul>
         </td>
         <td>Se formuló una solución para abordar la oportunidad identificada y se procedió a desarrollar los primeros cinco capítulos del proyecto, desde la Introducción hasta la Implementación del Producto, Validación y Despliegue. De esta manera, hemos completado la fase inicial del proyecto según la estructura indicada en este informe.</td>
     </tr>
@@ -76,11 +74,9 @@ Alessandro Joaquin Bernardo Eusebio  - U202113640
         <th>Conclusiones</th>
     </tr>
     <tr>
-        <td><strong>Comunica oralmente con efectividad a
-        diferentes rangos de audiencia</strong></td>
+        <td><strong>Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería</strong></td>
         <td>
             <ul style="list-style-type: none;">
-                <li><strong>1</strong></li>
                 <li><strong>Michael Stefano Carmelino Dueñas</strong></li>
                 <p>
                     <strong>TB1</strong>
@@ -115,13 +111,10 @@ Alessandro Joaquin Bernardo Eusebio  - U202113640
                     <p>Web Applications Mock-ups</p>
                     <p>Web Applications User Flow Diagrams</p>
                   </p>
-                <li><strong>4</strong></li>
                 <li><strong>Luis Alejandro Zárate Gamarra</strong>
                   <p>
                     <strong>TB1</strong>
-                    <p>
-                      Desarrollo e implementación de los capítulos 2 y 3...
-                    </p>
+                    <p>De acuerdo al objetivo en las etapas de análisis de competidores y desarrollo de estrategias se mantuvo una comunicación efectiva con los diversos usuarios involucrados en las etapas de investigación, análisis y estudio. Asimismo, se presentaron los resultados de forma clara en las secciones de los empathy maps y as-is scenario mapping. </p>
                   </p>
                 </li>   
                 <li><strong>Alessandro Joaquin Bernardo Eusebio</strong>
@@ -140,11 +133,26 @@ Alessandro Joaquin Bernardo Eusebio  - U202113640
         <td>
           <p>
             <strong>TB1</strong>
-              <p>
-                Se analizó una problemática que afecta a dos segmentos
-              </p>
+              <p>Se realizó una investigación que sustente de forma concreta la solución planteada al problema y se analizaron los casos que afecta a dos segmentos (clientes y organizadores de eventos), de forma simultánea se fue desarrollando la solución y apartados del presente proyecto, manteniendo las buenas prácticas de desarrollo, implementación y comunicación. </p>
           </p>
         </td>
+        <tr>
+        <td><stron>Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería.</stron>stron></td>
+        <td>
+         <li><strong>Luis Alejandro Zárate Gamarra</strong>
+                  <p>
+                    <strong>TB1</strong>
+                    <p>De acuerdo al objetivo en las etapas de análisis de competidores y desarrollo de estrategias se mantuvo una presentación de la información óptima con los diversos usuarios involucrados en las etapas de investigación, análisis y estudio. Asimismo, se presentaron los resultados escritos de forma clara en las secciones de los empathy maps y as-is scenario mapping. </p>
+                  </p>
+                </li>
+        </td>
+        <td>
+            <p>
+            <strong>TB1</strong>
+              <p>Se realizó una investigación que sustente de forma concreta la solución planteada al problema y se analizaron los casos que afecta a dos segmentos (clientes y organizadores de eventos), de forma simultánea se fue desarrollando la solución y apartados del presente proyecto, manteniendo las buenas prácticas de escritura, presentación y entrega </p>
+          </p>
+        </td>
+        </tr>
     </tr>
 </table>
 

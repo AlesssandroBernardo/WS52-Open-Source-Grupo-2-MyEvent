@@ -282,7 +282,7 @@ En el contexto del desarrollo de un proyecto en ingeniería, se llevó a cabo un
   <p class="justificado">Soy estudiante de Ingeniería de Software en la UPC y cuento con conocimientos intermedios en desarrollo web, administración y gestión de entornos LMS, análisis de tecnologías móviles y diseño y maquetación de entornos web. Me considero una persona responsalbe y empática, con capacidad para trabajar de forma colaborativa. Durante el transcurso de mi desarrollo me interesa cada vez más involucrar mis conocimientos en el ámbito educativo. Me gusta realizar actividades sociales y disfrutar el tiempo con amigos y familia.</p>
 
   <p><strong>Luis Mario Gonzales Anaya</strong></p>
-  <img src = "" width="150" height="200">
+  <img src = "./imagenes/MarioGonzales.jpg" width="200" height="200">
   <p class="justificado">Estudio Ingeniería de Software en la UPC. Me gusta dibujar y ayudar a los demás en lo que mi capacidad me permite, tengo experiencia en la programación y otras ramas, me gusta aprender siempre y ser alguien parcial. Estoy encantado de ser parte de este grupo y daré todo mi esfuerzo para que este proyecto demuestre un buen rendimiento.</p>
 
 </div>

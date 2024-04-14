@@ -116,11 +116,7 @@ Alessandro Joaquin Bernardo Eusebio  - U202113640
                 <li><strong>Alessandro Joaquin Bernardo Eusebio</strong>
                   <p>
                     <strong>TB1</strong>
-                    <p>
-                      Desarrollo e implementacion del capitulo 5
-                    </p>
-                    <p>Desarrollo del sprint 1 perteneciente al Landing Page</p>
-                  </p>
+                    <p>Durante las fases de elaboración de los journey maps y análisis de entrevistas al segmento organizador de eventos, se mantuvo una comunicación fluida y efectiva con los diversos usuarios involucrados en estas actividades. Se realizaron entrevistas exhaustivas para comprender las necesidades y expectativas del segmento objetivo, y los resultados se presentaron de manera clara y concisa en los journey maps y en el análisis correspondiente. Además, durante la elaboración del prototipo de la aplicación web y la creación del capítulo 5 sobre la implementación del producto, se continuó esta comunicación eficaz, asegurando que los usuarios estuvieran involucrados en el proceso y que los resultados se presentaran de forma accesible y comprensible en el prototipo y en el documento final.</p>
                 </li> 
             </ul>
                 </li>    

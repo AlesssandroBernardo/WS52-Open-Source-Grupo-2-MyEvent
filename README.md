@@ -1109,189 +1109,189 @@ en horas tardías, generando miedo e incertidumbre sobre si su evento se llenar�
   <tbody>
     <tr>
       <td>1</td>
-      <td>EP01</td>
+      <td>US01</td>
       <td>Autenticación de usuario</td>
       <td>Como usuario quiero registrarme e iniciar sesión Para acceder a MyEvent</td>
       <td>3</td>
     </tr>
     <tr>
       <td>2</td>
-      <td>EP02</td>
+      <td>US02</td>
       <td>Creación de eventos</td>
       <td>Como organizador de eventos Quiero poder crear y publicar eventos en la plataforma Para promover mi evento y vender entradas</td>
       <td>5</td>
     </tr>
     <tr>
       <td>3</td>
-      <td>EP03</td>
+      <td>EUS03</td>
       <td>Exploración de eventos</td>
       <td>Como usuario interesado en eventos Quiero poder buscar y filtrar eventos disponibles Para encontrar eventos que me interesen</td>
       <td>3</td>
     </tr>
     <tr>
       <td>4</td>
-      <td>EP04</td>
+      <td>US04</td>
       <td>Compra de entradas</td>
       <td>Como comprador de entradas Quiero poder seleccionar y comprar entradas Para asegurar mi participación en eventos</td>
       <td>8</td>
     </tr>
     <tr>
       <td>5</td>
-      <td>EP05</td>
+      <td>US05</td>
       <td>Opción Premium para Revendedores</td>
       <td>Como revendedor Quiero tener una opción premium Para obtener ventajas sobre otros compradores</td>
       <td>5</td>
     </tr>
     <tr>
       <td>6</td>
-      <td>EP06</td>
+      <td>US06</td>
       <td>Transferencia de Entradas</td>
       <td>Como usuario que ya ha comprado entradas Quiero poder transferirlas a otros usuarios Para permitir que otros disfruten del evento</td>
       <td>3</td>
     </tr>
     <tr>
       <td>7</td>
-      <td>EP07</td>
+      <td>US07</td>
       <td>Membresía de Descuentos Periódicos</td>
       <td>Como usuario fiel a la plataforma Quiero recibir descuentos especiales periódicamente Para incentivar mi participación continua</td>
       <td>2</td>
     </tr>
     <tr>
       <td>8</td>
-      <td>EP08</td>
+      <td>US08</td>
       <td>Membresía de Concursos y Sorteos Exclusivos</td>
       <td>Como miembro de la plataforma, quiero participar en concursos y sorteos exclusivos para ganar entradas gratuitas y experiencias VIP, para disfrutar de beneficios adicionales y experiencias únicas.</td>
       <td>3</td>
     </tr>
     <tr>
       <td>9</td>
-      <td>EP09</td>
+      <td>US09</td>
       <td>Membresía de Contenido Exclusivo</td>
       <td>Como suscriptor premium, quiero tener acceso a contenido exclusivo relacionado con eventos, como transmisiones en vivo y entrevistas detrás de escena, para disfrutar de una experiencia más completa y enriquecedora.</td>
       <td>5</td>
     </tr>
     <tr>
       <td>10</td>
-      <td>EP10</td>
+      <td>US10</td>
       <td>Membresía de Prioridad en Servicio al Cliente</td>
       <td>Como usuario premium, quiero recibir atención prioritaria en el servicio al cliente, con tiempos de respuesta más rápidos y asistencia personalizada, para sentirme valorado y apoyado como cliente leal.</td>
       <td>3</td>
     </tr>
   <tr>
       <td>11</td>
-      <td>EP11</td>
+      <td>US11</td>
       <td>Membresía de Descuentos en Futuras Compras</td>
       <td>Como usuario habitual de la plataforma, quiero recibir descuentos para futuras compras de entradas Para incentivar mi lealtad y continuar utilizando el servicio</td>
       <td>3</td>
     </tr>
     <tr>
       <td>12</td>
-      <td>EP12</td>
+      <td>US12</td>
       <td>Entradas Gratis para Eventos Seleccionados</td>
       <td>Como usuario frecuente de la plataforma, quiero tener la oportunidad de obtener entradas gratuitas Para disfrutar de eventos sin costo adicional y fomentar mi fidelidad</td>
       <td>5</td>
     </tr>
     <tr>
       <td>13</td>
-      <td>EP13</td>
+      <td>US13</td>
       <td>Acceso a Preventas Exclusivas</td>
       <td>Como usuario frecuente de la plataforma, quiero tener acceso exclusivo a preventas de eventos populares Para asegurar mi participación en eventos de alto demanda</td>
       <td>3</td>
     </tr>
     <tr>
       <td>14</td>
-      <td>EP14</td>
+      <td>US14</td>
       <td>Puntos de Fidelidad o Programa de Recompensas</td>
       <td>Como usuario frecuente de la plataforma, quiero acumular puntos de fidelidad por cada compra de entradas Para canjearlos por descuentos, entradas gratis u otros beneficios</td>
       <td>5</td>
     </tr>
     <tr>
       <td>15</td>
-      <td>EP15</td>
+      <td>US15</td>
       <td>Niveles de Entrada con Descuento</td>
       <td>Como usuario frecuente de la plataforma, quiero acceder a precios especiales de entrada después de realizar cierto número de compras Para disfrutar de beneficios adicionales y promociones exclusivas</td>
       <td>3</td>
     </tr>
     <tr>
       <td>16</td>
-      <td>EP16</td>
+      <td>US16</td>
       <td>Notificaciones de Eventos y Ofertas</td>
       <td>Como usuario de la plataforma, quiero recibir notificaciones sobre eventos nuevos y ofertas especiales Para estar al tanto de las últimas novedades y oportunidades</td>
       <td>2</td>
     </tr>
     <tr>
       <td>17</td>
-      <td>EP17</td>
+      <td>US17</td>
       <td>Integración con Redes Sociales</td>
       <td>Como usuario de la plataforma, quiero poder compartir eventos y experiencias en mis redes sociales Para ampliar el alcance de la plataforma y compartir intereses con amigos</td>
       <td>2</td>
     </tr>
     <tr>
       <td>18</td>
-      <td>EP18</td>
+      <td>US18</td>
       <td>Soporte Multilingüe</td>
       <td>Como usuario de la plataforma, quiero poder acceder a la aplicación en varios idiomas Para facilitar la navegación y comprensión del contenido</td>
       <td>1</td>
     </tr>
     <tr>
       <td>19</td>
-      <td>EP19</td>
+      <td>US19</td>
       <td>Integración con Mapas y Direcciones</td>
       <td>Como usuario de la plataforma, quiero tener acceso a información de ubicación y direcciones de eventos Para facilitar la planificación y asistencia a los mismos</td>
       <td>3</td>
     </tr>
     <tr>
       <td>20</td>
-      <td>EP20</td>
+      <td>US20</td>
       <td>Calificación y Reseñas de Eventos</td>
       <td>Como usuario de la plataforma, quiero poder calificar y dejar reseñas sobre eventos a los que asistí Para compartir experiencias y ayudar a otros usuarios en su decisión de compra</td>
       <td>2</td>
     </tr>
     <tr>
       <td>21</td>
-      <td>EP21</td>
+      <td>US21</td>
       <td>Asistencia en Vivo y Chat en Línea</td>
       <td>Como usuario de la plataforma, quiero tener acceso a asistencia en vivo y chat en línea Para resolver consultas rápidamente y recibir ayuda durante la navegación</td>
       <td>3</td>
     </tr>
     <tr>
       <td>22</td>
-      <td>EP22</td>
+      <td>US22</td>
       <td>Estadísticas y Análisis de Participación</td>
       <td>Como organizador de eventos, quiero acceder a estadísticas y análisis detallados sobre la participación en mis eventos Para evaluar su éxito y mejorar la planificación futura</td>
       <td>5</td>
     </tr>
     <tr>
       <td>23</td>
-      <td>EP23</td>
+      <td>US23</td>
       <td>Integración con Plataformas de Streaming</td>
       <td>Como usuario de la plataforma, quiero tener acceso a transmisiones en vivo y contenido exclusivo de eventos Para disfrutar de experiencias virtuales y ampliar mi participación en eventos</td>
       <td>3</td>
     </tr>
     <tr>
       <td>24</td>
-      <td>EP24</td>
+      <td>US24</td>
       <td>Verificación de Identidad para Revendedores</td>
       <td>Como revendedor de entradas, quiero completar un proceso de verificación de identidad Para garantizar la legitimidad de mis transacciones y proteger la integridad de la plataforma</td>
       <td>3</td>
     </tr>
     <tr>
       <td>25</td>
-      <td>EP25</td>
+      <td>US25</td>
       <td>Integración con Plataformas de Pago Internacionales</td>
       <td>Como usuario internacional de la plataforma, quiero poder utilizar diferentes métodos de pago Para facilitar la compra de entradas desde cualquier parte del mundo</td>
       <td>3</td>
     </tr>
     <tr>
       <td>26</td>
-      <td>EP26</td>
+      <td>US26</td>
       <td>Reserva de Entradas</td>
       <td>Como usuario de la plataforma, quiero tener la opción de reservar entradas para eventos populares Para garantizar mi participación antes de la venta general</td>
       <td>3</td>
     </tr>
     <tr>
       <td>27</td>
-      <td>EP27</td>
+      <td>US27</td>
       <td>Reembolso y Política de Devoluciones</td>
       <td>Como usuario de la plataforma, quiero conocer la política de reembolso y devoluciones Para tomar decisiones informadas sobre mis compras de entradas</td>
       <td>2</td>
@@ -1448,10 +1448,12 @@ Para la tipografia escojimos Calibri, ya que es conocida por su alta legibilidad
 <p>Link del Figma Desktop Web Browser : https://www.figma.com/file/dDsv9BCQHxxzDUz3hqTTyp/Landing-Page-Wireframe--Desarrollo-Open-Source?type=design&mode=design&t=baNvdMOlwkRcVvBE-1</p>
 <p>Link del Figma Mobile Web Browser : https://www.figma.com/file/3uZbQ58V4KBA7Yexsds130/Mobile-Browser-Frames?type=design&node-id=2%3A1523&mode=design&t=LddOPqpidUhOV053-1</p>
 <br>
+
+
 <h2>4.4 Web Applications UX/UI Design</h2>
 <h3>4.4.1 Web Applications Wireframes</h3>
 
-<td>Vista para Usuario General</td>
+<td>Vista para Usuario General Desktop</td>
 <br><br>
 <td>Segmento de inicio:</td>
 <img src="./imagenes/webaplicationwireframe.JPG"/>
@@ -1465,9 +1467,26 @@ Para la tipografia escojimos Calibri, ya que es conocida por su alta legibilidad
 <td>Segmento de adquisición de entradas:</td>
 <img src="./imagenes/webaplicationwireframe6.JPG"/>
 <img src="./imagenes/webaplicationwireframe7.JPG"/>
-<p>Link del Figma : https://www.figma.com/file/KbCtpsbMWS1zaDDdYl8vAQ/Web-Applications-Mock-ups?type=design&node-id=0%3A1&mode=design&t=dWTASblpDbT7DnVi-1</p>
+
+<td>Vista para Usuario General Mobile</td>
+<br><br>
+<td>Segmento de inicio:</td>
+<img src="./imagenes/wireframemovilevista1-1.JPG"/>
+<img src="./imagenes/wireframemovilevista1-2.JPG"/>
+<img src="./imagenes/wireframemovilevista1-3.JPG"/>
+
+<td>Segmento de información sobre eventos, conciertos y discotecas:</td>
+<img src="./imagenes/wireframemovilevista1-4.JPG"/>
+<img src="./imagenes/wireframemovilevista1-5.JPG"/>
+
+<td>Segmento de adquisición de entradas:</td>
+<img src="./imagenes/wireframemovilevista1-6.JPG"/>
+<img src="./imagenes/wireframemovilevista1-7.JPG"/>
+
+<p>Link del Figma versión Desktop : https://www.figma.com/file/KbCtpsbMWS1zaDDdYl8vAQ/Web-Applications-Mock-ups?type=design&node-id=0%3A1&mode=design&t=dWTASblpDbT7DnVi-1</p>
+<p>Link del Figma versión Mobile : https://www.figma.com/file/VsGGV9OHCnbJSWwbjAs4Kh/mobile-browser-segmento-1?type=design&node-id=0-1&mode=design&t=3BrNxAAcfaISctQV-0</p>
 <br>
-<td>Vista para Usuario Empresarial:</td>
+<td>Vista para Usuario Empresarial Desktop:</td>
 <br>
 <td>Segmento de inicio, el usuario inicia sesión con su cuenta empresarial o de lo contrario se registra como un usuario nuevo.</td>
 <img src="./imagenes/webaplicationwireframe.JPG"/>
@@ -1481,7 +1500,23 @@ Para la tipografia escojimos Calibri, ya que es conocida por su alta legibilidad
 <img src="./imagenes/mockupusuarioempresarial2.JPG"/>
 <img src="./imagenes/mockupusuarioempresarial3.JPG"/>
 <img src="./imagenes/mockupusuarioempresarial4.JPG"/>
-<p>Link del Figma : https://www.figma.com/file/xWLUYV6msjOPbmQIWzbZyK/Landing-Page-Mock-up%2FWireframe?type=design&node-id=0%3A1&mode=design&t=nFbwSDvqLBXYbfay-1</p>
+
+<td>Vista para Usuario Empresarial Mobile:</td>
+<br>
+<td>Segmento de inicio, el usuario inicia sesión con su cuenta empresarial o de lo contrario se registra como un usuario nuevo.</td>
+<img src="./imagenes/wireframemovilevista2-1.JPG"/>
+<img src="./imagenes/wireframemovilevista2-2.JPG"/>
+<img src="./imagenes/wireframemovilevista2-3.JPG"/>
+
+<td>Segmento de calendario y eventos agendados, aqui se puede visualizar la información de los eventos pendientes e iniciar el proceso de crear un nuevo evento.</td>
+<img src="./imagenes/wireframemovilevista2-4.JPG"/>
+
+<td>Segmento de creación del evento, aqui se podrá crear el evento y especificar todos sus detalles para que los usuarios generales lo puedan ver.</td>
+<img src="./imagenes/wireframemovilevista2-5.JPG"/>
+<img src="./imagenes/wireframemovilevista2-6.JPG"/>
+<img src="./imagenes/wireframemovilevista2-7.JPG"/>
+<p>Link del Figma versión Desktop : https://www.figma.com/file/xWLUYV6msjOPbmQIWzbZyK/Landing-Page-Mock-up%2FWireframe?type=design&node-id=0%3A1&mode=design&t=nFbwSDvqLBXYbfay-1</p>
+<p>Link del Figma versión Mobile : https://www.figma.com/file/yhHjtKTApN1ALAU1GOZfG7/movile-browser-segmento-2?type=design&node-id=0-1&mode=design&t=DUcoJd5TgZWbcJXi-0</p>
 <br>
 <h3>4.4.2 Web Applications Wireflow Diagrams</h3>
 <td>User Persona:Usuario General.</td><br>
@@ -1497,7 +1532,7 @@ Para la tipografia escojimos Calibri, ya que es conocida por su alta legibilidad
 <br>
 
 <h3>4.4.2 Web Applications Mock-ups</h3>
-<td>Vista para Usuario General:</td>
+<td>Vista para Usuario General Desktop:</td>
 <br><br>
 <td>Segmento de inicio, el usuario inicia sesión con su cuenta general o de lo contrario se registra como usuario nuevo.</td>
 <img src="./imagenes/mockup 1.JPG"/>
@@ -1511,9 +1546,26 @@ Para la tipografia escojimos Calibri, ya que es conocida por su alta legibilidad
 <td>Segmento de adquisición de entradas, aqui los usuarios confirmarán su compra y elegirán el numero de entradas que desean adquirir. Posteriormente podrán descargar su voucher de pago y volver al menú de selección de eventos.</td>
 <img src="./imagenes/compramockup1.JPG"/>
 <img src="./imagenes/compramockup2.JPG"/>
-<p>Link del Figma : https://www.figma.com/file/KbCtpsbMWS1zaDDdYl8vAQ/Web-Applications-Mock-ups?type=design&node-id=0%3A1&mode=design&t=dWTASblpDbT7DnVi-1</p>
+
+<td>Vista para Usuario General Mobile:</td>
+<br><br>
+<td>Segmento de inicio, el usuario inicia sesión con su cuenta general o de lo contrario se registra como usuario nuevo.</td>
+<img src="./imagenes/mockupmovilevista1-1.JPG"/>
+<img src="./imagenes/mockupmovilevista1-2.JPG"/>
+<img src="./imagenes/mockupmovilevista1-3.JPG"/>
+
+<td>Segmento de información sobre eventos, conciertos y discotecas. Aqui los usuarios cuentan con multiples opciones a su elección. Además, encontrará una breve información del evento,junto a la fecha, dirección, entre otros. </td>
+<img src="./imagenes/mockupmovilevista1-4.JPG"/>
+<img src="./imagenes/mockupmovilevista1-5.JPG"/>
+
+<td>Segmento de adquisición de entradas, aqui los usuarios confirmarán su compra y elegirán el numero de entradas que desean adquirir. Posteriormente podrán descargar su voucher de pago y volver al menú de selección de eventos.</td>
+<img src="./imagenes/mockupmovilevista1-6.JPG"/>
+<img src="./imagenes/mockupmovilevista1-7.JPG"/>
+<p>Link del Figma versión Desktop: https://www.figma.com/file/KbCtpsbMWS1zaDDdYl8vAQ/Web-Applications-Mock-ups?type=design&node-id=0%3A1&mode=design&t=dWTASblpDbT7DnVi-1</p>
+<p>Link del Figma versión Mobile: https://www.figma.com/file/VsGGV9OHCnbJSWwbjAs4Kh/mobile-browser-segmento-1?type=design&node-id=0-1&mode=design&t=3BrNxAAcfaISctQV-0</p>
 <br>
-<td>Vista para Usuario Empresarial:</td>
+
+<td>Vista para Usuario Empresarial Desktop:</td>
 <br><br>
 <td>Segmento de inicio, el usuario inicia sesión con su cuenta empresarial o de lo contrario se registra como un usuario nuevo.</td>
 <img src="./imagenes/mockup 1.JPG"/>
@@ -1526,6 +1578,23 @@ Para la tipografia escojimos Calibri, ya que es conocida por su alta legibilidad
 <img src="./imagenes/wireframeusuarioempresarial2.JPG"/>
 <img src="./imagenes/wireframeusuarioempresarial3.JPG"/>
 <img src="./imagenes/wireframeusuarioempresarial4.JPG"/>
+
+<td>Vista para Usuario Empresarial Mobile:</td>
+<br><br>
+<td>Segmento de inicio, el usuario inicia sesión con su cuenta empresarial o de lo contrario se registra como un usuario nuevo.</td>
+<img src="./imagenes/mockupmovilevista1-1.JPG"/>
+<img src="./imagenes/mockupmovilevista1-2.JPG"/>
+<img src="./imagenes/mockupmovilevista1-3.JPG"/>
+
+<td>Segmento de calendario y eventos agendados, aqui se puede visualizar la información de los eventos pendientes e iniciar el proceso de crear un nuevo evento.</td>
+<img src="./imagenes/mockupmovilevista2-1.JPG"/>
+<td>Segmento de creación del evento, aqui se podrá crear el evento y especificar todos sus detalles para que los usuarios generales lo puedan ver.</td>
+<img src="./imagenes/mockupmovilevista2-2.JPG"/>
+<img src="./imagenes/mockupmovilevista2-3.JPG"/>
+<img src="./imagenes/mockupmovilevista2-4.JPG"/>
+<p>Link del Figma version Desktop : https://www.figma.com/file/xWLUYV6msjOPbmQIWzbZyK/Landing-Page-Mock-up?type=design&node-id=0%3A1&mode=design&t=nFbwSDvqLBXYbfay-1</p>
+<p>Link del Figma version Mobile : https://www.figma.com/file/yhHjtKTApN1ALAU1GOZfG7/movile-browser-segmento-2?type=design&node-id=0-1&mode=design&t=DUcoJd5TgZWbcJXi-0</p>
+<br>
 <p>Link del Figma : https://www.figma.com/file/xWLUYV6msjOPbmQIWzbZyK/Landing-Page-Mock-up?type=design&node-id=0%3A1&mode=design&t=nFbwSDvqLBXYbfay-1</p>
 <br>
 <h3>4.4.3 Web Applications User Flow Diagrams</h3>

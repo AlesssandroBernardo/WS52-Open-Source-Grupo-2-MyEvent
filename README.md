@@ -791,11 +791,47 @@ en horas tardías, generando miedo e incertidumbre sobre si su evento se llenar�
 <h1>CAPÍTULO III: REQUIREMENTS SPECIFICATION</h1>
 <h2>3.1 To-Be Scenario Mapping</h2>
 <img src="./imagenes/t.jpg"/>
+
 <h2>3.2 User Stories</h2>
+
 <table>
   <thead>
     <tr>
-      <th>Epic / Story ID</th>
+      <th>Epics</th>
+      <th>Descripción</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+     <td>EP01</td>
+      <td>Como nuevo usuario de la plataforma, quiero poder crear una cuenta con mi información, acceder y gestionar mi perfil, y tener una experiencia personalizada e intuitiva al ingresar a la plataforma web.</td> 
+        </tr>
+      <tr>
+     <td>EP02</td>
+      <td>Como organizador de eventos, quiero poder crear eventos, así como gestionar el proceso de ventas y finanzas de manera eficiente a través de la plataforma.
+</td> 
+        </tr>
+      <tr>
+     <td>EP03</td>
+      <td>Como comprador de entradas, quiero una plataforma optimizada para acceder a información detallada de los eventos, al proceso de compra, en caso suceda, al reembolso o transferencia de mis entradas y a una comunicación intuitiva.</td> 
+        </tr>
+      <tr>
+     <td>EP04</td>
+      <td>Como comprador de entradas frecuente, quiero acceso a beneficios, descuentos y recompensas por mi lealtad en la plataforma al adquirir entradas.</td> 
+        </tr>
+      <tr>
+     <td>EP05</td>
+      <td>Como usuario de la plataforma, quiero poder crear un perfil de revendedor que respalde mi integridad para acceder a beneficios unicos.</td> 
+        </tr>
+</tbody>
+</table>
+
+<h4>Historias de Usuarios</h4>
+
+<table>
+  <thead>
+    <tr>
+      <th>Story ID</th>
       <th>Título</th>
       <th>Descripción</th>
       <th>Criterios de aceptación</th>

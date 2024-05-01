@@ -1123,7 +1123,7 @@ en horas tardías, generando miedo e incertidumbre sobre si su evento se llenar�
     </tr>
     <tr>
       <td>3</td>
-      <td>EUS03</td>
+      <td>US03</td>
       <td>Exploración de eventos</td>
       <td>Como usuario interesado en eventos Quiero poder buscar y filtrar eventos disponibles Para encontrar eventos que me interesen</td>
       <td>3</td>
@@ -1471,17 +1471,17 @@ Para la tipografia escojimos Calibri, ya que es conocida por su alta legibilidad
 <td>Vista para Usuario General Mobile</td>
 <br><br>
 <td>Segmento de inicio:</td>
-<img src="./imagenes/wireframemovilevista1-1.JPG"/>
-<img src="./imagenes/wireframemovilevista1-2.JPG"/>
-<img src="./imagenes/wireframemovilevista1-3.JPG"/>
+<img src="./imagenes/wireframemovilevista1-1.PNG"/>
+<img src="./imagenes/wireframemovilevista1-2.PNG"/>
+<img src="./imagenes/wireframemovilevista1-3.PNG"/>
 
 <td>Segmento de información sobre eventos, conciertos y discotecas:</td>
-<img src="./imagenes/wireframemovilevista1-4.JPG"/>
-<img src="./imagenes/wireframemovilevista1-5.JPG"/>
+<img src="./imagenes/wireframemovilevista1-4.PNG"/>
+<img src="./imagenes/wireframemovilevista1-5.PNG"/>
 
 <td>Segmento de adquisición de entradas:</td>
-<img src="./imagenes/wireframemovilevista1-6.JPG"/>
-<img src="./imagenes/wireframemovilevista1-7.JPG"/>
+<img src="./imagenes/wireframemovilevista1-6.PNG"/>
+<img src="./imagenes/wireframemovilevista1-7.PNG"/>
 
 <p>Link del Figma versión Desktop : https://www.figma.com/file/KbCtpsbMWS1zaDDdYl8vAQ/Web-Applications-Mock-ups?type=design&node-id=0%3A1&mode=design&t=dWTASblpDbT7DnVi-1</p>
 <p>Link del Figma versión Mobile : https://www.figma.com/file/VsGGV9OHCnbJSWwbjAs4Kh/mobile-browser-segmento-1?type=design&node-id=0-1&mode=design&t=3BrNxAAcfaISctQV-0</p>
@@ -1504,17 +1504,17 @@ Para la tipografia escojimos Calibri, ya que es conocida por su alta legibilidad
 <td>Vista para Usuario Empresarial Mobile:</td>
 <br>
 <td>Segmento de inicio, el usuario inicia sesión con su cuenta empresarial o de lo contrario se registra como un usuario nuevo.</td>
-<img src="./imagenes/wireframemovilevista2-1.JPG"/>
-<img src="./imagenes/wireframemovilevista2-2.JPG"/>
-<img src="./imagenes/wireframemovilevista2-3.JPG"/>
+<img src="./imagenes/wireframemovilevista2-1.PNG"/>
+<img src="./imagenes/wireframemovilevista2-2.PNG"/>
+<img src="./imagenes/wireframemovilevista2-3.PNG"/>
 
 <td>Segmento de calendario y eventos agendados, aqui se puede visualizar la información de los eventos pendientes e iniciar el proceso de crear un nuevo evento.</td>
-<img src="./imagenes/wireframemovilevista2-4.JPG"/>
+<img src="./imagenes/wireframemovilevista2-4.PNG"/>
 
 <td>Segmento de creación del evento, aqui se podrá crear el evento y especificar todos sus detalles para que los usuarios generales lo puedan ver.</td>
-<img src="./imagenes/wireframemovilevista2-5.JPG"/>
-<img src="./imagenes/wireframemovilevista2-6.JPG"/>
-<img src="./imagenes/wireframemovilevista2-7.JPG"/>
+<img src="./imagenes/wireframemovilevista2-5.PNG"/>
+<img src="./imagenes/wireframemovilevista2-6.PNG"/>
+<img src="./imagenes/wireframemovilevista2-7.PNG"/>
 <p>Link del Figma versión Desktop : https://www.figma.com/file/xWLUYV6msjOPbmQIWzbZyK/Landing-Page-Mock-up%2FWireframe?type=design&node-id=0%3A1&mode=design&t=nFbwSDvqLBXYbfay-1</p>
 <p>Link del Figma versión Mobile : https://www.figma.com/file/yhHjtKTApN1ALAU1GOZfG7/movile-browser-segmento-2?type=design&node-id=0-1&mode=design&t=DUcoJd5TgZWbcJXi-0</p>
 <br>
@@ -1550,17 +1550,17 @@ Para la tipografia escojimos Calibri, ya que es conocida por su alta legibilidad
 <td>Vista para Usuario General Mobile:</td>
 <br><br>
 <td>Segmento de inicio, el usuario inicia sesión con su cuenta general o de lo contrario se registra como usuario nuevo.</td>
-<img src="./imagenes/mockupmovilevista1-1.JPG"/>
-<img src="./imagenes/mockupmovilevista1-2.JPG"/>
-<img src="./imagenes/mockupmovilevista1-3.JPG"/>
+<img src="./imagenes/mockupmovilevista1-1.PNG"/>
+<img src="./imagenes/mockupmovilevista1-2.PNG"/>
+<img src="./imagenes/mockupmovilevista1-3.PNG"/>
 
 <td>Segmento de información sobre eventos, conciertos y discotecas. Aqui los usuarios cuentan con multiples opciones a su elección. Además, encontrará una breve información del evento,junto a la fecha, dirección, entre otros. </td>
-<img src="./imagenes/mockupmovilevista1-4.JPG"/>
-<img src="./imagenes/mockupmovilevista1-5.JPG"/>
+<img src="./imagenes/mockupmovilevista1-4.PNG"/>
+<img src="./imagenes/mockupmovilevista1-5.PNG"/>
 
 <td>Segmento de adquisición de entradas, aqui los usuarios confirmarán su compra y elegirán el numero de entradas que desean adquirir. Posteriormente podrán descargar su voucher de pago y volver al menú de selección de eventos.</td>
-<img src="./imagenes/mockupmovilevista1-6.JPG"/>
-<img src="./imagenes/mockupmovilevista1-7.JPG"/>
+<img src="./imagenes/mockupmovilevista1-6.PNG"/>
+<img src="./imagenes/mockupmovilevista1-7.PNG"/>
 <p>Link del Figma versión Desktop: https://www.figma.com/file/KbCtpsbMWS1zaDDdYl8vAQ/Web-Applications-Mock-ups?type=design&node-id=0%3A1&mode=design&t=dWTASblpDbT7DnVi-1</p>
 <p>Link del Figma versión Mobile: https://www.figma.com/file/VsGGV9OHCnbJSWwbjAs4Kh/mobile-browser-segmento-1?type=design&node-id=0-1&mode=design&t=3BrNxAAcfaISctQV-0</p>
 <br>
@@ -1582,16 +1582,16 @@ Para la tipografia escojimos Calibri, ya que es conocida por su alta legibilidad
 <td>Vista para Usuario Empresarial Mobile:</td>
 <br><br>
 <td>Segmento de inicio, el usuario inicia sesión con su cuenta empresarial o de lo contrario se registra como un usuario nuevo.</td>
-<img src="./imagenes/mockupmovilevista1-1.JPG"/>
-<img src="./imagenes/mockupmovilevista1-2.JPG"/>
-<img src="./imagenes/mockupmovilevista1-3.JPG"/>
+<img src="./imagenes/mockupmovilevista1-1.PNG"/>
+<img src="./imagenes/mockupmovilevista1-2.PNG"/>
+<img src="./imagenes/mockupmovilevista1-3.PNG"/>
 
 <td>Segmento de calendario y eventos agendados, aqui se puede visualizar la información de los eventos pendientes e iniciar el proceso de crear un nuevo evento.</td>
-<img src="./imagenes/mockupmovilevista2-1.JPG"/>
+<img src="./imagenes/mockupmovilevista2-1.PNG"/>
 <td>Segmento de creación del evento, aqui se podrá crear el evento y especificar todos sus detalles para que los usuarios generales lo puedan ver.</td>
-<img src="./imagenes/mockupmovilevista2-2.JPG"/>
-<img src="./imagenes/mockupmovilevista2-3.JPG"/>
-<img src="./imagenes/mockupmovilevista2-4.JPG"/>
+<img src="./imagenes/mockupmovilevista2-2.PNG"/>
+<img src="./imagenes/mockupmovilevista2-3.PNG"/>
+<img src="./imagenes/mockupmovilevista2-4.PNG"/>
 <p>Link del Figma version Desktop : https://www.figma.com/file/xWLUYV6msjOPbmQIWzbZyK/Landing-Page-Mock-up?type=design&node-id=0%3A1&mode=design&t=nFbwSDvqLBXYbfay-1</p>
 <p>Link del Figma version Mobile : https://www.figma.com/file/yhHjtKTApN1ALAU1GOZfG7/movile-browser-segmento-2?type=design&node-id=0-1&mode=design&t=DUcoJd5TgZWbcJXi-0</p>
 <br>

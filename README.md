@@ -825,7 +825,7 @@ en horas tardías, generando miedo e incertidumbre sobre si su evento se llenar�
         </tr>
        <tr>
      <td>EP06</td>
-      <td>Como comprador de entradas, quiero tener acceso a una subscripción premium para acceder a beneficios únicos y personalizables, y contenido exclusivo de la plataforma</td> 
+      <td>Como comprador de entradas, quiero tener acceso a una subscripción premium para acceder a beneficios únicos y personalizables, y contenido exclusivo de la plataforma.</td> 
         </tr>
 </tbody>
 </table>

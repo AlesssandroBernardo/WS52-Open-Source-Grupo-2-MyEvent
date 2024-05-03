@@ -1647,20 +1647,20 @@ Para la tipografia escojimos Calibri, ya que es conocida por su alta legibilidad
     <li>Fecha de suspension</li>
 </ul>
 
-<td><strong>Cliente</strong></td>
-<p>Usuario que solo puede comprar y ver los eventos disponibles en el aplicativo, tiene un metodo de pago para pagar sus boletos/entradas</p>
+<td><strong>Cartera</strong></td>
+<p>Clase que administra las tarjetas del usuario, puede tener varias para pagar entradas, como recibir el dinero de sus entradas revendidas.</p>
 
-<td><strong>Revenvedor</strong></td>
-<p>Un cliente puede volverse un revendedor, para eso necesita registrar donde sera almacenado su dinero.</p>
+<td><strong>Tarjeta</strong></td>
+<p>Objeto en el cual se almacena el dinero del usuario y sirve para hacer diversas transacciones.</p>
+
+<td><strong>Cliente</strong></td>
+<p>Usuario que solo puede comprar y ver los eventos disponibles en el aplicativo, tiene un metodo de pago para pagar sus entradas, tambien dandole la capacidad de revender sus entradas/entradas</p>
 
 <td><strong>Organizador</strong></td>
 <p>Usuario que solo puede ofertar y administrar eventos en el aplicativo, esta ligado a una empresa.</p>
 
-<td><strong>Boleto</strong></td>
+<td><strong>Entrada</strong></td>
 <p>Posee toda la informacion de compra como el precio y datos del evento, usuario y categoria de boleto.</p>
-
-<td><strong>Categoria</strong></td>
-<p>Se usa para clasificar los boletos de un evento, ya se por ubicacion, calidad u otro factor. La categoria afecta el precio del boleto.</p>
 
 <td><strong>Evento</strong></td>
 <p>Los eventos pueden ser conciertos, obras de teatro, etc.</p>
@@ -1674,14 +1674,8 @@ Para la tipografia escojimos Calibri, ya que es conocida por su alta legibilidad
     <li>Un total de boletos/entradas</li>
 </ul>
 
-<td><strong>Precio</strong></td>
-<p>El precio cambia segun el evento y sus categorias, toda esta informacion es registrada por el organizador.</p>
-
 <td><strong>Lugar</strong></td>
 <p>Es una ubicación fisica donde reside un local.</p>
-
-<td><strong>RUC</strong></td>
-<p>Es el padrón que contiene los datos de identificación de las actividades económicas y demás información relevante de los sujetos inscritos.</p>
 
 <td><strong>Sede</strong></td>
 <p>Es el lugar donde se va a dar a cabo el evento, tiene un numero de asientos limitado.</p>
